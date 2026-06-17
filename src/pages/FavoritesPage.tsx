@@ -16,32 +16,33 @@ export function FavoritesPage() {
     .filter((exp) => favorites.includes(exp.id))
 
   return (
-    <div className="mx-auto max-w-[640px] px-4 sm:px-6 py-6 sm:py-10 lg:py-14">
-      <h1 className="text-[24px] sm:text-[32px] font-[700] text-[#1d1d1f] leading-tight tracking-[-0.02em] mb-1">
-        ❤️ 收藏的表达
+    <div className="mx-auto max-w-[640px] px-6 py-12 lg:py-16">
+      <h1 className="text-[40px] sm:text-[56px] font-[500] text-[#111111] leading-[1.1] tracking-[-1.4px] mb-1">
+        Favorites
       </h1>
-      <p className="text-[14px] sm:text-base text-[#86868b] mb-5 sm:mb-6">
-        共 <span className="font-semibold text-[#1d1d1f]">{allExpressions.length}</span> 条收藏
+      <p className="text-[14px] text-[#626260] mb-8">
+        <span className="tabular-nums">{allExpressions.length}</span> saved expressions
       </p>
 
       {allExpressions.length === 0 ? (
-        <div className="rounded-[16px] sm:rounded-2xl border-2 border-dashed border-[#e8e8ed] bg-white px-6 py-10 sm:p-12 text-center">
-          <p className="text-[15px] sm:text-lg text-[#86868b]">还没有收藏任何表达</p>
-          <p className="mt-1 text-[13px] sm:text-sm text-[#c7c7cc]">浏览章节时点击 ♡ 按钮即可收藏</p>
+        <div className="bg-white border border-[#d3cec6] px-6 py-10 text-center" style={{ borderRadius: 12 }}>
+          <p className="text-[#7b7b78] text-[14px]">No favorites yet</p>
+          <p className="mt-1 text-[12px] text-[#9c9fa5]">Tap ♥ on any expression to save it</p>
           <Link
             to="/"
-            className="mt-5 inline-flex items-center gap-1.5 rounded-[12px] bg-[#0071e3] px-5 py-3 text-[15px] font-semibold text-white no-underline hover:bg-[#0077ed] transition-colors shadow-sm"
+            className="mt-5 inline-flex items-center px-4 py-2 bg-[#111111] text-white text-[13px] font-[500] no-underline hover:bg-[#111111]/90 transition-colors"
+            style={{ borderRadius: 8 }}
           >
-            开始学习
+            Start Learning
           </Link>
         </div>
       ) : (
-        <div className="space-y-3 sm:space-y-4">
+        <div className="space-y-3">
           {allExpressions.map((exp) => (
             <div key={exp.id}>
               <Link
                 to={`/chapters/${exp.chapter}`}
-                className="mb-1 ml-1 inline-flex items-center gap-1 text-[12px] sm:text-sm text-[#0071e3] no-underline hover:text-[#0077ed] transition-colors font-medium"
+                className="mb-1 ml-1 inline-flex items-center gap-1 text-[11px] text-[#7b7b78] no-underline hover:text-[#111111] transition-colors"
               >
                 ← {exp.chapterTitle}
               </Link>

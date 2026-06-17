@@ -1,6 +1,7 @@
 import type { Expression } from '../data/types'
 import { useFavoritesStore } from '../stores/favoritesStore'
 import { useProgressStore } from '../stores/progressStore'
+import { SpeakButton } from './SpeakButton'
 
 interface Props {
   expression: Expression
@@ -14,48 +15,54 @@ export function ExpressionCard({ expression }: Props) {
 
   return (
     <div
-      className={`animate-fade-up rounded-[20px] bg-white transition-all duration-200 ${
+      className={`animate-fade-up bg-white border transition-all duration-200 ${
         done
-          ? 'shadow-sm'
-          : 'shadow-sm hover:shadow-md'
+          ? 'border-[#ebe7e1]'
+          : 'border-[#d3cec6] hover:border-[#c0bbb2]'
       }`}
+      style={{ borderRadius: 12 }}
     >
-      <div className="px-5 sm:px-7 pt-5 sm:pt-6 pb-4 sm:pb-5">
-        {/* Top row: expression + actions */}
-        <div className="flex items-start justify-between gap-3 sm:gap-5">
+      <div className="px-6 py-5">
+        {/* Top row */}
+        <div className="flex items-start justify-between gap-4">
           <div className="flex-1 min-w-0">
-            <h3 className="text-[22px] sm:text-[26px] font-[700] text-[#1d1d1f] leading-[1.25] tracking-[-0.02em]">
-              {expression.expression}
-            </h3>
-            <p className="mt-1.5 text-[13px] sm:text-[15px] text-[#86868b] leading-snug font-[400] tracking-[-0.01em]">
+            <div className="flex items-center gap-2">
+              <h3 className="text-[22px] font-[500] text-[#111111] leading-[1.25] tracking-[-0.3px]">
+                {expression.expression}
+              </h3>
+              <SpeakButton text={expression.expression} />
+            </div>
+            <p className="mt-1 text-[14px] text-[#626260] leading-snug">
               {expression.literalTranslation}
             </p>
           </div>
 
           {/* Actions */}
-          <div className="flex items-center gap-2 shrink-0 pt-0.5">
+          <div className="flex items-center gap-2 shrink-0">
             <button
               onClick={() => {
                 if (done) unmarkCompleted(expression.chapter, expression.id)
                 else markCompleted(expression.chapter, expression.id)
               }}
-              className={`flex h-9 w-9 items-center justify-center rounded-full text-base font-semibold transition-all duration-150 ${
+              className={`flex h-8 w-8 items-center justify-center text-sm font-[500] transition-all duration-150 ${
                 done
-                  ? 'bg-[#0071e3] text-white'
-                  : 'bg-[#f5f5f7] text-[#86868b] hover:bg-[#e8e8ed] hover:text-[#1d1d1f]'
+                  ? 'bg-[#111111] text-white'
+                  : 'bg-[#ebe7e1] text-[#7b7b78] hover:bg-[#d3cec6] hover:text-[#111111]'
               }`}
               title={done ? '标记未学' : '标记已学'}
+              style={{ borderRadius: 8 }}
             >
               ✓
             </button>
             <button
               onClick={() => toggleFavorite(expression.id)}
-              className={`flex h-9 w-9 items-center justify-center rounded-full text-lg transition-all duration-150 ${
+              className={`flex h-8 w-8 items-center justify-center text-base transition-all duration-150 ${
                 fav
-                  ? 'bg-[#ff3b30] text-white'
-                  : 'bg-[#f5f5f7] text-[#86868b] hover:bg-[#e8e8ed] hover:text-[#1d1d1f]'
+                  ? 'bg-[#111111] text-white'
+                  : 'bg-[#ebe7e1] text-[#7b7b78] hover:bg-[#d3cec6] hover:text-[#111111]'
               }`}
               title={fav ? '取消收藏' : '收藏'}
+              style={{ borderRadius: 8 }}
             >
               {fav ? '♥' : '♡'}
             </button>
@@ -63,36 +70,43 @@ export function ExpressionCard({ expression }: Props) {
         </div>
 
         {/* Separator */}
-        <div className="my-5 h-px bg-[#f0f0f2]" />
+        <div className="my-4 hairline" />
 
-        {/* Natural meaning — Chinese-heavy, more spacing */}
-        <p className="text-[17px] sm:text-[19px] text-[#1d1d1f] leading-[1.7] font-[500] tracking-[0.01em]">
+        {/* Natural meaning */}
+        <p className="text-[16px] text-[#111111] leading-[1.6] font-[400]">
           {expression.naturalMeaning}
         </p>
 
-        {/* Example sentence */}
-        <div className="mt-4 rounded-[14px] bg-[#f5f5f7] px-5 py-4">
-          <p className="text-[15px] sm:text-[17px] text-[#1d1d1f] leading-[1.6] italic tracking-[-0.01em]">
-            “{expression.example}”
-          </p>
-          <p className="mt-2 text-[13px] sm:text-[15px] text-[#86868b] leading-[1.65] tracking-[0.01em]">
+        {/* Example */}
+        <div className="mt-4 px-4 py-3.5 bg-[#f5f1ec]" style={{ borderRadius: 8 }}>
+          <div className="flex items-start justify-between gap-2">
+            <p className="flex-1 text-[15px] text-[#111111] leading-[1.55] italic">
+              “{expression.example}”
+            </p>
+            <SpeakButton text={expression.example} />
+          </div>
+          <p className="mt-1.5 text-[13px] text-[#626260] leading-[1.5]">
             {expression.exampleTranslation}
           </p>
         </div>
 
-        {/* Tags */}
+        {/* Tags + frequency */}
         {(expression.tags.length > 0 || expression.frequency > 0) && (
           <div className="mt-4 flex flex-wrap items-center gap-1.5">
             {expression.tags.map((tag) => (
               <span
                 key={tag}
-                className="inline-flex items-center rounded-full bg-[#f5f5f7] px-3 py-1 text-[12px] text-[#86868b] font-[500]"
+                className="inline-flex items-center px-2.5 py-0.5 text-[11px] font-[400] text-[#626260] bg-[#f5f1ec]"
+                style={{ borderRadius: 4 }}
               >
                 {tag}
               </span>
             ))}
             {expression.frequency > 0 && (
-              <span className="inline-flex items-center gap-0.5 rounded-full bg-[#f5f5f7] px-3 py-1 text-[12px] text-[#86868b]">
+              <span
+                className="inline-flex items-center gap-0.5 px-2.5 py-0.5 text-[11px] text-[#9c9fa5]"
+                style={{ borderRadius: 4 }}
+              >
                 {'★'.repeat(expression.frequency)}
                 {'☆'.repeat(5 - expression.frequency)}
               </span>
