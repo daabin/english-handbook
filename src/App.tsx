@@ -8,7 +8,7 @@ import { SearchPage } from './pages/SearchPage'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/english-handbook">
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<HomePage />} />
