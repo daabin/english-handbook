@@ -2,36 +2,40 @@ import { NavLink } from 'react-router-dom'
 import { books } from '../data'
 import { useProgressStore } from '../stores/progressStore'
 
-export function Sidebar() {
+interface SidebarProps {
+  onClose?: () => void
+}
+
+export function Sidebar({ onClose }: SidebarProps) {
+  const linkClick = () => onClose?.()
+
   return (
-    <aside className="w-72 shrink-0 border-r border-slate-200 bg-white overflow-y-auto h-screen sticky top-0">
+    <aside className="w-64 shrink-0 border-r border-[#e8e8ed] bg-white overflow-y-auto h-screen sticky top-0 md:h-screen">
       {/* Header */}
-      <div className="px-5 py-5 border-b border-slate-100">
-        <NavLink to="/" className="flex items-center gap-2 no-underline">
-          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-linear-to-br from-sky-400 to-blue-500 text-sm font-bold text-white shadow-sm">
+      <div className="px-5 pt-6 pb-4 border-b border-[#f0f0f2]">
+        <NavLink to="/" onClick={linkClick} className="flex items-center gap-2.5 no-underline">
+          <span className="flex h-8 w-8 items-center justify-center rounded-[10px] bg-[#0071e3] text-sm font-semibold text-white">
             E
           </span>
           <div>
-            <p className="text-base font-bold text-slate-800 leading-tight">English Handbook</p>
-            <p className="text-[11px] text-slate-400 leading-tight">American Tech English</p>
+            <p className="text-[14px] font-semibold text-[#1d1d1f] leading-tight">English Handbook</p>
+            <p className="text-[11px] text-[#86868b] leading-tight mt-px">American Tech English</p>
           </div>
         </NavLink>
       </div>
 
-      <nav className="p-3">
-        {/* Navigation items */}
+      <nav className="px-3 pt-3">
         <div className="space-y-0.5">
-          <NavItem to="/" label="📊 首页" />
-          <NavItem to="/search" label="🔍 搜索" />
-          <NavItem to="/favorites" label="❤️ 收藏" />
+          <NavItem to="/" label="📊 首页" onClick={linkClick} />
+          <NavItem to="/search" label="🔍 搜索" onClick={linkClick} />
+          <NavItem to="/favorites" label="❤️ 收藏" onClick={linkClick} />
         </div>
 
-        <div className="my-4 border-t border-slate-100" />
+        <div className="my-4 mx-2 h-px bg-[#f0f0f2]" />
 
-        {/* Books */}
-        <div className="space-y-3">
+        <div className="space-y-2">
           {books.map((book) => (
-            <BookSection key={book.id} bookId={book.id} title={book.title} />
+            <BookSection key={book.id} bookId={book.id} title={book.title} onClick={linkClick} />
           ))}
         </div>
       </nav>
@@ -39,16 +43,17 @@ export function Sidebar() {
   )
 }
 
-function NavItem({ to, label }: { to: string; label: string }) {
+function NavItem({ to, label, onClick }: { to: string; label: string; onClick?: () => void }) {
   return (
     <NavLink
       to={to}
       end
+      onClick={onClick}
       className={({ isActive }) =>
-        `flex items-center gap-2 rounded-xl px-3 py-2.5 text-sm font-medium transition-all duration-150 no-underline ${
+        `flex items-center gap-2 rounded-[10px] px-3 py-2 text-[14px] font-medium transition-all duration-150 no-underline ${
           isActive
-            ? 'bg-linear-to-r from-sky-50 to-blue-50 text-sky-700 border border-sky-100'
-            : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700 border border-transparent'
+            ? 'bg-[#f5f5f7] text-[#0071e3]'
+            : 'text-[#86868b] hover:bg-[#f5f5f7] hover:text-[#1d1d1f]'
         }`
       }
     >
@@ -57,7 +62,7 @@ function NavItem({ to, label }: { to: string; label: string }) {
   )
 }
 
-function BookSection({ bookId }: { bookId: string; title: string }) {
+function BookSection({ bookId, title, onClick }: { bookId: string; title: string; onClick?: () => void }) {
   const book = books.find((b) => b.id === bookId)
   if (!book) return null
 
@@ -65,19 +70,20 @@ function BookSection({ bookId }: { bookId: string; title: string }) {
     <div>
       <NavLink
         to={`/books/${bookId}`}
+        onClick={onClick}
         className={({ isActive }) =>
-          `flex items-center gap-2 rounded-xl px-3 py-2 text-sm font-semibold transition-all duration-150 no-underline ${
+          `block rounded-[10px] px-3 py-2 text-[13px] font-semibold transition-all duration-150 no-underline ${
             isActive
-              ? 'bg-linear-to-r from-sky-50 to-blue-50 text-sky-700 border border-sky-100'
-              : 'text-slate-600 hover:bg-slate-50 border border-transparent'
+              ? 'bg-[#f5f5f7] text-[#0071e3]'
+              : 'text-[#1d1d1f] hover:bg-[#f5f5f7] hover:text-[#0071e3]'
           }`
         }
       >
-        {book.title}
+        {title}
       </NavLink>
-      <div className="ml-1 mt-1 space-y-0.5 border-l-2 border-slate-100 pl-2">
+      <div className="ml-2 mt-0.5 space-y-0.5">
         {book.chapters.map((ch) => (
-          <ChapterLink key={ch.id} chapterId={ch.id} title={ch.title} count={ch.count} />
+          <ChapterLink key={ch.id} chapterId={ch.id} title={ch.title} count={ch.count} onClick={onClick} />
         ))}
       </div>
     </div>
@@ -88,10 +94,12 @@ function ChapterLink({
   chapterId,
   title,
   count,
+  onClick,
 }: {
   chapterId: string
   title: string
   count: number
+  onClick?: () => void
 }) {
   const { getChapterProgress } = useProgressStore()
   const { done } = getChapterProgress(chapterId, count)
@@ -99,19 +107,20 @@ function ChapterLink({
   return (
     <NavLink
       to={`/chapters/${chapterId}`}
+      onClick={onClick}
       className={({ isActive }) =>
-        `flex items-center justify-between rounded-lg px-3 py-1.5 text-xs transition-all duration-150 no-underline ${
+        `flex items-center justify-between rounded-lg px-3 py-1.5 text-[13px] transition-all duration-150 no-underline ${
           isActive
-            ? 'bg-sky-50 text-sky-700 font-medium'
-            : 'text-slate-400 hover:bg-slate-50 hover:text-slate-600'
+            ? 'bg-[#f5f5f7] text-[#0071e3] font-medium'
+            : 'text-[#86868b] hover:bg-[#f5f5f7] hover:text-[#1d1d1f]'
         }`
       }
     >
       <span className="truncate">{title}</span>
       {done > 0 && (
-        <span className="ml-2 shrink-0 flex items-center gap-1 text-emerald-500 font-medium">
-          <span className="w-1.5 h-1.5 rounded-full bg-emerald-400" />
-          <span className="text-[10px]">{done}/{count}</span>
+        <span className="ml-2 shrink-0 flex items-center gap-1 text-[#0071e3] text-[12px] font-medium">
+          <span className="w-1 h-1 rounded-full bg-[#0071e3]" />
+          <span>{done}/{count}</span>
         </span>
       )}
     </NavLink>

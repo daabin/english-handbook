@@ -26,71 +26,74 @@ export function ChapterPage() {
 
   if (!chapter || !book) {
     return (
-      <div className="p-8">
-        <p className="text-slate-500">章节未找到</p>
-        <Link to="/" className="text-sm text-sky-600">返回首页</Link>
+      <div className="px-4 py-8">
+        <p className="text-[#86868b]">章节未找到</p>
+        <Link to="/" className="text-sm text-[#0071e3]">返回首页</Link>
       </div>
     )
   }
 
-  const progressPct = chapter.count > 0 ? Math.round((done / chapter.count) * 100) : 0
+  const pct = chapter.count > 0 ? Math.round((done / chapter.count) * 100) : 0
 
   return (
-    <div className="mx-auto max-w-3xl px-6 py-8 lg:py-10">
-      {/* Breadcrumb */}
-      <div className="flex items-center gap-2 text-sm text-slate-400 mb-6">
-        <Link to="/" className="no-underline text-slate-400 hover:text-sky-600 transition-colors">
-          首页
-        </Link>
-        <span className="text-slate-300">›</span>
-        <Link to={`/books/${book.id}`} className="no-underline text-slate-400 hover:text-sky-600 transition-colors">
+    <div className="mx-auto max-w-[640px] px-4 sm:px-6 py-6 sm:py-10 lg:py-14">
+      {/* Breadcrumb — hidden on very small screens */}
+      <nav className="hidden sm:flex items-center gap-1.5 text-[13px] text-[#86868b] mb-6 lg:mb-8">
+        <Link to="/" className="no-underline text-[#86868b] hover:text-[#0071e3] transition-colors">首页</Link>
+        <span className="text-[#c7c7cc]">/</span>
+        <Link to={`/books/${book.id}`} className="no-underline text-[#86868b] hover:text-[#0071e3] transition-colors">
           {book.title}
         </Link>
-        <span className="text-slate-300">›</span>
-        <span className="text-slate-600 font-medium">{chapter.title}</span>
-      </div>
+        <span className="text-[#c7c7cc]">/</span>
+        <span className="text-[#1d1d1f] font-medium">{chapter.title}</span>
+      </nav>
 
-      {/* Chapter Header — Duolingo-like card */}
-      <div className="rounded-2xl bg-white shadow-sm border border-slate-200 px-6 py-6 mb-6">
-        <div className="flex items-start justify-between gap-4">
-          <div>
-            <h1 className="text-2xl font-extrabold text-slate-900 leading-tight">{chapter.title}</h1>
-            <p className="mt-1 text-base text-slate-500">{chapter.description}</p>
+      {/* Chapter header */}
+      <div className="animate-fade-up mb-6 sm:mb-8">
+        <div className="flex items-start justify-between gap-3">
+          <div className="min-w-0">
+            <h1 className="text-[22px] sm:text-[28px] font-[700] text-[#1d1d1f] leading-[1.15] tracking-[-0.02em]">
+              {chapter.title}
+            </h1>
+            <p className="mt-1 text-[14px] sm:text-[15px] text-[#86868b]">
+              {chapter.description}
+            </p>
           </div>
-          {/* Chapter count badge */}
-          <div className="shrink-0 rounded-xl bg-sky-50 border border-sky-100 px-4 py-2 text-center">
-            <p className="text-2xl font-extrabold text-sky-600 leading-none">{chapter.count}</p>
-            <p className="text-[11px] text-sky-400 font-medium mt-0.5">表达</p>
+          <div className="shrink-0 text-right">
+            <p className="text-[20px] sm:text-[22px] font-[700] text-[#0071e3] leading-none">{chapter.count}</p>
+            <p className="text-[11px] sm:text-[12px] text-[#86868b] mt-0.5">expressions</p>
           </div>
         </div>
 
-        {/* Progress bar */}
-        <div className="mt-5">
+        {/* Progress */}
+        <div className="mt-4 sm:mt-6 rounded-[14px] sm:rounded-[14px] bg-white shadow-sm px-4 sm:px-5 py-3 sm:py-4">
           <div className="flex items-center justify-between mb-2">
-            <div className="flex items-center gap-1.5">
-              <span className="text-sm text-slate-500 font-medium">学习进度</span>
-              {done === chapter.count && done > 0 && (
-                <span className="inline-flex items-center gap-0.5 rounded-full bg-emerald-50 border border-emerald-200 px-2.5 py-0.5 text-xs font-semibold text-emerald-600">
-                  ✓ 已完成
-                </span>
-              )}
-            </div>
-            <span className="text-sm font-bold text-sky-600">{done}/{chapter.count}</span>
+            <span className="text-[12px] sm:text-[13px] text-[#86868b] font-medium">Progress</span>
+            <span className="text-[12px] sm:text-[13px] text-[#0071e3] font-semibold">{done}/{chapter.count}</span>
           </div>
-          <div className="h-3 w-full overflow-hidden rounded-full bg-slate-100 shadow-inner">
+          <div className="h-[5px] sm:h-[6px] rounded-full bg-[#f0f0f2] overflow-hidden">
             <div
-              className="h-full rounded-full progress-glow transition-all duration-500 ease-out"
-              style={{ width: `${progressPct}%` }}
+              className="h-full rounded-full progress-apple transition-all duration-500 ease-out"
+              style={{ width: `${pct}%` }}
             />
           </div>
+          {done === chapter.count && done > 0 && (
+            <p className="mt-2 text-[11px] sm:text-[12px] text-[#30d158] font-semibold">✓ 已完成全部表达</p>
+          )}
         </div>
       </div>
 
       {/* Expression list */}
-      <div className="space-y-4">
-        {expressions.map((exp) => (
-          <ExpressionCard key={exp.id} expression={exp} />
-        ))}
+      <div className="space-y-3 sm:space-y-4">
+        {expressions.length === 0 ? (
+          <div className="rounded-[20px] bg-white shadow-sm px-6 py-8 text-center">
+            <p className="text-[#86868b] text-[15px]">内容加载中...</p>
+          </div>
+        ) : (
+          expressions.map((exp) => (
+            <ExpressionCard key={exp.id} expression={exp} />
+          ))
+        )}
       </div>
     </div>
   )

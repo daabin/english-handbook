@@ -16,30 +16,32 @@ export function FavoritesPage() {
     .filter((exp) => favorites.includes(exp.id))
 
   return (
-    <div className="mx-auto max-w-3xl px-6 py-8 lg:py-10">
-      <h1 className="text-3xl font-extrabold text-slate-900 mb-2">❤️ 收藏的表达</h1>
-      <p className="text-base text-slate-500 mb-6">
-        共 <span className="font-semibold text-slate-600">{allExpressions.length}</span> 条收藏
+    <div className="mx-auto max-w-[640px] px-4 sm:px-6 py-6 sm:py-10 lg:py-14">
+      <h1 className="text-[24px] sm:text-[32px] font-[700] text-[#1d1d1f] leading-tight tracking-[-0.02em] mb-1">
+        ❤️ 收藏的表达
+      </h1>
+      <p className="text-[14px] sm:text-base text-[#86868b] mb-5 sm:mb-6">
+        共 <span className="font-semibold text-[#1d1d1f]">{allExpressions.length}</span> 条收藏
       </p>
 
       {allExpressions.length === 0 ? (
-        <div className="rounded-2xl border-2 border-dashed border-slate-200 bg-white p-12 text-center">
-          <p className="text-lg text-slate-400">还没有收藏任何表达</p>
-          <p className="mt-1 text-sm text-slate-300">浏览章节时点击 ♡ 按钮即可收藏</p>
+        <div className="rounded-[16px] sm:rounded-2xl border-2 border-dashed border-[#e8e8ed] bg-white px-6 py-10 sm:p-12 text-center">
+          <p className="text-[15px] sm:text-lg text-[#86868b]">还没有收藏任何表达</p>
+          <p className="mt-1 text-[13px] sm:text-sm text-[#c7c7cc]">浏览章节时点击 ♡ 按钮即可收藏</p>
           <Link
             to="/"
-            className="mt-5 inline-flex items-center gap-1.5 rounded-xl bg-sky-500 px-5 py-3 text-base font-semibold text-white no-underline hover:bg-sky-600 transition-colors shadow-sm"
+            className="mt-5 inline-flex items-center gap-1.5 rounded-[12px] bg-[#0071e3] px-5 py-3 text-[15px] font-semibold text-white no-underline hover:bg-[#0077ed] transition-colors shadow-sm"
           >
-            📚 开始学习
+            开始学习
           </Link>
         </div>
       ) : (
-        <div className="space-y-4">
+        <div className="space-y-3 sm:space-y-4">
           {allExpressions.map((exp) => (
             <div key={exp.id}>
               <Link
                 to={`/chapters/${exp.chapter}`}
-                className="mb-1 ml-1 inline-flex items-center gap-1 text-sm text-sky-500 no-underline hover:text-sky-700 transition-colors font-medium"
+                className="mb-1 ml-1 inline-flex items-center gap-1 text-[12px] sm:text-sm text-[#0071e3] no-underline hover:text-[#0077ed] transition-colors font-medium"
               >
                 ← {exp.chapterTitle}
               </Link>
