@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "ch08-001",
+    "chapter": "ch08",
+    "expression": "walk me through that",
+    "literalTranslation": "带我过一遍那个",
+    "naturalMeaning": "请从头到尾详细解释一遍，一步一步地说清楚",
+    "example": "I'm not quite following — can you walk me through that flow one more time?",
+    "exampleTranslation": "我没太跟上——你能把那个流程再详细走一遍吗？",
+    "tags": [
+      "meetings",
+      "workplace",
+      "software-engineering"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-002",
+    "chapter": "ch08",
+    "expression": "in plain English",
+    "literalTranslation": "用大白话说",
+    "naturalMeaning": "别用术语绕弯子，用最简单直白的方式解释清楚",
+    "example": "Can someone translate that requirement into plain English for the dev team?",
+    "exampleTranslation": "谁能把那个需求用大白话翻译给开发团队听？",
+    "tags": [
+      "workplace",
+      "meetings",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-003",
+    "chapter": "ch08",
+    "expression": "get on the same page",
+    "literalTranslation": "翻到同一页",
+    "naturalMeaning": "达成共识，确保所有人理解一致",
+    "example": "Before we move forward, let's make sure everyone is on the same page about what we're building.",
+    "exampleTranslation": "在推进之前，确保大家对要建什么的理解是一致的。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-004",
+    "chapter": "ch08",
+    "expression": "spell it out",
+    "literalTranslation": "拼写出来",
+    "naturalMeaning": "把细节说得清清楚楚，不要留模糊地带",
+    "example": "The spec is too vague — you need to spell out exactly what happens when the user hits that button.",
+    "exampleTranslation": "这个规格说明太模糊了——你需要把用户点那个按钮后到底发生什么讲清楚。",
+    "tags": [
+      "software-engineering",
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-005",
+    "chapter": "ch08",
+    "expression": "boil it down",
+    "literalTranslation": "煮干浓缩",
+    "naturalMeaning": "提炼核心要点，去掉不重要的细节",
+    "example": "Can you boil it down to one sentence? What's the core thing we're trying to solve here?",
+    "exampleTranslation": "你能用一句话概括吗？我们在这要解决的核心问题是什么？",
+    "tags": [
+      "meetings",
+      "workplace",
+      "software-engineering"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-006",
+    "chapter": "ch08",
+    "expression": "let me read that back",
+    "literalTranslation": "让我复述一遍",
+    "naturalMeaning": "用自己的话重复一遍以确保自己的理解是正确的",
+    "example": "So let me read that back — you're saying the report needs to refresh every 15 minutes, not 30?",
+    "exampleTranslation": "那我复述一遍确认——你是说报表需要每15分钟刷新一次，不是30分钟？",
+    "tags": [
+      "meetings",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-007",
+    "chapter": "ch08",
+    "expression": "in other words",
+    "literalTranslation": "换句话说",
+    "naturalMeaning": "换一种说法来确认理解或让对方换个角度理解",
+    "example": "In other words, the API should just return a 202 and process it async, right?",
+    "exampleTranslation": "换句话说，API应该直接返回202然后异步处理，对吧？",
+    "tags": [
+      "workplace",
+      "software-engineering",
+      "meetings"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-008",
+    "chapter": "ch08",
+    "expression": "what does that mean for",
+    "literalTranslation": "那对...意味着什么",
+    "naturalMeaning": "询问某个决定或变更对特定方/环节的具体影响",
+    "example": "If we move to microservices, what does that mean for the auth layer?",
+    "exampleTranslation": "如果我们转到微服务架构，那对认证层意味着什么？",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "technical"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-009",
+    "chapter": "ch08",
+    "expression": "is this in scope",
+    "literalTranslation": "这属于范围吗",
+    "naturalMeaning": "确认某个需求或功能是否属于当前项目的范围以内",
+    "example": "Before we go deeper — is performance tuning in scope for this sprint?",
+    "exampleTranslation": "在我们深入之前——性能优化算在这个迭代的范围里吗？",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-010",
+    "chapter": "ch08",
+    "expression": "where do we draw the line",
+    "literalTranslation": "我们在哪里画线",
+    "naturalMeaning": "明确边界在哪里，判断到什么程度为止",
+    "example": "This feature could go on forever — where do we draw the line for the MVP?",
+    "exampleTranslation": "这个功能可以无限做下去——我们在最小可行产品里把边界划在哪里？",
+    "tags": [
+      "meetings",
+      "software-engineering",
+      "leadership"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-011",
+    "chapter": "ch08",
+    "expression": "that's out of scope",
+    "literalTranslation": "那不属于范围",
+    "naturalMeaning": "明确指出某个需求或功能不在当前范围里，拒绝纳入",
+    "example": "I hate to be that person, but localization is out of scope for this release.",
+    "exampleTranslation": "我不想扫兴，但本地化不在这发布版本的范围里。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-012",
+    "chapter": "ch08",
+    "expression": "scope creep",
+    "literalTranslation": "范围蔓延",
+    "naturalMeaning": "需求在开发过程中不断膨胀扩大，超出原始范围",
+    "example": "We gotta be careful about scope creep — every 'small tweak' adds up fast.",
+    "exampleTranslation": "我们得小心范围蔓延——每个“小调整”加起来很快就多了。",
+    "tags": [
+      "software-engineering",
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-013",
+    "chapter": "ch08",
+    "expression": "nice-to-have",
+    "literalTranslation": "有了会更好",
+    "naturalMeaning": "非必要功能，做了更好但不做也不影响核心交付",
+    "example": "Let's tag everything as either must-have or nice-to-have so we know what to cut.",
+    "exampleTranslation": "我们把所有东西标为“必须”或“锦上添花”，这样就知道哪些能砍。",
+    "tags": [
+      "software-engineering",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-014",
+    "chapter": "ch08",
+    "expression": "let's save that for v2",
+    "literalTranslation": "我们留到第二版再做",
+    "naturalMeaning": "把某个功能推迟到后续版本，避免当前范围过载",
+    "example": "That dashboard customization is cool but let's save that for v2.",
+    "exampleTranslation": "那个仪表盘自定义挺酷的，但我们留到第二版再做吧。",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-015",
+    "chapter": "ch08",
+    "expression": "are we over-engineering this",
+    "literalTranslation": "我们是不是在过度设计",
+    "naturalMeaning": "质疑当前方案是否过于复杂，远超出了实际需求的必要程度",
+    "example": "Do we really need a real-time sync engine for a config file? Are we over-engineering this?",
+    "exampleTranslation": "一个配置文件真需要实时同步引擎吗？我们是不是搞复杂了？",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "technical"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-016",
+    "chapter": "ch08",
+    "expression": "edge case",
+    "literalTranslation": "边缘情况",
+    "naturalMeaning": "非主流的、不常见的用户场景或使用方式",
+    "example": "The happy path works fine, but there are like a dozen edge cases we haven't touched.",
+    "exampleTranslation": "正常流程没问题，但还有十几种边缘情况我们还没碰过。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-017",
+    "chapter": "ch08",
+    "expression": "corner case",
+    "literalTranslation": "角落情况",
+    "naturalMeaning": "比边缘情况更罕见的极端场景，多因素组合下才会触发",
+    "example": "What happens if the user uploads a 2GB file while offline on a phone? That's a real corner case.",
+    "exampleTranslation": "如果用户离线在手机上上传一个2GB的文件怎么办？那真是个极端情况。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-018",
+    "chapter": "ch08",
+    "expression": "what happens when",
+    "literalTranslation": "当...时发生什么",
+    "naturalMeaning": "预判一个具体场景下系统的行为，常用于讨论异常路径",
+    "example": "What happens when the payment gateway times out? Does the order still go through?",
+    "exampleTranslation": "如果支付网关超时了会发生什么？订单还会通过吗？",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "technical"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-019",
+    "chapter": "ch08",
+    "expression": "happy path",
+    "literalTranslation": "快乐路径",
+    "naturalMeaning": "一切顺利、无异常的最理想流程",
+    "example": "The happy path is fine, but requirements reviews are about what breaks.",
+    "exampleTranslation": "正常流程没问题，但需求评审看的是什么东西会出问题。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-020",
+    "chapter": "ch08",
+    "expression": "worst-case scenario",
+    "literalTranslation": "最坏的情况",
+    "naturalMeaning": "如果所有可能出错的事情都出错的情况下的应对方案",
+    "example": "What's the worst-case scenario if this service goes down for an hour?",
+    "exampleTranslation": "如果这个服务宕机一小时，最坏的情况是什么？",
+    "tags": [
+      "meetings",
+      "software-engineering",
+      "technical"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-021",
+    "chapter": "ch08",
+    "expression": "what if",
+    "literalTranslation": "如果...怎么办",
+    "naturalMeaning": "提出假设性场景来测试需求的完整性",
+    "example": "What if the user doesn't have JavaScript enabled? Does the form still work?",
+    "exampleTranslation": "如果用户禁用了JavaScript怎么办？表单还能用吗？",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "technical",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-022",
+    "chapter": "ch08",
+    "expression": "error state",
+    "literalTranslation": "错误状态",
+    "naturalMeaning": "系统在出错时的表现和展示方式",
+    "example": "The spec only covers the success page — where's the error state design?",
+    "exampleTranslation": "需求文档只覆盖了成功页面——错误状态的设计呢？",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-023",
+    "chapter": "ch08",
+    "expression": "loading state",
+    "literalTranslation": "加载状态",
+    "naturalMeaning": "数据正在加载时界面应该展示的内容",
+    "example": "We haven't discussed what the loading state looks like while the search results come back.",
+    "exampleTranslation": "我们还没讨论搜索结果返回前的加载状态应该是什么样。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-024",
+    "chapter": "ch08",
+    "expression": "blocked on",
+    "literalTranslation": "被...卡住了",
+    "naturalMeaning": "因为某个前置条件未满足而无法推进工作",
+    "example": "We're blocked on the design team — can't start frontend until the mockups are ready.",
+    "exampleTranslation": "我们被设计团队卡住了——设计稿没出来前端没法开工。",
+    "tags": [
+      "software-engineering",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-025",
+    "chapter": "ch08",
+    "expression": "upstream dependency",
+    "literalTranslation": "上游依赖",
+    "naturalMeaning": "需要在当前工作之前完成的前置依赖项",
+    "example": "The database migration is an upstream dependency — we can't launch without it.",
+    "exampleTranslation": "数据库迁移是个上游依赖——没有它我们发不了版。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-026",
+    "chapter": "ch08",
+    "expression": "downstream impact",
+    "literalTranslation": "下游影响",
+    "naturalMeaning": "当前变更对后续环节或系统造成的影响",
+    "example": "If we change the API contract, what's the downstream impact on the mobile team?",
+    "exampleTranslation": "如果我们改API契约，对移动端的下游影响是什么？",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-027",
+    "chapter": "ch08",
+    "expression": "hard dependency",
+    "literalTranslation": "硬依赖",
+    "naturalMeaning": "必须满足的强制性前提条件，没有替代方案",
+    "example": "The SSO integration is a hard dependency — the product literally won't work without it.",
+    "exampleTranslation": "单点登录集成是个硬依赖——没有它产品根本跑不起来。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-028",
+    "chapter": "ch08",
+    "expression": "this relies on",
+    "literalTranslation": "这依赖于",
+    "naturalMeaning": "指出某个功能或决策需要依赖其他模块或团队",
+    "example": "This feature relies on the new search infrastructure that hasn't been built yet.",
+    "exampleTranslation": "这个功能依赖还没建好的新搜索基础设施。",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-029",
+    "chapter": "ch08",
+    "expression": "we need X before we can Y",
+    "literalTranslation": "我们先需要X才能Y",
+    "naturalMeaning": "表达两个任务之间的先后依赖关系",
+    "example": "We need the data pipeline running before we can even start testing the dashboard.",
+    "exampleTranslation": "我们得先让数据管道跑起来才能开始测试仪表盘。",
+    "tags": [
+      "software-engineering",
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-030",
+    "chapter": "ch08",
+    "expression": "chicken and egg problem",
+    "literalTranslation": "鸡和蛋的问题",
+    "naturalMeaning": "A依赖B、B又依赖A的相互依赖困局",
+    "example": "We can't build the editor without the SDK, but the SDK needs the editor to test — total chicken and egg problem.",
+    "exampleTranslation": "没有SDK做不了编辑器，但SDK又需要编辑器来测试——典型的先有鸡还是先有蛋的问题。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-031",
+    "chapter": "ch08",
+    "expression": "trade-off",
+    "literalTranslation": "权衡取舍",
+    "naturalMeaning": "在多个选项中做取舍，接受某方面的代价换取另一方面的好处",
+    "example": "There's a trade-off between development speed and code quality — you can't maximize both.",
+    "exampleTranslation": "开发速度和代码质量之间需要权衡——你不可能两者都最大化。",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "technical",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-032",
+    "chapter": "ch08",
+    "expression": "pros and cons",
+    "literalTranslation": "优点和缺点",
+    "naturalMeaning": "列出每个选项的好处和坏处来帮助做决策",
+    "example": "Let's quickly list the pros and cons of using a third-party service vs. building in-house.",
+    "exampleTranslation": "我们快速列一下用第三方服务和自己做的优缺点。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-033",
+    "chapter": "ch08",
+    "expression": "pick your poison",
+    "literalTranslation": "选你的毒药",
+    "naturalMeaning": "两个都不理想的选项中选一个相对没那么差的，幽默表达",
+    "example": "Slower releases or more bugs — pick your poison. Those are the trade-offs here.",
+    "exampleTranslation": "发布更慢还是bug更多——你选一个吧。这就是这里的取舍。",
+    "tags": [
+      "software-engineering",
+      "casual",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-034",
+    "chapter": "ch08",
+    "expression": "you can't have it both ways",
+    "literalTranslation": "你不能两全其美",
+    "naturalMeaning": "明确指出对方提出的要求自相矛盾，必须做取舍",
+    "example": "You want real-time sync AND zero bandwidth usage? You can't have it both ways.",
+    "exampleTranslation": "你要实时同步又要零带宽消耗？这俩不能同时成立。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-035",
+    "chapter": "ch08",
+    "expression": "at the expense of",
+    "literalTranslation": "以...为代价",
+    "naturalMeaning": "指出某个做法会牺牲另一方面的利益",
+    "example": "We could ship faster, but at the expense of test coverage and stability.",
+    "exampleTranslation": "我们可以更快发布，但代价是测试覆盖率和稳定性。",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-036",
+    "chapter": "ch08",
+    "expression": "sweet spot",
+    "literalTranslation": "最佳甜点",
+    "naturalMeaning": "在多个相互制约因素中找到的最佳平衡点",
+    "example": "We need to find the sweet spot between feature richness and launch timeline.",
+    "exampleTranslation": "我们需要找到功能丰富度和上线时间之间的最佳平衡点。",
+    "tags": [
+      "meetings",
+      "software-engineering",
+      "workplace"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-037",
+    "chapter": "ch08",
+    "expression": "give and take",
+    "literalTranslation": "给和拿",
+    "naturalMeaning": "双方都得做出一些让步才能达成最终方案",
+    "example": "This requirement review is gonna be a lot of give and take before we lock things down.",
+    "exampleTranslation": "这次需求评审会有很多相互妥协，然后才能把方案定下来。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "software-engineering"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-038",
+    "chapter": "ch08",
+    "expression": "raise a question",
+    "literalTranslation": "提出一个问题",
+    "naturalMeaning": "在讨论中提出自己想到的疑问或不确定的地方",
+    "example": "I'd like to raise a question about how we handle concurrent edits.",
+    "exampleTranslation": "我想提一个关于并发编辑处理的问题。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-039",
+    "chapter": "ch08",
+    "expression": "I have a concern",
+    "literalTranslation": "我有个顾虑",
+    "naturalMeaning": "委婉表达自己对这个方案或需求有所担心，不完全赞同",
+    "example": "I have a concern about the single sign-on approach — it adds a lot of complexity for users.",
+    "exampleTranslation": "我对这个单点登录方案有个顾虑——给用户增加了不少复杂性。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-040",
+    "chapter": "ch08",
+    "expression": "circle back to",
+    "literalTranslation": "绕回来讨论",
+    "naturalMeaning": "暂时搁置当前话题，稍后再回来继续讨论",
+    "example": "Let's circle back to the caching strategy after we nail down the data model.",
+    "exampleTranslation": "我们把数据模型敲定后再回来讨论缓存策略。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-041",
+    "chapter": "ch08",
+    "expression": "I'm not following",
+    "literalTranslation": "我没跟上",
+    "naturalMeaning": "坦率表示没听懂对方在说什么，需要对方再解释",
+    "example": "Sorry, I'm not following — how does that relate to the user's original request?",
+    "exampleTranslation": "抱歉，我没跟上——那和用户最初的需求有什么关系？",
+    "tags": [
+      "meetings",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-042",
+    "chapter": "ch08",
+    "expression": "could you elaborate on",
+    "literalTranslation": "你能详细阐述一下...吗",
+    "naturalMeaning": "礼貌地请求对方提供更多细节或更深入的说明",
+    "example": "Could you elaborate on the retry logic? I'm not clear on when it stops retrying.",
+    "exampleTranslation": "你能详细讲一下重试逻辑吗？我不清楚它什么时候停止重试。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-043",
+    "chapter": "ch08",
+    "expression": "any thoughts on",
+    "literalTranslation": "对...有什么想法吗",
+    "naturalMeaning": "在会议上征求团队成员的意见或反馈",
+    "example": "Any thoughts on using WebSockets instead of polling for real-time updates?",
+    "exampleTranslation": "对于用WebSocket替代轮询来做实时更新，大家有什么想法？",
+    "tags": [
+      "meetings",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-044",
+    "chapter": "ch08",
+    "expression": "let's unpack that",
+    "literalTranslation": "我们来拆解一下",
+    "naturalMeaning": "某个话题需要深入分析或细化讨论，不要停留在表面",
+    "example": "That requirement sounds broad — let's unpack it and see what's really being asked for.",
+    "exampleTranslation": "那个需求听起来太宽泛了——我们来拆解一下，看看真正要的是什么。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "software-engineering"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-045",
+    "chapter": "ch08",
+    "expression": "open question",
+    "literalTranslation": "开放式问题",
+    "naturalMeaning": "尚未确定或需要进一步调研才能回答的问题",
+    "example": "The auth mechanism is still an open question — we'll need to get security involved.",
+    "exampleTranslation": "认证机制还是个待定问题——我们需要请安全团队参与。",
+    "tags": [
+      "meetings",
+      "software-engineering",
+      "technical",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-046",
+    "chapter": "ch08",
+    "expression": "let's doc that",
+    "literalTranslation": "我们把这个记下来",
+    "naturalMeaning": "把讨论决定的内容记录到文档里，防止遗忘或后续扯皮",
+    "example": "Good point about the rate limit — let's doc that and add it to the spec.",
+    "exampleTranslation": "关于限流的建议很好——我们把它记下来加到规格文档里。",
+    "tags": [
+      "workplace",
+      "software-engineering",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-047",
+    "chapter": "ch08",
+    "expression": "for the record",
+    "literalTranslation": "正式记录一下",
+    "naturalMeaning": "以下内容是重要的正式记录，需要留档备查",
+    "example": "For the record, the team decided to go with Postgres over DynamoDB for this use case.",
+    "exampleTranslation": "正式记录一下：团队决定在这个用例上用Postgres而不是DynamoDB。",
+    "tags": [
+      "meetings",
+      "workplace",
+      "leadership"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-048",
+    "chapter": "ch08",
+    "expression": "commit to writing",
+    "literalTranslation": "落实到书面",
+    "naturalMeaning": "把口头讨论的内容写成正式文档，避免后续歧义",
+    "example": "We've been going back and forth on this — let's get the decision committed to writing.",
+    "exampleTranslation": "我们在这个问题上反复讨论——把决定写到文档里吧。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "software-engineering"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-049",
+    "chapter": "ch08",
+    "expression": "capture that",
+    "literalTranslation": "把这个记下来",
+    "naturalMeaning": "让某人把刚才说的关键信息记录下来，用于文档或后续参考",
+    "example": "That's a great requirement — someone capture that in the spec before we forget.",
+    "exampleTranslation": "这个需求很好——趁还没忘，谁把它记到规格文档里去。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-050",
+    "chapter": "ch08",
+    "expression": "decision log",
+    "literalTranslation": "决策日志",
+    "naturalMeaning": "记录每次重要决策及其理由的文档，方便追溯",
+    "example": "Let's add this to the decision log so we remember why we chose this approach six months from now.",
+    "exampleTranslation": "把这个加到决策日志里，这样半年后我们还记得当初为什么选了这个方案。",
+    "tags": [
+      "software-engineering",
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ch08-051",
+    "chapter": "ch08",
+    "expression": "move the conversation to",
+    "literalTranslation": "把讨论移到",
+    "naturalMeaning": "把当前讨论从会议转移到更合适的场合（如文档、Slack频道等）",
+    "example": "This is getting too detailed for this meeting — let's move the conversation to a design doc.",
+    "exampleTranslation": "这个讨论对这个会来说太细了——我们转到设计文档里继续吧。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "software-engineering"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-052",
+    "chapter": "ch08",
+    "expression": "let's not bikeshed",
+    "literalTranslation": "我们别纠结自行车棚的颜色",
+    "naturalMeaning": "别在无关紧要的小细节上浪费时间，聚焦更重要的事（源自bikeshedding典故）",
+    "example": "We've been debating the button color for ten minutes — let's not bikeshed, people.",
+    "exampleTranslation": "我们讨论按钮颜色十分钟了——各位别在细枝末节上浪费时间了。",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-053",
+    "chapter": "ch08",
+    "expression": "sign off",
+    "literalTranslation": "签字确认",
+    "naturalMeaning": "正式批准某个需求或方案，表示同意并承担责任",
+    "example": "I need the product manager to sign off on the requirements before we start development.",
+    "exampleTranslation": "在开始开发之前，我需要产品经理对需求进行签字确认。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "leadership",
+      "formal"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-054",
+    "chapter": "ch08",
+    "expression": "get the green light",
+    "literalTranslation": "获得绿灯",
+    "naturalMeaning": "获得上级或相关方的正式批准，可以开始执行",
+    "example": "We're waiting on the VP to get the green light before we allocate engineering resources.",
+    "exampleTranslation": "我们在等VP批准，然后才能分配工程资源。",
+    "tags": [
+      "workplace",
+      "leadership",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-055",
+    "chapter": "ch08",
+    "expression": "thumbs up",
+    "literalTranslation": "竖起大拇指",
+    "naturalMeaning": "非正式表示同意、认可或批准",
+    "example": "Once the tech lead gives it a thumbs up, we can merge the PR into the spec.",
+    "exampleTranslation": "等技术负责人点了头，我们就把PR合并到规格文档里。",
+    "tags": [
+      "workplace",
+      "casual",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-056",
+    "chapter": "ch08",
+    "expression": "give the go-ahead",
+    "literalTranslation": "给许可前行",
+    "naturalMeaning": "正式批准某个行动或决策可以开始执行",
+    "example": "Has the client given the go-ahead on the revised scope yet?",
+    "exampleTranslation": "客户已经批准修改后的范围了吗？",
+    "tags": [
+      "workplace",
+      "meetings",
+      "leadership"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-057",
+    "chapter": "ch08",
+    "expression": "buy-in",
+    "literalTranslation": "买进来",
+    "naturalMeaning": "获得相关方的认可和支持，让对方认同你的方案",
+    "example": "We need buy-in from the infrastructure team before we commit to this architecture.",
+    "exampleTranslation": "在确定这个架构之前，我们需要基础设施团队的认可和支持。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "leadership",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-058",
+    "chapter": "ch08",
+    "expression": "sign up for",
+    "literalTranslation": "报名参与",
+    "naturalMeaning": "同意承担某个任务或接受某个决定带来的后果",
+    "example": "If we're going with this timeline, everyone needs to sign up for overtime the first two weeks.",
+    "exampleTranslation": "如果我们要走这个时间表，所有人都得同意前两周加班。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "software-engineering"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-059",
+    "chapter": "ch08",
+    "expression": "shoot it down",
+    "literalTranslation": "打下来",
+    "naturalMeaning": "否决某个提议或想法",
+    "example": "I proposed the GraphQL approach but the team shot it down because of the learning curve.",
+    "exampleTranslation": "我提了用GraphQL的方案，但因为学习曲线团队给否决了。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "casual",
+      "software-engineering"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-060",
+    "chapter": "ch08",
+    "expression": "rubber stamp",
+    "literalTranslation": "橡皮图章",
+    "naturalMeaning": "走过场式的审批，没有实质性的审核过程就直接批准",
+    "example": "I don't want this to be a rubber stamp — actually read the spec before you approve it.",
+    "exampleTranslation": "我不想让这只是个形式审批——批准之前请真正把规格说明读一遍。",
+    "tags": [
+      "workplace",
+      "meetings",
+      "leadership"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-061",
+    "chapter": "ch08",
+    "expression": "acceptance criteria",
+    "literalTranslation": "验收标准",
+    "naturalMeaning": "判定一个功能是否满足需求的明确可验证条件列表",
+    "example": "Each user story needs clear acceptance criteria before the dev team can pick it up.",
+    "exampleTranslation": "每个用户故事都需要有清晰的验收标准，开发团队才能开始做。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-062",
+    "chapter": "ch08",
+    "expression": "definition of done",
+    "literalTranslation": "完成的定义",
+    "naturalMeaning": "团队约定的一套标准，满足所有条件才可以认为一个任务做完了",
+    "example": "Our definition of done includes code review, tests, and documentation — not just working code.",
+    "exampleTranslation": "我们对“完成”的定义包括代码审查、测试和文档——不光是能跑的代码。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-063",
+    "chapter": "ch08",
+    "expression": "done-done",
+    "literalTranslation": "真正完成",
+    "naturalMeaning": "强调彻底完成，包括测试、文档、部署等所有收尾工作都做了",
+    "example": "It's not done-done until the feature is deployed to production and the QA has signed off.",
+    "exampleTranslation": "功能上线到生产环境并且QA确认后，才算真正完成。",
+    "tags": [
+      "software-engineering",
+      "casual",
+      "workplace"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-064",
+    "chapter": "ch08",
+    "expression": "check all the boxes",
+    "literalTranslation": "打勾所有框",
+    "naturalMeaning": "满足所有列出的条件和要求",
+    "example": "The current design doesn't check all the boxes — accessibility requirements aren't met yet.",
+    "exampleTranslation": "当前设计还没有满足所有条件——无障碍要求还没达到。",
+    "tags": [
+      "workplace",
+      "software-engineering",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-065",
+    "chapter": "ch08",
+    "expression": "how do we verify",
+    "literalTranslation": "我们怎么验证",
+    "naturalMeaning": "讨论某个需求是否满足时，询问具体如何量化和验证",
+    "example": "The requirement says 'fast loading' — how do we verify that? What's the threshold in milliseconds?",
+    "exampleTranslation": "需求说“加载快”——我们怎么验证？多少毫秒算快？",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "technical"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-066",
+    "chapter": "ch08",
+    "expression": "what does done look like",
+    "literalTranslation": "完成了是什么样子",
+    "naturalMeaning": "询问一个需求或任务的完成状态具体是什么样的场景",
+    "example": "Before we start, let's agree on what done looks like for this feature.",
+    "exampleTranslation": "开始之前，我们先就这个功能“做完”是什么样达成一致。",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-067",
+    "chapter": "ch08",
+    "expression": "pass/fail",
+    "literalTranslation": "通过/不通过",
+    "naturalMeaning": "验收标准应该是二元明确的，要么通过要么不通过，没有模糊地带",
+    "example": "Each acceptance criterion needs to be pass/fail — no gray area or 'kind of works'.",
+    "exampleTranslation": "每个验收标准都必须是“通过/不通过”二分——不能有灰色地带或“差不多能用”。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-068",
+    "chapter": "ch08",
+    "expression": "metrics",
+    "literalTranslation": "指标",
+    "naturalMeaning": "衡量项目或功能成功的量化数据指标",
+    "example": "We should define what metrics we're tracking before we ship this feature.",
+    "exampleTranslation": "在发布这个功能之前，我们应该先定义要追踪什么指标。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch08-069",
+    "chapter": "ch08",
+    "expression": "what does success look like",
+    "literalTranslation": "成功是什么样子",
+    "naturalMeaning": "从结果出发反向定义成功的具体表现和衡量标准",
+    "example": "For this quarter's OKR, what does success look like for the onboarding flow?",
+    "exampleTranslation": "这个季度的OKR来说，新手引导流程的成功是什么样子的？",
+    "tags": [
+      "meetings",
+      "leadership",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-070",
+    "chapter": "ch08",
+    "expression": "baseline",
+    "literalTranslation": "基准线",
+    "naturalMeaning": "作为对照的当前数据，用来衡量改进效果",
+    "example": "What's our current baseline for page load time? We need something to compare against.",
+    "exampleTranslation": "我们当前页面加载时间的基准线是多少？需要有个参照物来对比。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-071",
+    "chapter": "ch08",
+    "expression": "move the needle",
+    "literalTranslation": "拨动指针",
+    "naturalMeaning": "带来显著可衡量的改变或影响",
+    "example": "If we build this feature, will it actually move the needle on user retention?",
+    "exampleTranslation": "如果我们做这个功能，它真的能显著提升用户留存吗？",
+    "tags": [
+      "software-engineering",
+      "leadership",
+      "startup",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-072",
+    "chapter": "ch08",
+    "expression": "north star metric",
+    "literalTranslation": "北极星指标",
+    "naturalMeaning": "指引整个团队方向的最核心衡量指标，所有工作都围绕它展开",
+    "example": "Our north star metric is daily active users — every feature should tie back to that.",
+    "exampleTranslation": "我们的北极星指标是日活跃用户数——每个功能都应该回归到这个指标上。",
+    "tags": [
+      "software-engineering",
+      "startup",
+      "leadership",
+      "technical"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-073",
+    "chapter": "ch08",
+    "expression": "vanity metrics",
+    "literalTranslation": "面子指标",
+    "naturalMeaning": "看起来数据好看但对业务决策没有实际帮助的指标",
+    "example": "Total downloads is a vanity metric — what matters is how many people actually use the app daily.",
+    "exampleTranslation": "总下载量是个面子指标——真正重要的是每天有多少人在使用这个应用。",
+    "tags": [
+      "startup",
+      "software-engineering",
+      "leadership",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch08-074",
+    "chapter": "ch08",
+    "expression": "target",
+    "literalTranslation": "目标值",
+    "naturalMeaning": "期望达到的具体量化目标",
+    "example": "The target is 99.9% uptime for the API this quarter — let's make sure the requirements reflect that.",
+    "exampleTranslation": "本季度的目标是API 99.9%的可用率——确保需求能体现出这个要求。",
+    "tags": [
+      "software-engineering",
+      "technical",
+      "meetings",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch08-075",
+    "chapter": "ch08",
+    "expression": "how are we measuring this",
+    "literalTranslation": "我们怎么衡量这个",
+    "naturalMeaning": "追问某个目标的量化测量方法，确保可衡量可追踪",
+    "example": "The requirement says 'improve user experience' — how are we measuring that?",
+    "exampleTranslation": "需求说“改善用户体验”——我们怎么衡量呢？",
+    "tags": [
+      "software-engineering",
+      "meetings",
+      "workplace",
+      "technical"
+    ],
+    "frequency": 4
+  }
+]

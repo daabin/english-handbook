@@ -1,0 +1,3030 @@
+{
+  "ch01": [
+    {
+      "scene": "Getting things done / productivity",
+      "expressions": [
+        "get things done",
+        "get the ball rolling",
+        "pull it off",
+        "make it happen",
+        "get it over with",
+        "get around to it",
+        "knock it out",
+        "get through it",
+        "push through",
+        "crank it out"
+      ]
+    },
+    {
+      "scene": "Starting and initiating",
+      "expressions": [
+        "kick off",
+        "dive into",
+        "hit the ground running",
+        "start from scratch",
+        "get going",
+        "roll out",
+        "get started on",
+        "jump on it",
+        "get off the ground",
+        "fire up"
+      ]
+    },
+    {
+      "scene": "Deciding and choosing",
+      "expressions": [
+        "settle on",
+        "go with",
+        "narrow down",
+        "run with it",
+        "circle back",
+        "lock in",
+        "figure out",
+        "weigh the options",
+        "land on",
+        "pull the trigger"
+      ]
+    },
+    {
+      "scene": "Problem solving and troubleshooting",
+      "expressions": [
+        "work through it",
+        "sort out",
+        "dig into",
+        "get to the bottom of",
+        "troubleshoot",
+        "hack together",
+        "patch up",
+        "smooth over",
+        "talk it through",
+        "straighten out"
+      ]
+    },
+    {
+      "scene": "Collaborating and communicating",
+      "expressions": [
+        "loop in",
+        "touch base",
+        "fill in",
+        "sync up",
+        "hash out",
+        "talk through",
+        "run it by",
+        "bounce off",
+        "team up on",
+        "bring in"
+      ]
+    },
+    {
+      "scene": "Expressing opinions and hedging",
+      "expressions": [
+        "I'd say",
+        "it seems like",
+        "off the top of my head",
+        "for what it's worth",
+        "as far as I can tell",
+        "if you ask me",
+        "the way I see it",
+        "I'm leaning toward",
+        "my two cents",
+        "I'd wager"
+      ]
+    },
+    {
+      "scene": "Managing time and deadlines",
+      "expressions": [
+        "crunch time",
+        "down to the wire",
+        "push back",
+        "buy some time",
+        "ahead of schedule",
+        "cut it close",
+        "wrap up",
+        "on the back burner",
+        "in the pipeline",
+        "last minute"
+      ]
+    },
+    {
+      "scene": "Dealing with uncertainty",
+      "expressions": [
+        "play it by ear",
+        "take it as it comes",
+        "see how it goes",
+        "worst case scenario",
+        "cover our bases",
+        "keep our options open",
+        "wait and see",
+        "cross that bridge when we get to it",
+        "hedge against",
+        "go with the flow"
+      ]
+    },
+    {
+      "scene": "Describing success and failure",
+      "expressions": [
+        "nail it",
+        "crush it",
+        "drop the ball",
+        "miss the mark",
+        "hit a home run",
+        "take off",
+        "fall flat",
+        "blow it",
+        "knock it out of the park",
+        "come up short"
+      ]
+    },
+    {
+      "scene": "Expressing agreement and disagreement",
+      "expressions": [
+        "on the same page",
+        "see eye to eye",
+        "see where you're coming from",
+        "I hear you",
+        "fair enough",
+        "not buying it",
+        "push back on",
+        "agree to disagree",
+        "on board with",
+        "on the fence"
+      ]
+    },
+    {
+      "scene": "Asking for help and favors",
+      "expressions": [
+        "give me a hand",
+        "do me a favor",
+        "pick your brain",
+        "run something by you",
+        "walk me through",
+        "I'm stuck on",
+        "take a look",
+        "point me in the right direction",
+        "fill me in",
+        "catch me up"
+      ]
+    },
+    {
+      "scene": "Wrapping up and finishing",
+      "expressions": [
+        "call it a day",
+        "call it a night",
+        "wrap it up",
+        "wind down",
+        "close out",
+        "put a pin in it",
+        "table it",
+        "set it aside",
+        "move on",
+        "sum it up"
+      ]
+    }
+  ],
+  "ch02": [
+    {
+      "scene": "Making suggestions and proposals",
+      "expressions": [
+        "I was wondering if we could...",
+        "What if we...",
+        "How about we...",
+        "One thing we could do is...",
+        "I'd suggest we...",
+        "Have you considered...?",
+        "What do you think about...?",
+        "Maybe we should...",
+        "It might be worth...",
+        "I'd recommend we..."
+      ]
+    },
+    {
+      "scene": "Asking for opinions and input",
+      "expressions": [
+        "What's your take on...?",
+        "How are you thinking about...?",
+        "I'd love to hear your thoughts on...",
+        "Does anyone have any input on...?",
+        "What are we missing here?",
+        "Am I thinking about this the right way?",
+        "Does that make sense?",
+        "What do you see as the trade-offs?",
+        "Does anyone see any issues with...?",
+        "I'm curious what others think about..."
+      ]
+    },
+    {
+      "scene": "Expressing possibility and hypotheticals",
+      "expressions": [
+        "In that case, we'd need to...",
+        "If that doesn't work, we could...",
+        "Assuming that holds true...",
+        "Worst case, we...",
+        "Best case scenario, we...",
+        "Even if that's the case...",
+        "If we can't get that done...",
+        "Provided that we have...",
+        "Say we go with that approach...",
+        "Either way, we'll need to..."
+      ]
+    },
+    {
+      "scene": "Polite requests and inquiries",
+      "expressions": [
+        "I was hoping you could...",
+        "Would you mind...?",
+        "If you get a chance, could you...?",
+        "When you have a moment...",
+        "I don't want to bother you, but...",
+        "Could I ask you to...?",
+        "If it's not too much trouble...",
+        "Let me know if you can...",
+        "Would it be possible to...?",
+        "I'd really appreciate it if you could..."
+      ]
+    },
+    {
+      "scene": "Reporting progress and status",
+      "expressions": [
+        "Here's where we're at...",
+        "We're making good progress on...",
+        "We ran into an issue with...",
+        "We're waiting on...",
+        "We're on track to...",
+        "We just wrapped up...",
+        "So far so good on...",
+        "One thing that's come up...",
+        "As of right now...",
+        "Quick update on..."
+      ]
+    },
+    {
+      "scene": "Expressing concerns and risks",
+      "expressions": [
+        "I'm a little worried about...",
+        "One thing that's nagging at me...",
+        "My concern is that...",
+        "I'm not sure how we're going to...",
+        "What happens if...?",
+        "I think we might be underestimating...",
+        "The thing I keep coming back to is...",
+        "I just want to flag that...",
+        "One thing to keep in mind...",
+        "I want to caveat that with..."
+      ]
+    },
+    {
+      "scene": "Clarifying and confirming understanding",
+      "expressions": [
+        "Let me make sure I understand...",
+        "So what you're saying is...",
+        "Just to clarify...",
+        "Could you walk me through that?",
+        "I want to make sure I'm following...",
+        "Let me rephrase that...",
+        "What do you mean by...?",
+        "Help me understand...",
+        "Am I reading this right...?",
+        "To be clear..."
+      ]
+    },
+    {
+      "scene": "Making decisions and commitments",
+      "expressions": [
+        "Let's go ahead with...",
+        "I think we should move forward with...",
+        "We're going to...",
+        "Here's what I'm thinking...",
+        "Let's lock in on...",
+        "I'm comfortable moving ahead with...",
+        "Does everyone feel good about...?",
+        "Let's commit to...",
+        "We'll move forward assuming...",
+        "Let's pull the trigger on..."
+      ]
+    },
+    {
+      "scene": "Handling mistakes and apologizing",
+      "expressions": [
+        "I dropped the ball on...",
+        "That was on me...",
+        "I should have caught that...",
+        "Let me own up to...",
+        "To be honest, I messed up...",
+        "I completely missed that...",
+        "I'll take responsibility for...",
+        "Lesson learned on...",
+        "I'll make sure it doesn't happen again...",
+        "That one slipped through the cracks..."
+      ]
+    },
+    {
+      "scene": "Giving instructions and delegating",
+      "expressions": [
+        "Here's what I need from you...",
+        "Could you take point on...?",
+        "I need you to own...",
+        "Let me walk you through the steps...",
+        "First thing, we need to...",
+        "The main thing is...",
+        "As a next step, could you...?",
+        "Let's break this down into...",
+        "Your action item is...",
+        "I'll leave it with you to..."
+      ]
+    },
+    {
+      "scene": "Negotiating and compromising",
+      "expressions": [
+        "I'm not sure we can do that because...",
+        "Can we meet in the middle on...?",
+        "What would work for us is...",
+        "That's going to be tough because...",
+        "Here's what I can offer...",
+        "Is there any wiggle room on...?",
+        "If you can do X, we can do Y...",
+        "Let me see what I can do...",
+        "I'll take that back to the team...",
+        "Let's find a middle ground..."
+      ]
+    },
+    {
+      "scene": "Closing and summarizing",
+      "expressions": [
+        "Let's circle back on that later.",
+        "We'll pick this up next time.",
+        "To sum things up...",
+        "Let me recap what we decided...",
+        "We'll follow up with...",
+        "I'll send out a recap.",
+        "Let's take this offline.",
+        "Thanks everyone for the discussion.",
+        "Great chat, let's keep the momentum going.",
+        "I think we've covered everything for now."
+      ]
+    }
+  ],
+  "ch03": [
+    {
+      "scene": "Morning routine and starting the day",
+      "expressions": [
+        "I'm gonna grab a coffee, brb.",
+        "Did you sleep okay?",
+        "I'm running late.",
+        "Just got in, give me a minute.",
+        "Rough morning, my alarm didn't go off.",
+        "Can't function without my morning coffee.",
+        "Let me get settled first.",
+        "I need to wake up before I can think.",
+        "What time did you get in?",
+        "Long night?"
+      ]
+    },
+    {
+      "scene": "Office small talk and socializing",
+      "expressions": [
+        "How was your weekend?",
+        "Get up to anything fun?",
+        "Did you catch the game?",
+        "How's your week going?",
+        "Crazy weather we're having.",
+        "Busy day?",
+        "You surviving?",
+        "What's new with you?",
+        "Long time no see!",
+        "How's the family doing?"
+      ]
+    },
+    {
+      "scene": "Ordering food and coffee",
+      "expressions": [
+        "I'll take a...",
+        "Can I get a...?",
+        "What do you recommend?",
+        "Make it a double.",
+        "I'll have what she's having.",
+        "Can I get that to go?",
+        "For here or to go?",
+        "Can I get no ice?",
+        "I'm good, thanks.",
+        "Just water for me."
+      ]
+    },
+    {
+      "scene": "Lunch and break room conversations",
+      "expressions": [
+        "What are you thinking for lunch?",
+        "I'm gonna hit up...",
+        "Want to grab lunch together?",
+        "I brought leftovers today.",
+        "I need to run an errand during lunch.",
+        "Let's do delivery, I'm swamped.",
+        "Anyone want anything from...?",
+        "I'm trying to eat healthy.",
+        "Let's hit that new ramen place.",
+        "Five more minutes, let me finish this."
+      ]
+    },
+    {
+      "scene": "Weekend and after-work plans",
+      "expressions": [
+        "What are you up to this weekend?",
+        "I'm so ready for the weekend.",
+        "Any fun plans?",
+        "I'm just gonna chill.",
+        "We're having some people over.",
+        "I've got plans Friday night.",
+        "Want to grab a drink after work?",
+        "I need to catch up on sleep.",
+        "This has been a long week.",
+        "Counting down to Friday."
+      ]
+    },
+    {
+      "scene": "Commuting and travel talk",
+      "expressions": [
+        "How was the commute?",
+        "Traffic was a nightmare.",
+        "I got stuck on the highway.",
+        "I take the train in.",
+        "It's about a 30-minute drive.",
+        "My commute's not too bad.",
+        "I WFH on Tuesdays.",
+        "The subway was packed today.",
+        "I need to leave in 10 to beat traffic.",
+        "I carpool with a coworker."
+      ]
+    },
+    {
+      "scene": "Weather and casual observations",
+      "expressions": [
+        "Can you believe this weather?",
+        "It's pouring out there.",
+        "Beautiful day today.",
+        "I can't deal with this heat.",
+        "It's freezing out there.",
+        "They said it might snow later.",
+        "Make sure to bring an umbrella.",
+        "It's been so gloomy lately.",
+        "Finally warming up.",
+        "Stay cool out there."
+      ]
+    },
+    {
+      "scene": "Health and wellness check-ins",
+      "expressions": [
+        "I think I'm coming down with something.",
+        "My head is pounding.",
+        "Need to get more sleep.",
+        "I've been hitting the gym.",
+        "Trying to eat better.",
+        "My back's been killing me.",
+        "I should really see a doctor.",
+        "I'm feeling under the weather.",
+        "Need a vacation.",
+        "I'm so sore from yesterday's workout."
+      ]
+    },
+    {
+      "scene": "Social media and texting language",
+      "expressions": [
+        "Did you see that post?",
+        "I saw that on my feed.",
+        "Slide into my DMs.",
+        "Just scrolling through Twitter.",
+        "I'm so bad at replying to texts.",
+        "I saw your story on Instagram.",
+        "Can you send me that link?",
+        "I'll text you the details.",
+        "Did you get my message?",
+        "I just sent you a DM."
+      ]
+    },
+    {
+      "scene": "Shopping and errands",
+      "expressions": [
+        "I need to run some errands.",
+        "I'm gonna swing by the store.",
+        "They had a sale.",
+        "I need to pick up a few things.",
+        "I'll stop by on my way home.",
+        "Do you have a Costco membership?",
+        "I'm just browsing.",
+        "That's a steal.",
+        "I got it on sale.",
+        "I need to return something."
+      ]
+    },
+    {
+      "scene": "Celebrations and condolences",
+      "expressions": [
+        "Congrats on the promotion!",
+        "Happy for you, man.",
+        "Sorry for your loss.",
+        "That's rough, I'm sorry.",
+        "You deserve it.",
+        "I'm here if you need anything.",
+        "So sorry to hear that.",
+        "That's amazing news!",
+        "Let's go celebrate.",
+        "Sending good vibes your way."
+      ]
+    },
+    {
+      "scene": "Emergencies and unexpected problems",
+      "expressions": [
+        "I have an emergency.",
+        "Something came up.",
+        "My car broke down.",
+        "I need to take care of something.",
+        "Is everything okay?",
+        "I'll be there as soon as I can.",
+        "I need to step out.",
+        "There's been an accident.",
+        "Can you cover for me?",
+        "I have a family emergency."
+      ]
+    }
+  ],
+  "ch04": [
+    {
+      "scene": "Opening the meeting",
+      "expressions": [
+        "Alright, let's get started.",
+        "Thanks everyone for making it.",
+        "I know it's a busy day, so I'll keep this moving.",
+        "Let's kick things off.",
+        "Before we dive in, does anyone have anything urgent?",
+        "Let's jump right into it.",
+        "I'll get us started.",
+        "We've got a packed agenda, so let's roll."
+      ]
+    },
+    {
+      "scene": "Setting and managing the agenda",
+      "expressions": [
+        "Here's what we're going to cover today.",
+        "We've got three items on the agenda.",
+        "Let's put a pin in that for now.",
+        "Let's stay on track.",
+        "We're going a little long on this topic.",
+        "Let's table that for now and move on.",
+        "I want to make sure we get through everything.",
+        "Let's save that for another meeting."
+      ]
+    },
+    {
+      "scene": "Status updates and standups",
+      "expressions": [
+        "Quick update on my end.",
+        "Here's where things stand.",
+        "Good news is...",
+        "One thing I want to flag...",
+        "I'm making progress on...",
+        "I'm blocked on...",
+        "I could use some help with...",
+        "That's where I'm at right now."
+      ]
+    },
+    {
+      "scene": "Brainstorming and ideation",
+      "expressions": [
+        "Throw some ideas out there.",
+        "No bad ideas at this stage.",
+        "Anyone want to start us off?",
+        "Let's just get everything on the board.",
+        "Let me play devil's advocate here.",
+        "I love that idea.",
+        "Building on what you said...",
+        "Let's whiteboard this out."
+      ]
+    },
+    {
+      "scene": "Discussion and debate",
+      "expressions": [
+        "I see your point, but...",
+        "Have we considered...?",
+        "What about the other side of this?",
+        "I'd push back on that.",
+        "Let me push back a little bit.",
+        "I think there's another way to look at this.",
+        "Going back to what you said earlier...",
+        "I don't disagree, but..."
+      ]
+    },
+    {
+      "scene": "Making decisions in meetings",
+      "expressions": [
+        "Are we ready to make a call on this?",
+        "I think we have enough to move forward.",
+        "Let's take a vote.",
+        "Does anyone feel strongly one way or the other?",
+        "Sounds like we're aligned on...",
+        "Let's go with option A.",
+        "I'll make the final call on this.",
+        "We don't have to decide right now."
+      ]
+    },
+    {
+      "scene": "Action items and next steps",
+      "expressions": [
+        "Let me write down the action items.",
+        "Who's going to own this?",
+        "I can take that.",
+        "Can you follow up on...?",
+        "Let me know what you find out.",
+        "I'll send out the recap.",
+        "What are our next steps?",
+        "EOD Friday sound good for that?"
+      ]
+    },
+    {
+      "scene": "Closing the meeting",
+      "expressions": [
+        "Alright, I think we covered everything.",
+        "Great discussion, everyone.",
+        "Thanks for the productive conversation.",
+        "We made good progress today.",
+        "Let's pick this up next time.",
+        "I'll send the notes out.",
+        "Anyone have any last thoughts?",
+        "See you all at the next one."
+      ]
+    },
+    {
+      "scene": "Virtual meeting logistics",
+      "expressions": [
+        "You're on mute.",
+        "Can you hear me okay?",
+        "Your video is a little choppy.",
+        "Let me share my screen.",
+        "Can you see my screen?",
+        "Sorry, I was on mute.",
+        "Let me drop a link in the chat.",
+        "I think we lost you for a second."
+      ]
+    },
+    {
+      "scene": "Handling difficult meeting dynamics",
+      "expressions": [
+        "Let's make sure everyone gets a chance to speak.",
+        "I want to hear from folks who haven't spoken yet.",
+        "Let's not get too deep into the weeds here.",
+        "Can we take a step back?",
+        "I feel like we're going in circles.",
+        "Let me stop you there.",
+        "I hear what you're saying, and...",
+        "Let's agree to disagree on this point."
+      ]
+    }
+  ],
+  "ch05": [
+    {
+      "scene": "Pairing and working together",
+      "expressions": [
+        "Want to pair on this?",
+        "Let's mob on it.",
+        "I'll drive, you navigate.",
+        "Your turn to drive.",
+        "Let me show you what I've got so far.",
+        "I'll screen share while we work through it.",
+        "We can split this up.",
+        "Great, we're in sync."
+      ]
+    },
+    {
+      "scene": "Documenting and writing together",
+      "expressions": [
+        "Let me write that down.",
+        "I'll take notes on this.",
+        "Let's put this in a doc.",
+        "I'll start a Google Doc.",
+        "Can you add your section by EOD?",
+        "Let me draft it and share with you.",
+        "I left some comments in the doc.",
+        "Feel free to edit as you see fit."
+      ]
+    },
+    {
+      "scene": "Cross-team coordination",
+      "expressions": [
+        "Let me reach out to the platform team.",
+        "We need to sync with the design team on this.",
+        "I'll set up a cross-team sync.",
+        "Can you introduce me to the right contact?",
+        "The infra team needs to sign off on this.",
+        "Let's align with product on this first.",
+        "I'll loop in the relevant folks.",
+        "We need to be aligned with marketing on this."
+      ]
+    },
+    {
+      "scene": "Asking for help and unblocking",
+      "expressions": [
+        "Hey, got a minute?",
+        "Could I get your eyes on something?",
+        "I'm hitting a wall with...",
+        "Do you know anything about...?",
+        "I could really use your help on...",
+        "Mind if I pick your brain?",
+        "I'm stuck and could use a fresh pair of eyes.",
+        "Can I run something by you real quick?"
+      ]
+    },
+    {
+      "scene": "Handing off work",
+      "expressions": [
+        "Let me hand this off to you.",
+        "Here's the context you need.",
+        "I'll make sure you have what you need.",
+        "I documented everything in the ticket.",
+        "Let me walk you through where things stand.",
+        "This is yours now.",
+        "Feel free to reach out if anything comes up.",
+        "I'll add you to the thread."
+      ]
+    },
+    {
+      "scene": "Getting aligned on approach",
+      "expressions": [
+        "Are we aligned on this?",
+        "Let me make sure we're on the same page.",
+        "Just to recap where we landed...",
+        "Do we have agreement on this?",
+        "I want to make sure there are no surprises.",
+        "Let's get on the same page before moving forward.",
+        "We need to align on approach first.",
+        "Does that work for everyone?"
+      ]
+    },
+    {
+      "scene": "Navigating disagreements",
+      "expressions": [
+        "I hear you, but I see it differently.",
+        "Let's agree on our points of disagreement.",
+        "I think we actually want the same thing.",
+        "Let me understand where you're coming from.",
+        "We don't have to settle this right now.",
+        "Can we find a compromise here?",
+        "What would it take for you to get comfortable with this?",
+        "I think we're arguing about the same thing."
+      ]
+    },
+    {
+      "scene": "Celebrating wins together",
+      "expressions": [
+        "Great work, team.",
+        "We crushed it on that launch.",
+        "That was a team effort.",
+        "Couldn't have done it without you.",
+        "High five, that went really well.",
+        "Let's take a moment to appreciate what we accomplished.",
+        "Shout out to name for...",
+        "This calls for a celebration."
+      ]
+    },
+    {
+      "scene": "Supporting remote teammates",
+      "expressions": [
+        "Hey, you're breaking up a bit.",
+        "Let me share my screen.",
+        "Can everyone see my screen?",
+        "Over to you virtually.",
+        "I want to make sure remote folks can hear.",
+        "Let's give remote folks a moment to chime in.",
+        "Type your thoughts in the chat.",
+        "Let me unmute my audio."
+      ]
+    },
+    {
+      "scene": "Working asynchronously",
+      "expressions": [
+        "I'll follow up over Slack.",
+        "Let's take this to a thread.",
+        "I'll update the doc and ping you.",
+        "No rush on this, EOD is fine.",
+        "Tagging you in the PR.",
+        "I left some comments in the Figma.",
+        "Let me know when you've had a chance to look.",
+        "I'll send over the details when I have them."
+      ]
+    }
+  ],
+  "ch06": [
+    {
+      "scene": "Giving constructive feedback",
+      "expressions": [
+        "I want to share some feedback with you.",
+        "I noticed something I wanted to bring up.",
+        "Here's how I experienced that situation.",
+        "One thing to think about...",
+        "In the future, you might consider...",
+        "I want to be direct with you about...",
+        "I'm saying this because I want to see you succeed.",
+        "It might help to..."
+      ]
+    },
+    {
+      "scene": "Receiving feedback gracefully",
+      "expressions": [
+        "Thanks for being honest with me.",
+        "I appreciate you telling me that.",
+        "I need to sit with that for a bit.",
+        "That's fair, I can see that.",
+        "I hadn't thought of it that way.",
+        "Can you give me a specific example?",
+        "I hear you, and I'll work on that.",
+        "Thanks for bringing that to my attention."
+      ]
+    },
+    {
+      "scene": "Code review feedback (the people side)",
+      "expressions": [
+        "Great approach, just a few nits.",
+        "This looks solid overall.",
+        "I like how you handled this part.",
+        "One thing to reconsider...",
+        "Your code is clean, but I think there's a simpler way.",
+        "This is clever, but it might be hard to maintain.",
+        "I left a few suggestions.",
+        "Almost there, just a couple things to fix."
+      ]
+    },
+    {
+      "scene": "Performance review conversations",
+      "expressions": [
+        "Let's talk about your performance this quarter.",
+        "Here's what's going well.",
+        "One area for growth is...",
+        "I want to see you stretch in this area.",
+        "You've really stepped up on...",
+        "I'd like to see more of X from you.",
+        "Here's how I'd rate your impact.",
+        "What do you think about your performance this quarter?"
+      ]
+    },
+    {
+      "scene": "Upward feedback to managers",
+      "expressions": [
+        "I wanted to share some feedback about...",
+        "Here's how it felt from my perspective.",
+        "One thing I'd appreciate more of is...",
+        "I think it would help the team if...",
+        "I feel like my voice isn't being heard when...",
+        "Can I offer a suggestion on how this could go better?",
+        "I really appreciated when you...",
+        "It would be helpful if you could..."
+      ]
+    },
+    {
+      "scene": "One-on-one feedback sessions",
+      "expressions": [
+        "How are things going?",
+        "Anything on your mind?",
+        "Is there anything I can do to support you better?",
+        "I've noticed you seem a bit off lately.",
+        "What's one thing you'd change about our team?",
+        "I want to make sure you're happy with your work.",
+        "Let's talk about your career goals.",
+        "Is there anything you need from me?"
+      ]
+    },
+    {
+      "scene": "Addressing tension and conflict",
+      "expressions": [
+        "I feel like there's some tension between us.",
+        "I want to clear the air.",
+        "I think there may have been a misunderstanding.",
+        "I didn't mean for it to come across that way.",
+        "Let me try saying that differently.",
+        "I value our working relationship and want to address this.",
+        "How can we work through this together?",
+        "I think we both want the same outcome."
+      ]
+    },
+    {
+      "scene": "Positive feedback and recognition",
+      "expressions": [
+        "I just wanted to say, great job on...",
+        "You really knocked it out of the park with...",
+        "I want to make sure you know how much I appreciate...",
+        "The way you handled that was impressive.",
+        "I learned a lot watching you navigate that.",
+        "You're a huge asset to the team.",
+        "That was above and beyond.",
+        "Your work on X really made a difference."
+      ]
+    },
+    {
+      "scene": "Requesting feedback from others",
+      "expressions": [
+        "I'd love to get your feedback on how I handled...",
+        "Can you give me some honest feedback on...?",
+        "Where do you think I could improve?",
+        "How did I come across in that meeting?",
+        "What could I have done differently?",
+        "I'm trying to get better at X, any advice?",
+        "Be brutally honest with me.",
+        "Is there anything I should be doing differently?"
+      ]
+    }
+  ],
+  "ch07": [
+    {
+      "scene": "Setting vision and direction",
+      "expressions": [
+        "Here's where we're headed.",
+        "This is the north star we're aiming for.",
+        "Let me paint a picture of what success looks like.",
+        "In six months, we want to be here.",
+        "This is why what we're doing matters.",
+        "Here's how our work fits into the bigger picture.",
+        "I want us to be known for...",
+        "Let me share the strategic context behind this."
+      ]
+    },
+    {
+      "scene": "Delegating effectively",
+      "expressions": [
+        "I'd like you to own this.",
+        "I'm trusting you to run with this.",
+        "You're the right person for this.",
+        "Let me know what you need from me.",
+        "I don't want to micromanage, just keep me posted.",
+        "Here's the outcome I need, but the how is up to you.",
+        "I'm giving you full ownership of this.",
+        "Feel empowered to make decisions on this."
+      ]
+    },
+    {
+      "scene": "Coaching and developing team members",
+      "expressions": [
+        "Let me ask you a question instead of giving you the answer.",
+        "What do you think is the right approach?",
+        "How would you tackle this?",
+        "Let's break down what happened and what you can learn from it.",
+        "I see a lot of potential in you.",
+        "What's one skill you want to develop this quarter?",
+        "Let me share a framework that might help.",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "scene": "Running effective one-on-ones",
+      "expressions": [
+        "This is your time, what do you want to talk about?",
+        "How are things going outside of work?",
+        "What's been the highlight of your week?",
+        "What's been frustrating you lately?",
+        "Is there anything you're anxious about?",
+        "Let's make sure you're working on things you enjoy.",
+        "Where do you see yourself in a year?",
+        "How can I help you be more effective?"
+      ]
+    },
+    {
+      "scene": "Motivating and recognizing",
+      "expressions": [
+        "I want to highlight the great work you've been doing.",
+        "Your impact doesn't go unnoticed.",
+        "I appreciate the extra effort you put in.",
+        "The team really stepped up on this.",
+        "Let me make sure leadership knows about this.",
+        "You made a real difference here.",
+        "I'm proud of what we accomplished together.",
+        "That was world-class work."
+      ]
+    },
+    {
+      "scene": "Making tough decisions",
+      "expressions": [
+        "I had to make a hard decision.",
+        "I know this isn't what you wanted to hear.",
+        "Let me explain my reasoning.",
+        "I weighed the pros and cons and here's what I landed on.",
+        "I take full responsibility for this decision.",
+        "I know this is difficult, and I appreciate your understanding.",
+        "Here's why I think this is the right call.",
+        "I didn't make this decision lightly."
+      ]
+    },
+    {
+      "scene": "Representing the team upward",
+      "expressions": [
+        "Let me give you an update on the team's progress.",
+        "The team has been crushing it.",
+        "Here's what the team needs from leadership.",
+        "I want to advocate for my team on this.",
+        "There's a bottleneck that needs to be addressed.",
+        "My team needs more resources to hit this goal.",
+        "Let me share some wins from this quarter.",
+        "Here's how I'm thinking about growing this team."
+      ]
+    },
+    {
+      "scene": "Creating psychological safety",
+      "expressions": [
+        "It's okay to make mistakes here.",
+        "I want everyone to feel comfortable speaking up.",
+        "There are no stupid questions.",
+        "I'd rather you tell me bad news early.",
+        "Your opinion matters, please share it.",
+        "I messed up, and here's what I learned.",
+        "I want to create an environment where we can disagree openly.",
+        "It's safe to challenge my ideas."
+      ]
+    },
+    {
+      "scene": "Leading through change",
+      "expressions": [
+        "I know change is hard.",
+        "Let me walk you through why this change is necessary.",
+        "I want to be transparent about what's happening.",
+        "I don't have all the answers, but here's what I know.",
+        "This is going to be uncomfortable for a while.",
+        "I'll keep you updated as things evolve.",
+        "Your concerns are valid, and I hear you.",
+        "We'll get through this together."
+      ]
+    }
+  ],
+  "ch08": [
+    {
+      "scene": "Reading and parsing requirements",
+      "expressions": [
+        "Let me read through the requirements first.",
+        "Just to make sure I understand the ask...",
+        "What exactly are we trying to solve here?",
+        "Can you walk me through the user story?",
+        "Let me restate the requirements in my own words.",
+        "I want to make sure I'm not missing anything.",
+        "What's the acceptance criteria for this?",
+        "Are there any non-functional requirements?"
+      ]
+    },
+    {
+      "scene": "Questioning assumptions",
+      "expressions": [
+        "What assumptions are we making here?",
+        "Is there data to back this up?",
+        "Why are we doing it this way?",
+        "What problem is this actually solving?",
+        "Is this a real user need or a nice-to-have?",
+        "What happens if we don't build this?",
+        "Who's making this assumption?",
+        "Let's validate that assumption first."
+      ]
+    },
+    {
+      "scene": "Estimating effort and complexity",
+      "expressions": [
+        "Rough estimate, I'd say...",
+        "That's bigger than it looks.",
+        "This could be deceptively complex.",
+        "Let me break it down and get back to you.",
+        "I need some time to think through the scope.",
+        "There are a lot of unknowns here.",
+        "I'd ballpark it at...",
+        "The complexity is in the edge cases."
+      ]
+    },
+    {
+      "scene": "Calling out edge cases",
+      "expressions": [
+        "What about the edge case where...?",
+        "What happens if the user does X?",
+        "We need to handle the error case where...",
+        "What does the happy path look like? Now what about unhappy paths?",
+        "Have we thought about what happens when this fails?",
+        "We should account for...",
+        "One thing we might be missing...",
+        "Let's poke holes in this."
+      ]
+    },
+    {
+      "scene": "Negotiating scope",
+      "expressions": [
+        "We can't do all of this in one sprint.",
+        "What's the MVP here?",
+        "Can we scope this down to the essentials?",
+        "What can we cut to make the deadline?",
+        "Phase 1 should focus on...",
+        "We can always add that later.",
+        "Let me push back on the scope here.",
+        "I'd recommend we start with the core use case."
+      ]
+    },
+    {
+      "scene": "Validating with stakeholders",
+      "expressions": [
+        "Let me walk this through with the PM first.",
+        "Does this match what the customer actually needs?",
+        "Let's validate this with design.",
+        "I want to make sure legal is okay with this.",
+        "Have we run this by the data team?",
+        "Let's get feedback from sales on this.",
+        "I'd like to socialize this with stakeholders.",
+        "Who else needs to sign off on this?"
+      ]
+    },
+    {
+      "scene": "Writing clear acceptance criteria",
+      "expressions": [
+        "The acceptance criteria should include...",
+        "What does done look like for this?",
+        "Let's define what success looks like.",
+        "We need clear pass/fail criteria.",
+        "How will this be tested?",
+        "What metrics will tell us this is working?",
+        "If it doesn't do X, it's not done.",
+        "Let me write the test cases as acceptance criteria."
+      ]
+    },
+    {
+      "scene": "Handling ambiguity",
+      "expressions": [
+        "This requirement is a bit vague.",
+        "Can you give me a concrete example?",
+        "I'm not sure what you mean by...",
+        "There are several ways to interpret this.",
+        "I need more context to give a good estimate.",
+        "Let me ask some clarifying questions.",
+        "I want to make sure we're not building the wrong thing.",
+        "Can we schedule a quick sync to clarify?"
+      ]
+    },
+    {
+      "scene": "Prioritizing requirements",
+      "expressions": [
+        "What's the priority on this?",
+        "Is this a must-have or nice-to-have?",
+        "Let's rank these by impact.",
+        "What's the highest leverage thing we can build?",
+        "This sounds like a phase 2 item.",
+        "Let's focus on what actually moves the needle.",
+        "We can deprioritize this for now.",
+        "Is this blocking anything else?"
+      ]
+    },
+    {
+      "scene": "Getting sign-off",
+      "expressions": [
+        "Can I get your sign-off on these requirements?",
+        "Does everyone agree on the scope?",
+        "Let me know if you have any concerns before we proceed.",
+        "I'll consider this approved unless I hear otherwise.",
+        "Once you sign off, we'll start working on this.",
+        "We need a final decision by date.",
+        "Please review and approve by EOD.",
+        "I'll take silence as confirmation."
+      ]
+    }
+  ],
+  "ch09": [
+    {
+      "scene": "Proposing a solution",
+      "expressions": [
+        "Here's my proposed approach.",
+        "I'm thinking we should...",
+        "What if we use X for this?",
+        "I've been thinking about the best way to tackle this.",
+        "Let me walk you through my design.",
+        "I'm leaning towards option A because...",
+        "After looking at it, I think we should...",
+        "Here's a rough sketch of what I'm thinking."
+      ]
+    },
+    {
+      "scene": "Comparing technical alternatives",
+      "expressions": [
+        "Let's compare the options.",
+        "Option A has these pros and cons...",
+        "Option B is simpler but less flexible.",
+        "There are a few ways we could approach this.",
+        "I put together a trade-offs table.",
+        "The main difference between the two approaches is...",
+        "Let me list out what I see as the pros and cons.",
+        "Here's why I ruled out option C."
+      ]
+    },
+    {
+      "scene": "Discussing trade-offs",
+      "expressions": [
+        "There's no perfect solution here.",
+        "Everything is a trade-off.",
+        "We're trading X for Y.",
+        "The trade-off is between performance and maintainability.",
+        "We need to decide what's more important here.",
+        "I'd rather have a simple solution that works than a clever one.",
+        "There's a cost to every abstraction.",
+        "We can optimize later if we need to."
+      ]
+    },
+    {
+      "scene": "API design discussions",
+      "expressions": [
+        "What does the API surface look like?",
+        "I think we should keep this API simple.",
+        "Let's follow REST conventions here.",
+        "What should the request/response shape be?",
+        "Do we need a separate endpoint for this?",
+        "Let's version this API from day one.",
+        "We should paginate this response.",
+        "How do we handle errors in this API?"
+      ]
+    },
+    {
+      "scene": "Data model discussions",
+      "expressions": [
+        "Let's talk about the data model.",
+        "What's the schema going to look like?",
+        "Do we need a separate table for this?",
+        "How do these entities relate to each other?",
+        "We should denormalize this for performance.",
+        "I think we need an index on this field.",
+        "What's the data retention policy?",
+        "How are we going to migrate existing data?"
+      ]
+    },
+    {
+      "scene": "Performance considerations",
+      "expressions": [
+        "Have we thought about the performance implications?",
+        "What happens when we scale to 10x the traffic?",
+        "This needs to be able to handle X requests per second.",
+        "I'm concerned about the latency here.",
+        "We might run into N+1 query problems.",
+        "We should cache this.",
+        "Let's benchmark before we commit to this approach.",
+        "This could be a bottleneck."
+      ]
+    },
+    {
+      "scene": "Security and compliance",
+      "expressions": [
+        "Do we need to worry about security here?",
+        "How are we handling authentication?",
+        "What about authorization?",
+        "We need to sanitize user input.",
+        "Are we logging any sensitive data?",
+        "Let's make sure we're not introducing a vulnerability.",
+        "We should follow the principle of least privilege.",
+        "I want a security review before we ship this."
+      ]
+    },
+    {
+      "scene": "Writing design docs",
+      "expressions": [
+        "I'll draft a design doc.",
+        "Let me write this up properly.",
+        "I'll include the context, approach, and trade-offs.",
+        "Can you review my design doc?",
+        "I'd like comments on the design doc by Friday.",
+        "Let me add a section on alternatives considered.",
+        "I need to flesh out the implementation plan.",
+        "The design doc template has these sections..."
+      ]
+    },
+    {
+      "scene": "Getting design review feedback",
+      "expressions": [
+        "Can you tear this apart?",
+        "I want the hard questions.",
+        "What am I missing?",
+        "Does this make sense from an infrastructure perspective?",
+        "Have I thought about everything?",
+        "I'd love your input on the database choice.",
+        "What would you do differently?",
+        "Don't go easy on me, I want real feedback."
+      ]
+    },
+    {
+      "scene": "Making final design decisions",
+      "expressions": [
+        "I think we've explored enough options.",
+        "Let's go with design A.",
+        "I'm convinced this is the right approach.",
+        "Are we all comfortable moving forward with this?",
+        "Let's lock in the design and start implementing.",
+        "We can always iterate once we have something working.",
+        "I'd like to do a spike to validate this first.",
+        "Let's move forward with the caveat that we'll revisit if X happens."
+      ]
+    }
+  ],
+  "ch10": [
+    {
+      "scene": "Presenting system architecture",
+      "expressions": [
+        "Let me walk you through the system architecture.",
+        "Here's a high-level overview of how everything fits together.",
+        "We have these services that communicate via...",
+        "The data flows like this...",
+        "This is the architecture we're proposing.",
+        "Let me start with the big picture.",
+        "I'll zoom into the specific service we're discussing.",
+        "There are three main components to this system."
+      ]
+    },
+    {
+      "scene": "Scalability discussions",
+      "expressions": [
+        "How does this scale?",
+        "What happens when we get 100x the traffic?",
+        "We need to design for scale from the beginning.",
+        "This doesn't horizontally scale well.",
+        "We should make this stateless if possible.",
+        "The database will be the bottleneck.",
+        "We can add read replicas for the read-heavy paths.",
+        "Let's think about sharding strategy upfront."
+      ]
+    },
+    {
+      "scene": "Reliability and fault tolerance",
+      "expressions": [
+        "What's our fault tolerance here?",
+        "If this service goes down, what happens?",
+        "We need to design for failure.",
+        "What's our recovery time objective?",
+        "Do we have redundancy for this component?",
+        "This is a single point of failure.",
+        "We should implement circuit breakers.",
+        "Graceful degradation is important here."
+      ]
+    },
+    {
+      "scene": "Service boundary definitions",
+      "expressions": [
+        "Where do we draw the service boundary?",
+        "This should be its own service.",
+        "I think this functionality belongs in the existing X service.",
+        "What's the contract between these services?",
+        "These two services are too tightly coupled.",
+        "Let's define clear ownership boundaries.",
+        "This domain doesn't belong here.",
+        "How do these services discover each other?"
+      ]
+    },
+    {
+      "scene": "Dependency management",
+      "expressions": [
+        "What external dependencies do we have?",
+        "We're relying on a third-party API for this.",
+        "What happens if our dependency goes down?",
+        "We have too many direct dependencies.",
+        "Can we abstract this dependency?",
+        "We should pin our dependency versions.",
+        "This library is unmaintained, we should find an alternative.",
+        "I'm concerned about vendor lock-in."
+      ]
+    },
+    {
+      "scene": "Migration and deprecation plans",
+      "expressions": [
+        "We need a migration strategy.",
+        "Let's do a gradual migration.",
+        "We can run both systems in parallel.",
+        "The migration needs to be backward compatible.",
+        "Here's my proposed cut-over plan.",
+        "We need a rollback plan if things go wrong.",
+        "Let's migrate one service at a time.",
+        "I'd like to see a timeline for the migration."
+      ]
+    },
+    {
+      "scene": "Technology stack decisions",
+      "expressions": [
+        "Why are we choosing X over Y?",
+        "I'd prefer to go with a language the team already knows.",
+        "We should stick with our existing stack for consistency.",
+        "This new technology would solve our problem elegantly.",
+        "I'm worried about adding another technology to our stack.",
+        "What's the learning curve for this technology?",
+        "The community support for this framework is strong.",
+        "Let's do a proof of concept before committing."
+      ]
+    },
+    {
+      "scene": "Observability and monitoring",
+      "expressions": [
+        "How do we know if this is working?",
+        "What metrics do we need to track?",
+        "We need proper logging from the start.",
+        "What's our alerting strategy?",
+        "We should set up dashboards for this service.",
+        "What's the SLO for this system?",
+        "We need distributed tracing to debug issues.",
+        "Let's set up structured logging."
+      ]
+    },
+    {
+      "scene": "Security architecture",
+      "expressions": [
+        "What's the threat model for this system?",
+        "Where's the trust boundary?",
+        "How are we handling secrets?",
+        "All traffic should be encrypted in transit.",
+        "We need to authenticate and authorize every request.",
+        "What's our data encryption strategy at rest?",
+        "We should follow the principle of least privilege.",
+        "Let's get a security review before we go live."
+      ]
+    },
+    {
+      "scene": "Architecture Decision Records",
+      "expressions": [
+        "Let's document this decision in an ADR.",
+        "The ADR should capture the context and the decision.",
+        "We should also document alternatives we considered.",
+        "What's the status of this ADR?",
+        "I'll create an ADR for this architecture decision.",
+        "Let's link the ADR to the relevant design docs.",
+        "ADR-001 covers the database choice.",
+        "We need an ADR for every significant architecture decision."
+      ]
+    }
+  ],
+  "ch11": [
+    {
+      "scene": "Submitting a pull request",
+      "expressions": [
+        "PR is up, ready for review.",
+        "Here's what this PR does...",
+        "Can someone take a look at this?",
+        "This PR addresses issue #...",
+        "I'd like to get some early feedback on this.",
+        "This is a WIP, just looking for direction.",
+        "Let me add a description to the PR.",
+        "I'll tag the relevant reviewers."
+      ]
+    },
+    {
+      "scene": "Reviewing logic and correctness",
+      "expressions": [
+        "I think there's a bug here.",
+        "This logic doesn't handle the case where...",
+        "Wait, what happens if this returns null?",
+        "I'm not sure this condition is correct.",
+        "This edge case isn't covered.",
+        "This logic seems backwards.",
+        "Have you tested this scenario?",
+        "I think this should be an OR instead of an AND."
+      ]
+    },
+    {
+      "scene": "Style and conventions discussions",
+      "expressions": [
+        "We usually camelCase in this codebase.",
+        "Our convention is to use early returns.",
+        "Can you run the linter?",
+        "This doesn't follow our project style.",
+        "We typically put constants at the top of the file.",
+        "Let's keep the formatting consistent.",
+        "We've been using X pattern for this.",
+        "This file isn't following the conventions we agreed on."
+      ]
+    },
+    {
+      "scene": "Suggesting refactoring",
+      "expressions": [
+        "This function is doing too much.",
+        "I'd suggest extracting this into a helper.",
+        "This code is getting duplicated in a few places.",
+        "We could simplify this by...",
+        "I think we can clean this up.",
+        "This could be more readable if we...",
+        "Let me suggest a refactor.",
+        "This is getting complex, maybe we can break it down."
+      ]
+    },
+    {
+      "scene": "Test coverage discussions",
+      "expressions": [
+        "We should add tests for this.",
+        "Can you add a test for the edge case?",
+        "What about a unit test for this function?",
+        "I'd like to see an integration test for this flow.",
+        "The test coverage is a bit thin here.",
+        "Let's add more assertions to this test.",
+        "This test doesn't actually test what it says.",
+        "I want to see a failing test first."
+      ]
+    },
+    {
+      "scene": "Performance review in code review",
+      "expressions": [
+        "This could be a performance issue.",
+        "We're making too many database calls in a loop.",
+        "Have you considered the time complexity here?",
+        "This is O-n-squared, we should optimize it.",
+        "We should lazy-load this.",
+        "This query is going to be slow at scale.",
+        "Can we memoize this?",
+        "Let's avoid blocking the main thread."
+      ]
+    },
+    {
+      "scene": "Handling review disagreements",
+      "expressions": [
+        "I see your approach, but I think there's a simpler way.",
+        "I disagree, here's why...",
+        "It's a matter of preference, but I'd lean toward...",
+        "Both approaches work, but I slightly prefer...",
+        "Let me understand your reasoning.",
+        "I actually think we should go the other direction.",
+        "Happy to discuss this offline if it's taking too long.",
+        "Let's not bikeshed on this."
+      ]
+    },
+    {
+      "scene": "Approving and merging",
+      "expressions": [
+        "Looks good to me.",
+        "LGTM, ship it.",
+        "Approved, go ahead and merge.",
+        "Nice work, this looks great.",
+        "A few nits but nothing blocking.",
+        "Once you address these comments, feel free to merge.",
+        "I'm good with this.",
+        "Let me approve so we can unblock the next PR."
+      ]
+    },
+    {
+      "scene": "Reviewing asynchronously",
+      "expressions": [
+        "I'll review this later today.",
+        "I'll take a look after my meeting.",
+        "I left some comments, take a look when you get a chance.",
+        "I'll get to this by EOD.",
+        "Feel free to ping me if I haven't reviewed it by tomorrow.",
+        "I've been traveling, will review once I'm back.",
+        "This is on my review queue.",
+        "I'll prioritize reviewing this."
+      ]
+    },
+    {
+      "scene": "Following up on review comments",
+      "expressions": [
+        "Addressed all comments, please take another look.",
+        "I pushed a fix for the issue you raised.",
+        "Let me know if the changes address your concerns.",
+        "For the first comment, I actually think X is better because...",
+        "I resolved most of the conversations.",
+        "I left a reply on your comment.",
+        "Can you re-review when you get a chance?",
+        "I think we can defer that to a follow-up PR."
+      ]
+    }
+  ],
+  "ch12": [
+    {
+      "scene": "Detecting and reporting incidents",
+      "expressions": [
+        "Something's wrong with production.",
+        "I'm seeing errors in the logs.",
+        "Our error rate just spiked.",
+        "The site is loading slowly.",
+        "We have a P0 incident.",
+        "I got a page from PagerDuty.",
+        "Our monitoring just triggered an alert.",
+        "Customers are reporting an issue."
+      ]
+    },
+    {
+      "scene": "Triage and severity assessment",
+      "expressions": [
+        "How bad is it?",
+        "Is this a P0 or P1?",
+        "How many users are affected?",
+        "What's the blast radius?",
+        "Is this impacting revenue?",
+        "Is there a workaround?",
+        "How critical is this service?",
+        "Let's determine the severity first."
+      ]
+    },
+    {
+      "scene": "Debugging under pressure",
+      "expressions": [
+        "Let me check the logs.",
+        "What changed recently?",
+        "When did this start?",
+        "Let me look at the dashboard.",
+        "Can we reproduce it?",
+        "Let me check the metrics.",
+        "I think the issue is in X service.",
+        "Let's look at the last deployment."
+      ]
+    },
+    {
+      "scene": "Communicating during incidents",
+      "expressions": [
+        "We're investigating the issue.",
+        "We've identified the root cause.",
+        "We're working on a fix.",
+        "ETA on the fix is 30 minutes.",
+        "I'll provide updates every 15 minutes.",
+        "We've deployed a potential fix, monitoring now.",
+        "The issue has been mitigated.",
+        "Here's what we know so far."
+      ]
+    },
+    {
+      "scene": "Mitigation and rollback",
+      "expressions": [
+        "Let's rollback the last deployment.",
+        "We need to revert that change.",
+        "Can we turn off the feature flag?",
+        "We can scale up to handle the load.",
+        "Let's fail over to the secondary.",
+        "The quickest fix is to rollback.",
+        "Let me revert that commit.",
+        "We can hotfix this without a full deploy."
+      ]
+    },
+    {
+      "scene": "Escalating the incident",
+      "expressions": [
+        "I need to escalate this.",
+        "This is beyond what the on-call can handle.",
+        "I'm escalating to the infrastructure team.",
+        "We need engineering leadership involved.",
+        "This needs a cross-team response.",
+        "Let's pull in the database expert.",
+        "I'm calling the incident commander.",
+        "We need to wake someone up for this."
+      ]
+    },
+    {
+      "scene": "Writing postmortems",
+      "expressions": [
+        "Let's schedule a postmortem.",
+        "We need to write up what happened.",
+        "The postmortem should be blameless.",
+        "What's the root cause?",
+        "What went well and what didn't?",
+        "What are our action items to prevent recurrence?",
+        "Let's document the timeline of events.",
+        "We need to identify the contributing factors."
+      ]
+    },
+    {
+      "scene": "Blameless culture language",
+      "expressions": [
+        "The goal is to learn, not to blame.",
+        "Systems failures, not people failures.",
+        "We should focus on the process, not the person.",
+        "What process changes can we make?",
+        "Everyone was acting with the information they had.",
+        "It's easy to be smart in hindsight.",
+        "Let's think about how to make the system more resilient.",
+        "What safeguards were missing?"
+      ]
+    },
+    {
+      "scene": "On-call handover",
+      "expressions": [
+        "Here's what happened during my shift.",
+        "There's an ongoing issue with X.",
+        "Keep an eye on this dashboard.",
+        "I'm handing over to you.",
+        "There's a known issue we're monitoring.",
+        "If you see X, here's what to do.",
+        "The runbook for this is in our wiki.",
+        "Any questions before I sign off?"
+      ]
+    },
+    {
+      "scene": "Preventing recurrence",
+      "expressions": [
+        "How do we make sure this doesn't happen again?",
+        "We need to add monitoring for this.",
+        "Let's automate the rollback process.",
+        "We should add more guardrails.",
+        "This should have been caught in code review.",
+        "We need better testing for this scenario.",
+        "Let's implement a canary deployment process.",
+        "What's the first action item to prevent repeat?"
+      ]
+    }
+  ],
+  "ch13": [
+    {
+      "scene": "Sprint planning",
+      "expressions": [
+        "Let's plan the next sprint.",
+        "How many story points can we commit to?",
+        "Let's prioritize the backlog.",
+        "What's the team's capacity this sprint?",
+        "We should account for PTO and meetings.",
+        "I think we're overcommitting.",
+        "Let's pull in the most important items.",
+        "Does everyone agree on the sprint goal?"
+      ]
+    },
+    {
+      "scene": "Breaking down work",
+      "expressions": [
+        "This story is too big, let's split it.",
+        "Let's break this down into smaller tasks.",
+        "What are the subtasks here?",
+        "We need to define the acceptance criteria.",
+        "This epic needs to be decomposed.",
+        "Each task should be doable in a day or two.",
+        "Let's get more specific about the scope.",
+        "We're missing the technical tasks."
+      ]
+    },
+    {
+      "scene": "Tracking progress",
+      "expressions": [
+        "Where are we on this ticket?",
+        "What's the status of X?",
+        "Is this on track or at risk?",
+        "We're falling behind on this sprint goal.",
+        "We've completed most of the sprint items.",
+        "This ticket has been in progress for too long.",
+        "Let's check the burndown chart.",
+        "How much is remaining?"
+      ]
+    },
+    {
+      "scene": "Managing dependencies",
+      "expressions": [
+        "We're blocked by the design team.",
+        "We need the API to be ready first.",
+        "This depends on X being completed.",
+        "I need a decision from product before we proceed.",
+        "Who are we waiting on?",
+        "Can we parallelize this work?",
+        "Let's unblock this dependency.",
+        "We should surface this blocker to stakeholders."
+      ]
+    },
+    {
+      "scene": "Handling delays and blockers",
+      "expressions": [
+        "We're going to miss the deadline.",
+        "This is going to slip.",
+        "We ran into an unexpected issue.",
+        "The timeline is at risk.",
+        "We need to adjust our timeline.",
+        "I think we need another sprint for this.",
+        "Let's talk about what we can cut.",
+        "I want to flag a potential delay."
+      ]
+    },
+    {
+      "scene": "Retrospectives",
+      "expressions": [
+        "Let's do a retro.",
+        "What went well this sprint?",
+        "What could we have done better?",
+        "What should we start doing?",
+        "What should we stop doing?",
+        "One thing I'd change about our process is...",
+        "Let's pick one action item to work on.",
+        "I felt good about X, but frustrated by Y."
+      ]
+    },
+    {
+      "scene": "Stakeholder updates",
+      "expressions": [
+        "Let me give you a status update.",
+        "We're on track for the launch.",
+        "Here's a summary of what we achieved this week.",
+        "We hit a snag, here's what we're doing about it.",
+        "Good news: we shipped X.",
+        "We need to push the deadline by a week.",
+        "Here's our progress against the roadmap.",
+        "I want to flag a risk to the timeline."
+      ]
+    },
+    {
+      "scene": "Prioritization and trade-offs",
+      "expressions": [
+        "What's the highest priority item?",
+        "Let's rank these by business impact.",
+        "Let's focus on the critical path.",
+        "We need to say no to low-priority work.",
+        "Everything can't be high priority.",
+        "Let's use the RICE framework for this.",
+        "What's the most important thing we can do right now?",
+        "This is important but not urgent."
+      ]
+    },
+    {
+      "scene": "Removing blockers",
+      "expressions": [
+        "What's blocking you?",
+        "How can I help unblock this?",
+        "Let me reach out to the right person.",
+        "I'll escalate this for you.",
+        "We need to clear this blocker before we can move forward.",
+        "What do you need from me to move forward?",
+        "Let's figure out a workaround.",
+        "I'll take ownership of removing this blocker."
+      ]
+    },
+    {
+      "scene": "Celebrating milestones",
+      "expressions": [
+        "We shipped! Great work everyone.",
+        "Let's take a moment to celebrate this release.",
+        "We hit our sprint goals.",
+        "Milestone achieved.",
+        "Congratulations team, we delivered on time.",
+        "Let's do a team lunch to celebrate.",
+        "This was a big push from everyone.",
+        "I'm proud of what we accomplished."
+      ]
+    }
+  ],
+  "ch14": [
+    {
+      "scene": "Onboarding new team members",
+      "expressions": [
+        "Welcome to the team!",
+        "Let me introduce you to everyone.",
+        "I'll pair you with someone for your first week.",
+        "Here's what you need to know to get started.",
+        "Feel free to ask questions, there are no dumb ones.",
+        "We'll ramp you up slowly.",
+        "Let's set up your dev environment first.",
+        "By the end of your first month, you should be comfortable with..."
+      ]
+    },
+    {
+      "scene": "Performance conversations",
+      "expressions": [
+        "Let's talk about your performance.",
+        "I've noticed you've been struggling with X.",
+        "Let's set some goals for the next quarter.",
+        "You've been doing great work on X.",
+        "I want to address something I noticed.",
+        "Let's create a development plan.",
+        "What support do you need to improve in this area?",
+        "I believe you can do better."
+      ]
+    },
+    {
+      "scene": "Career growth discussions",
+      "expressions": [
+        "Where do you see your career going?",
+        "Let's talk about your career trajectory.",
+        "What skills do you want to develop?",
+        "I think you'd be great at X role.",
+        "Let's find projects that stretch your skills.",
+        "What does success look like for you in a year?",
+        "I want to help you get to the next level.",
+        "Let's work on a promotion packet for you."
+      ]
+    },
+    {
+      "scene": "Building team culture",
+      "expressions": [
+        "I want us to have a culture of...",
+        "Let's define our team values.",
+        "How do we want to work together?",
+        "I value transparency and open communication.",
+        "Let's create a safe space for feedback.",
+        "Our team should be known for X.",
+        "What kind of culture do we want to build?",
+        "Let's start a team ritual."
+      ]
+    },
+    {
+      "scene": "Conflict resolution",
+      "expressions": [
+        "I hear there's some tension between you two.",
+        "Let's sit down and talk this through.",
+        "I want to mediate this conversation.",
+        "What's going on from your perspective?",
+        "How can we find a resolution here?",
+        "Let's focus on the problem, not the person.",
+        "I need you both to find a way to work together.",
+        "What would a good outcome look like for you?"
+      ]
+    },
+    {
+      "scene": "Resource planning",
+      "expressions": [
+        "We need more headcount.",
+        "Let me make a case for additional resources.",
+        "Our team is understaffed for this project.",
+        "We need to prioritize our limited resources.",
+        "What's the right team size for this initiative?",
+        "I think we need another senior engineer.",
+        "We should hire for X skills.",
+        "Let's look at how we're allocating our resources."
+      ]
+    },
+    {
+      "scene": "Hiring interviews and debriefs",
+      "expressions": [
+        "Let's review the candidate's background.",
+        "I liked how they approached the system design question.",
+        "They have strong coding skills but weak communication.",
+        "How was the behavioral round?",
+        "I think they'd be a good culture fit.",
+        "What did you think of their technical depth?",
+        "I have some concerns about their experience level.",
+        "Let's debrief on the interview loop."
+      ]
+    },
+    {
+      "scene": "Team rituals and ceremonies",
+      "expressions": [
+        "Let's start standup.",
+        "What did you work on yesterday?",
+        "What are you working on today?",
+        "Any blockers?",
+        "Let's do a team lunch.",
+        "I'm starting a weekly knowledge share session.",
+        "Let's do show and tell.",
+        "Our retro is every two weeks."
+      ]
+    },
+    {
+      "scene": "Running effective standups",
+      "expressions": [
+        "Let's keep standup to 15 minutes.",
+        "Go one by one.",
+        "Keep it high level.",
+        "If it needs deeper discussion, take it offline.",
+        "What's the one thing you want the team to know?",
+        "Don't spend too much time on details here.",
+        "Let me note that and we can discuss after.",
+        "Anyone need help with anything?"
+      ]
+    },
+    {
+      "scene": "Managing remote and hybrid teams",
+      "expressions": [
+        "Let's make sure our remote teammates feel included.",
+        "Let's default to async communication.",
+        "We should have our cameras on for meetings.",
+        "What time zone works for everyone?",
+        "Let's be mindful of different time zones.",
+        "I want to make sure remote folks get equal airtime.",
+        "Let's over-communicate when working async.",
+        "I'll record this meeting for those who can't make it."
+      ]
+    }
+  ],
+  "ch15": [
+    {
+      "scene": "Demos and showcases",
+      "expressions": [
+        "Let me show you what we've built.",
+        "Here's what we've been working on.",
+        "Let me walk you through the demo.",
+        "I'll show you the key features.",
+        "This is still work in progress but...",
+        "Let me start with a quick overview.",
+        "We'd love your feedback on this.",
+        "Let me show you the before and after."
+      ]
+    },
+    {
+      "scene": "Managing expectations",
+      "expressions": [
+        "I want to set expectations upfront.",
+        "Let me be realistic about what we can deliver.",
+        "We can do X, but Y will take longer.",
+        "Here's what to expect in the first release.",
+        "I don't want to overpromise on this.",
+        "Let's be conservative in our estimates.",
+        "We'll deliver X by the deadline, but Y will slip.",
+        "I'd rather underpromise and overdeliver."
+      ]
+    },
+    {
+      "scene": "Saying no gracefully",
+      "expressions": [
+        "I hear you, and here's why that's challenging.",
+        "We can't take that on right now because...",
+        "Let me explain our current priorities.",
+        "We have to say no to this for now.",
+        "If we do X, we'll have to drop Y.",
+        "I'm not saying never, but not right now.",
+        "What if we revisit this next quarter?",
+        "We have to make trade-offs, and here's why this doesn't make the cut."
+      ]
+    },
+    {
+      "scene": "Building alignment",
+      "expressions": [
+        "Let me make sure we're aligned on this.",
+        "I think we actually agree more than we disagree.",
+        "Here's what I'm hearing from everyone...",
+        "Let's find common ground.",
+        "How can we get on the same page?",
+        "I think we're aligned on the goal, just not the approach.",
+        "Let me summarize where I think we all land.",
+        "What would it take to get your buy-in?"
+      ]
+    },
+    {
+      "scene": "Reporting progress upward",
+      "expressions": [
+        "Let me give you an update.",
+        "Here's where we stand against the timeline.",
+        "We're on track to deliver on schedule.",
+        "We've completed X percent of the work.",
+        "Here are the key milestones and their status.",
+        "We hit a snag, but here's our recovery plan.",
+        "We need your help to unblock X.",
+        "I'll send you a written update after this."
+      ]
+    },
+    {
+      "scene": "Getting buy-in from stakeholders",
+      "expressions": [
+        "I'd like to get your buy-in on this approach.",
+        "Here's why I think this is the right direction.",
+        "I've done the analysis, and here's what I found.",
+        "What concerns do you have?",
+        "Can I count on your support for this?",
+        "I'm presenting a proposal for your approval.",
+        "Here's the business case for this investment.",
+        "I need your sponsorship to move this forward."
+      ]
+    },
+    {
+      "scene": "Handling scope creep",
+      "expressions": [
+        "This is adding scope beyond what we agreed on.",
+        "I recognize this is important, but it's out of scope.",
+        "Every new feature has an impact on our timeline.",
+        "If we add this, something else has to slip.",
+        "Let's capture this for a future phase.",
+        "I need to protect the team from scope creep.",
+        "Let's stick to the agreed roadmap.",
+        "We can explore that in the next iteration."
+      ]
+    },
+    {
+      "scene": "Cross-functional negotiation",
+      "expressions": [
+        "I need the design team to commit to this timeline.",
+        "Can you have your team prioritize this?",
+        "We're in a crunch and need marketing to step up.",
+        "Let's find a solution that works for both teams.",
+        "I understand your constraints, here are mine.",
+        "What would it take for your team to make this work?",
+        "We need to agree on shared priorities.",
+        "Let me understand what's realistic on your end."
+      ]
+    },
+    {
+      "scene": "Building trust with stakeholders",
+      "expressions": [
+        "I want to be transparent with you.",
+        "I'll let you know early if there are issues.",
+        "I'll keep you in the loop.",
+        "You can count on me to deliver what I promise.",
+        "I'd rather give you bad news early than good news late.",
+        "I have no hidden agenda here.",
+        "Let me show you the data behind my recommendation.",
+        "I'm committed to making this project successful."
+      ]
+    },
+    {
+      "scene": "Handling difficult stakeholders",
+      "expressions": [
+        "I understand you're frustrated.",
+        "Let me understand your concerns better.",
+        "I want to find a solution that works for everyone.",
+        "I hear you, and I'll look into it.",
+        "Let me address your specific concerns one by one.",
+        "Is there a compromise we can both live with?",
+        "I appreciate your passion for this.",
+        "Let's focus on what we can control."
+      ]
+    }
+  ],
+  "ch16": [
+    {
+      "scene": "Technical strategy and roadmap",
+      "expressions": [
+        "Here's our technical strategy for the next year.",
+        "We need to invest in our infrastructure.",
+        "Our technical debt is slowing us down.",
+        "Let's define our engineering principles.",
+        "Here's how I see the technology landscape evolving.",
+        "We need to decide where to place our technical bets.",
+        "Our platform needs to evolve to support future growth.",
+        "Let's think about our tech strategy in terms of capabilities, not projects."
+      ]
+    },
+    {
+      "scene": "Building engineering culture",
+      "expressions": [
+        "I want to build a culture of engineering excellence.",
+        "Quality should be everyone's responsibility.",
+        "Let's create a culture where it's safe to fail.",
+        "I want us to be known for our engineering culture.",
+        "We should celebrate good engineering, not just shipping.",
+        "Let's invest in developer experience.",
+        "I encourage everyone to spend time on learning.",
+        "Great engineering culture comes from good habits, not mandates."
+      ]
+    },
+    {
+      "scene": "Mentoring senior engineers",
+      "expressions": [
+        "You have the potential to be a tech lead.",
+        "Let's work on your technical leadership skills.",
+        "I want you to start mentoring others.",
+        "How can I help you grow in your role?",
+        "You should start thinking beyond your immediate scope.",
+        "Let me share some lessons I've learned.",
+        "You're ready to start owning bigger initiatives.",
+        "Start developing your technical vision."
+      ]
+    },
+    {
+      "scene": "Driving organizational change",
+      "expressions": [
+        "This is going to be a big change for the org.",
+        "We need to restructure our teams.",
+        "I'm proposing a new team structure.",
+        "Change is hard, but it's necessary.",
+        "Here's my plan for rolling out this change.",
+        "I need your help in driving this transformation.",
+        "Let me share why this change is needed.",
+        "What concerns do people have about this change?"
+      ]
+    },
+    {
+      "scene": "Managing technical debt at scale",
+      "expressions": [
+        "Our technical debt is reaching a critical point.",
+        "We need to allocate time for paying down tech debt.",
+        "Let's quantify the cost of our technical debt.",
+        "We need a systematic approach to reducing debt.",
+        "Let me make the case for a tech debt sprint.",
+        "What's the highest-impact debt we can address?",
+        "We should track tech debt alongside feature work.",
+        "If we don't address this now, it'll cost us more later."
+      ]
+    },
+    {
+      "scene": "Incident leadership",
+      "expressions": [
+        "I'm taking over as incident commander.",
+        "Let's stay calm and work the problem.",
+        "What's our current status?",
+        "Who's working on what?",
+        "Let's establish a clear communication channel.",
+        "I need updates every 10 minutes.",
+        "Focus on mitigation, not root cause right now.",
+        "We'll do a full analysis once the incident is resolved."
+      ]
+    },
+    {
+      "scene": "Cross-team technical decisions",
+      "expressions": [
+        "This decision affects multiple teams.",
+        "We need to align all the teams on this approach.",
+        "Let me facilitate the discussion.",
+        "I want to hear from every team before deciding.",
+        "This is a complex decision with many stakeholders.",
+        "Let's set up a working group for this.",
+        "We need to balance the needs of all teams.",
+        "I'll make the final call, but I want input from everyone."
+      ]
+    },
+    {
+      "scene": "Growing future leaders",
+      "expressions": [
+        "I see leadership potential in you.",
+        "Let me give you opportunities to lead.",
+        "I'm delegating this project to you to build your leadership skills.",
+        "You should start thinking like a leader, not just an IC.",
+        "Let me coach you on leading without authority.",
+        "What kind of leader do you want to become?",
+        "Leadership is about enabling others to succeed.",
+        "I'm going to put you in situations that stretch your leadership muscles."
+      ]
+    },
+    {
+      "scene": "Setting technical standards",
+      "expressions": [
+        "We need to agree on our coding standards.",
+        "Let's establish best practices across the org.",
+        "I'm proposing we adopt X as our standard.",
+        "Standards should enable, not constrain.",
+        "Every team should follow these guidelines.",
+        "Let's get consensus on these standards.",
+        "Here are the principles behind our standards.",
+        "Standards help us move faster as an org."
+      ]
+    },
+    {
+      "scene": "Communicating vision broadly",
+      "expressions": [
+        "Let me share the bigger picture.",
+        "Here's where we're going as an organization.",
+        "I want everyone to understand our technical vision.",
+        "Let me connect what we're doing to the company's goals.",
+        "Here's why our work matters.",
+        "I'll share this vision in the all-hands.",
+        "I want everyone to feel ownership of this vision.",
+        "Our vision needs to be simple enough that everyone can explain it."
+      ]
+    }
+  ],
+  "ch17": [
+    {
+      "scene": "Prompt engineering discussions",
+      "expressions": [
+        "Let me craft the prompt carefully.",
+        "I need to be more specific in my prompt.",
+        "The model keeps hallucinating on this.",
+        "Let me try few-shot prompting.",
+        "I'm using a system prompt to set the behavior.",
+        "The output quality depends heavily on the prompt.",
+        "I'm iterating on the prompt to get better results.",
+        "Let me chain the prompts together."
+      ]
+    },
+    {
+      "scene": "Model evaluation and comparison",
+      "expressions": [
+        "How do we evaluate this model's performance?",
+        "We need a benchmark to compare models.",
+        "The model scores well on accuracy but not on reasoning.",
+        "Let's run an evaluation suite.",
+        "Human evaluation is still the gold standard.",
+        "We need to test for edge cases.",
+        "The model is overfitting to our evaluation data.",
+        "Let's set up automated evals."
+      ]
+    },
+    {
+      "scene": "Training data and quality discussions",
+      "expressions": [
+        "What data are we training on?",
+        "The quality of the training data matters most.",
+        "We need more diverse training data.",
+        "There's data contamination in the training set.",
+        "We need to clean the dataset.",
+        "Let's look at the data distribution.",
+        "We should augment our training data.",
+        "The training data has a bias we need to address."
+      ]
+    },
+    {
+      "scene": "Fine-tuning conversations",
+      "expressions": [
+        "We're fine-tuning the model on our domain data.",
+        "Let me prepare the fine-tuning dataset.",
+        "We need high-quality labeled examples for fine-tuning.",
+        "What's the best base model to fine-tune from?",
+        "Fine-tuning improved the output significantly.",
+        "We need to be careful not to overfit.",
+        "Let's do a small fine-tuning experiment first.",
+        "What hyperparameters are we using for fine-tuning?"
+      ]
+    },
+    {
+      "scene": "LLM application architecture",
+      "expressions": [
+        "We're building an LLM-powered application.",
+        "The architecture is prompt plus context plus model.",
+        "We need to manage the context window carefully.",
+        "Let's use retrieval-augmented generation for this.",
+        "We should cache common responses.",
+        "The latency is too high, we need to optimize.",
+        "How do we handle rate limiting?",
+        "We're using the model as a reasoning engine, not a database."
+      ]
+    },
+    {
+      "scene": "AI safety and alignment",
+      "expressions": [
+        "We need to think about AI safety.",
+        "What guardrails do we have in place?",
+        "The model can generate harmful content.",
+        "We need content filtering.",
+        "How do we prevent prompt injection?",
+        "We need to align the model with our values.",
+        "Let's do red-teaming to find vulnerabilities.",
+        "Safety should be built in from the start."
+      ]
+    },
+    {
+      "scene": "RAG and knowledge retrieval",
+      "expressions": [
+        "We're using RAG for grounding the model.",
+        "The retrieval quality is key to RAG performance.",
+        "We chunk the documents for better retrieval.",
+        "Let me tune the embedding model.",
+        "We need to re-rank the search results.",
+        "The context window limits how much we can retrieve.",
+        "Hybrid search works better than pure vector search.",
+        "Let's improve the chunking strategy."
+      ]
+    },
+    {
+      "scene": "AI product discussions",
+      "expressions": [
+        "What's the user experience for the AI feature?",
+        "The AI should feel like a copilot, not a replacement.",
+        "We need to set user expectations about AI limitations.",
+        "How do we handle when the AI is wrong?",
+        "The product should gracefully handle AI failures.",
+        "Let's A/B test the AI feature.",
+        "What metrics define success for this AI product?",
+        "Users should be able to give feedback on AI outputs."
+      ]
+    },
+    {
+      "scene": "Model comparison and selection",
+      "expressions": [
+        "How does GPT-4o compare to Claude here?",
+        "Let's benchmark different models on our task.",
+        "Model A is better at reasoning, Model B at creativity.",
+        "We need to consider price versus performance.",
+        "The smaller model is good enough for our use case.",
+        "Let me run the same prompt through different models.",
+        "Quality-wise, they're comparable, but speed differs.",
+        "We should use a cheaper model for simple tasks."
+      ]
+    },
+    {
+      "scene": "AI research discussions",
+      "expressions": [
+        "The paper proposes a new architecture.",
+        "What's the SOTA on this task?",
+        "This approach is promising but not production-ready.",
+        "The latest advances in transformers...",
+        "Let's replicate the results from this paper.",
+        "I think the research direction is shifting toward...",
+        "This is an active area of research.",
+        "The field is moving incredibly fast."
+      ]
+    }
+  ],
+  "ch18": [
+    {
+      "scene": "Agent architecture design",
+      "expressions": [
+        "We're building an agent system.",
+        "The agent has a perception-action loop.",
+        "Let me design the agent's decision-making flow.",
+        "The agent needs to plan and then execute.",
+        "We're using a ReAct pattern for this agent.",
+        "The agent's architecture is event-driven.",
+        "Let's define the agent's capabilities and boundaries.",
+        "The agent makes tool calls based on user intent."
+      ]
+    },
+    {
+      "scene": "Tool use and function calling",
+      "expressions": [
+        "Let me define the tools the agent can use.",
+        "We need to be specific about tool descriptions.",
+        "The agent needs a tool to search the database.",
+        "Let me write the function specs for the agent.",
+        "Tools need clear inputs and outputs.",
+        "The agent can compose multiple tool calls.",
+        "We should validate tool outputs before using them.",
+        "How do we handle tool call failures?"
+      ]
+    },
+    {
+      "scene": "Multi-agent systems",
+      "expressions": [
+        "We have specialized agents for different tasks.",
+        "Let's split the work between multiple agents.",
+        "Agents need a way to communicate with each other.",
+        "We need a coordinator agent.",
+        "Each agent has a specific role and expertise.",
+        "The agents pass information through a shared context.",
+        "How do we resolve conflicts between agents?",
+        "Let me design the agent communication protocol."
+      ]
+    },
+    {
+      "scene": "Agent evaluation and testing",
+      "expressions": [
+        "How do we evaluate the agent's performance?",
+        "We need to test the agent on various scenarios.",
+        "Does the agent handle edge cases well?",
+        "Let's measure task completion rate.",
+        "The agent got stuck in a loop.",
+        "We need to evaluate both success rate and efficiency.",
+        "Let's create a test suite for agent behaviors.",
+        "The agent sometimes takes the wrong action."
+      ]
+    },
+    {
+      "scene": "Memory and state management",
+      "expressions": [
+        "The agent needs memory to be effective.",
+        "We're using a vector store for the agent's memory.",
+        "Short-term memory holds the current conversation.",
+        "Long-term memory stores facts across sessions.",
+        "How do we manage the agent's context window?",
+        "The agent should remember user preferences.",
+        "Let's implement episodic memory.",
+        "We need to prioritize which memories to keep."
+      ]
+    },
+    {
+      "scene": "Agent safety and guardrails",
+      "expressions": [
+        "We need guardrails for the agent.",
+        "What happens if the agent takes an unintended action?",
+        "We should have a human-in-the-loop for critical actions.",
+        "The agent should confirm before executing destructive actions.",
+        "We need rate limiting on agent actions.",
+        "Let's define the agent's constraints upfront.",
+        "The agent should stop if it detects something unsafe.",
+        "We need monitoring and logging of all agent actions."
+      ]
+    },
+    {
+      "scene": "Planning and reasoning in agents",
+      "expressions": [
+        "The agent needs to plan before acting.",
+        "Let me implement a planning step.",
+        "The agent breaks down complex tasks into subtasks.",
+        "We're using chain-of-thought in the agent's reasoning.",
+        "The agent should evaluate its plan before executing.",
+        "What if the agent's plan fails halfway through?",
+        "The agent needs to adapt its plan dynamically.",
+        "Let me add a planning loop."
+      ]
+    },
+    {
+      "scene": "Agent observability",
+      "expressions": [
+        "We need to see what the agent is thinking.",
+        "Let's log every step the agent takes.",
+        "The agent should explain its reasoning.",
+        "We need traces to debug agent behavior.",
+        "What metrics should we track for the agent?",
+        "Let's visualize the agent's decision process.",
+        "I need to see the full action history.",
+        "Observability is critical for agent systems."
+      ]
+    },
+    {
+      "scene": "Human-in-the-loop patterns",
+      "expressions": [
+        "This action requires human approval.",
+        "Let me set up a handoff mechanism.",
+        "The agent should know when to ask for help.",
+        "We need a smooth transition between agent and human.",
+        "The human should be able to override the agent.",
+        "Flag this for human review.",
+        "When the agent is uncertain, it should escalate.",
+        "Let's define clear handoff criteria."
+      ]
+    },
+    {
+      "scene": "Agent orchestration",
+      "expressions": [
+        "We need an orchestrator to coordinate agents.",
+        "The orchestrator decides which agent to invoke.",
+        "Agent tasks can run in parallel.",
+        "Let's define the workflow between agents.",
+        "The orchestrator monitors agent health.",
+        "When an agent fails, the orchestrator should retry.",
+        "We need to handle agent timeouts.",
+        "The orchestration layer manages task queues."
+      ]
+    }
+  ],
+  "ch19": [
+    {
+      "scene": "Pitch deck and fundraising",
+      "expressions": [
+        "We're solving a really painful problem.",
+        "Here's our unique value proposition.",
+        "The market opportunity is huge.",
+        "We have strong product-market fit.",
+        "Our traction speaks for itself.",
+        "We're growing X percent month over month.",
+        "Here's our unit economics.",
+        "We're asking for a X Series A."
+      ]
+    },
+    {
+      "scene": "Product-market fit discussions",
+      "expressions": [
+        "Do we have product-market fit?",
+        "Users keep coming back organically.",
+        "Our retention numbers are strong.",
+        "We're seeing strong word-of-mouth growth.",
+        "Customers are willing to pay for this.",
+        "We haven't found PMF yet, we need to iterate.",
+        "What's your north star metric?",
+        "We need to talk to more customers."
+      ]
+    },
+    {
+      "scene": "Growth and metrics conversations",
+      "expressions": [
+        "What are our key metrics?",
+        "We're tracking DAU and MAU.",
+        "Our customer acquisition cost is too high.",
+        "LTV needs to be 3x CAC.",
+        "We're seeing strong organic growth.",
+        "Let's optimize the conversion funnel.",
+        "Our churn rate is improving.",
+        "We need to hit X ARR by year end."
+      ]
+    },
+    {
+      "scene": "Team building in startups",
+      "expressions": [
+        "We need to hire for key roles.",
+        "We're looking for a founding engineer.",
+        "Culture starts from day one.",
+        "We hire for attitude and train for skills.",
+        "I want people who are passionate about the mission.",
+        "We need someone who can wear multiple hats.",
+        "Let's define our hiring bar.",
+        "Every hire should raise the bar."
+      ]
+    },
+    {
+      "scene": "Customer discovery and interviews",
+      "expressions": [
+        "Let's talk to potential customers.",
+        "What's their biggest pain point?",
+        "I want to understand the user's workflow.",
+        "Let's do customer development interviews.",
+        "What are customers saying about our product?",
+        "We should validate this assumption with users.",
+        "The customer's problem is more nuanced than we thought.",
+        "Let me share what we learned from user interviews."
+      ]
+    },
+    {
+      "scene": "Pivoting and iteration",
+      "expressions": [
+        "I think we need to pivot.",
+        "The current direction isn't working.",
+        "Let's look at the data and decide.",
+        "We need to be honest about what's not working.",
+        "A pivot isn't failure, it's learning.",
+        "Here's what we've learned and where we should go.",
+        "We're pivoting to focus on X segment.",
+        "Let's make a hypothesis and test it."
+      ]
+    },
+    {
+      "scene": "Go-to-market strategy",
+      "expressions": [
+        "Who's our target customer?",
+        "Let's define our ICP.",
+        "We're starting with a niche and expanding.",
+        "What's our distribution strategy?",
+        "Should we do direct sales or self-serve?",
+        "We need a channel partner strategy.",
+        "Content marketing is our primary acquisition channel.",
+        "Let's do a limited launch first."
+      ]
+    },
+    {
+      "scene": "Unit economics discussions",
+      "expressions": [
+        "Let's talk about unit economics.",
+        "What's our gross margin?",
+        "Our COGS are too high.",
+        "The unit economics need to make sense.",
+        "What's the payback period on customer acquisition?",
+        "We need positive unit economics before scaling.",
+        "Let me break down the revenue per user.",
+        "Our margins will improve with scale."
+      ]
+    },
+    {
+      "scene": "Founder conversations and dynamics",
+      "expressions": [
+        "Being a founder is a roller coaster.",
+        "I'm burning out.",
+        "We need to be aligned on the vision.",
+        "Founder-market fit is real.",
+        "You need co-founders you can fight with and still respect.",
+        "The lows are low, but the highs are high.",
+        "We need to make a hard decision.",
+        "Let's talk about equity split."
+      ]
+    },
+    {
+      "scene": "Board meeting preparation",
+      "expressions": [
+        "Let me prepare the board deck.",
+        "Here's what we'll present to the board.",
+        "The board will want to see our metrics.",
+        "Let's be transparent about challenges.",
+        "What questions do you expect from the board?",
+        "We need to show progress since last meeting.",
+        "I want to present our ask clearly.",
+        "Let's rehearse the board meeting."
+      ]
+    }
+  ],
+  "ch20": [
+    {
+      "scene": "Market sizing (TAM, SAM, SOM)",
+      "expressions": [
+        "What's the total addressable market?",
+        "Let's size the market opportunity.",
+        "TAM is X billion dollars.",
+        "Our serviceable addressable market is...",
+        "The market is growing at X percent CAGR.",
+        "Let's do a bottom-up market sizing.",
+        "Top-down analysis suggests a X dollar market.",
+        "We need to segment the market."
+      ]
+    },
+    {
+      "scene": "Competitive landscape mapping",
+      "expressions": [
+        "Who are the main players?",
+        "Let's map the competitive landscape.",
+        "The market is fragmented.",
+        "There are a few dominant players.",
+        "Nobody's doing what we're doing.",
+        "The competitive moat is technology.",
+        "Competition is heating up in this space.",
+        "Here's the competitive matrix."
+      ]
+    },
+    {
+      "scene": "Trend analysis and forecasts",
+      "expressions": [
+        "What are the macro trends driving this?",
+        "There's a secular shift toward X.",
+        "This trend is accelerating.",
+        "The tailwinds are strong in this sector.",
+        "Are we early or late to this trend?",
+        "Here's the adoption curve we expect.",
+        "The trend has legs beyond the hype cycle.",
+        "Let's look at analogous trends in other markets."
+      ]
+    },
+    {
+      "scene": "Technology adoption analysis",
+      "expressions": [
+        "Where are we on the adoption curve?",
+        "We're still in early adopter phase.",
+        "The technology is crossing the chasm.",
+        "Enterprise adoption is still lagging.",
+        "The infrastructure is maturing.",
+        "We're seeing accelerating adoption.",
+        "What's the barrier to widespread adoption?",
+        "The technology has reached an inflection point."
+      ]
+    },
+    {
+      "scene": "Sector deep dives",
+      "expressions": [
+        "Let's dive deep into the space.",
+        "I've been studying this sector for months.",
+        "The sector dynamics are shifting.",
+        "There's a lot of innovation happening here.",
+        "Let's look at the sector value chain.",
+        "Where is value being created and captured?",
+        "The sector is ripe for disruption.",
+        "Let's identify the key players and their strategies."
+      ]
+    },
+    {
+      "scene": "Regulatory impact analysis",
+      "expressions": [
+        "Regulation could be a factor here.",
+        "What's the regulatory landscape?",
+        "The regulatory risk is significant.",
+        "New regulations could change the game.",
+        "How are incumbents responding to regulation?",
+        "We need to understand the compliance requirements.",
+        "Regulation could be a barrier to entry.",
+        "The regulatory environment is evolving."
+      ]
+    },
+    {
+      "scene": "Business model analysis",
+      "expressions": [
+        "How does the business make money?",
+        "The revenue model is subscription-based.",
+        "What's the unit economics look like?",
+        "The business model is capital-intensive.",
+        "Margins are high in this business model.",
+        "Is the business model scalable?",
+        "Let's analyze their revenue streams.",
+        "The business model has strong recurring revenue."
+      ]
+    },
+    {
+      "scene": "M&A landscape discussions",
+      "expressions": [
+        "There's been a lot of M&A activity.",
+        "Consolidation is happening in this space.",
+        "The strategic buyers are circling.",
+        "Valuations are high for acquisition targets.",
+        "There are attractive bolt-on acquisition targets.",
+        "IPO is the exit strategy, but M&A is also possible.",
+        "Large tech companies are buying their way into this space.",
+        "What's the M&A premium in this sector?"
+      ]
+    },
+    {
+      "scene": "Macro trend considerations",
+      "expressions": [
+        "Interest rates are affecting valuations.",
+        "The macro environment is challenging.",
+        "Capital is becoming more expensive.",
+        "There's a flight to quality in this market.",
+        "Geopolitical factors are at play.",
+        "Inflation is impacting consumer spending.",
+        "The labor market is tight.",
+        "We're in a risk-off environment."
+      ]
+    },
+    {
+      "scene": "Forming an investment thesis",
+      "expressions": [
+        "Here's my investment thesis.",
+        "The thesis is that X will disrupt Y.",
+        "I believe there's a X dollar opportunity here.",
+        "The investment thesis is based on three key insights.",
+        "What's the catalyst for this opportunity?",
+        "The timeline for the thesis is 5 to 7 years.",
+        "Let me stress-test this thesis.",
+        "The thesis needs more data to be convincing."
+      ]
+    }
+  ],
+  "ch21": [
+    {
+      "scene": "Deal sourcing conversations",
+      "expressions": [
+        "I came across an interesting company.",
+        "This came through my network.",
+        "It was referred to me by a founder I backed.",
+        "I've been tracking this space for a while.",
+        "The founders have a strong background.",
+        "This looks like a promising deal.",
+        "Let me share the deal memo with you.",
+        "We should look at this company."
+      ]
+    },
+    {
+      "scene": "Pitch meeting dynamics",
+      "expressions": [
+        "Tell me about your company.",
+        "What problem are you solving?",
+        "Walk me through your product.",
+        "How big is this market?",
+        "What's your traction so far?",
+        "Who's on your team?",
+        "Why are you the right founder for this?",
+        "How much are you raising?"
+      ]
+    },
+    {
+      "scene": "Term sheet discussions",
+      "expressions": [
+        "Let's go through the term sheet.",
+        "We're offering a X pre-money valuation.",
+        "We're proposing standard terms.",
+        "Here's the liquidation preference.",
+        "We'd like a board seat.",
+        "The option pool needs to be expanded.",
+        "We're comfortable with the proposed terms.",
+        "Let's negotiate the key terms."
+      ]
+    },
+    {
+      "scene": "Valuation conversations",
+      "expressions": [
+        "What valuation are you looking for?",
+        "We're thinking X pre-money.",
+        "Based on comps, we think fair value is...",
+        "The revenue multiple is high compared to peers.",
+        "We value the company at X.",
+        "How did you arrive at that valuation?",
+        "Let's look at comparable transactions.",
+        "The valuation needs to leave room for upside."
+      ]
+    },
+    {
+      "scene": "Board meeting language",
+      "expressions": [
+        "Let me give you the quarterly update.",
+        "Revenue is tracking ahead of plan.",
+        "We're burning cash faster than expected.",
+        "We need to discuss the hiring plan.",
+        "The board should be aware of...",
+        "I recommend we approve the budget.",
+        "Let's go into executive session.",
+        "Any questions or concerns from the board?"
+      ]
+    },
+    {
+      "scene": "Portfolio strategy discussions",
+      "expressions": [
+        "We need to think about portfolio construction.",
+        "We want exposure to this sector.",
+        "Our portfolio is overweight in X.",
+        "Let's diversify into adjacent spaces.",
+        "What's our deployment strategy for Fund III?",
+        "We're focusing on early-stage investments.",
+        "Our sweet spot is Series A.",
+        "We reserve capital for follow-ons."
+      ]
+    },
+    {
+      "scene": "Exit scenario planning",
+      "expressions": [
+        "What does the exit landscape look like?",
+        "IPO could be an option in 3 years.",
+        "There's strategic interest from large tech companies.",
+        "The most likely exit is an acquisition.",
+        "We should start thinking about exit timing.",
+        "The public market comps are favorable.",
+        "What's the expected return multiple on exit?",
+        "We need to prepare the company for exit."
+      ]
+    },
+    {
+      "scene": "Follow-on investment decisions",
+      "expressions": [
+        "Should we participate in this round?",
+        "The company needs more capital.",
+        "I'm worried about the company's trajectory.",
+        "We should double down on our winners.",
+        "Let's protect our position with a pro-rata.",
+        "The company hasn't hit its milestones.",
+        "I'm inclined to follow on.",
+        "We need to decide whether to invest more."
+      ]
+    },
+    {
+      "scene": "Investment committee presentations",
+      "expressions": [
+        "I'm presenting this deal to the IC.",
+        "Here's the investment recommendation.",
+        "The key risks are...",
+        "I'm recommending we invest X.",
+        "What are the main questions from the committee?",
+        "Let me address the potential downsides.",
+        "The IC wants more diligence on X.",
+        "We got approval from the investment committee."
+      ]
+    },
+    {
+      "scene": "Partner alignment discussions",
+      "expressions": [
+        "Are we aligned on this deal?",
+        "I have some reservations I need to share.",
+        "Let me play devil's advocate.",
+        "I think we should pass on this one.",
+        "We need to get all partners on board.",
+        "What's your conviction level on this?",
+        "I need more time to make a decision.",
+        "Let's build consensus before moving forward."
+      ]
+    }
+  ],
+  "ch22": [
+    {
+      "scene": "Technical due diligence",
+      "expressions": [
+        "Let me review the codebase.",
+        "What's the tech stack?",
+        "How's the code quality?",
+        "I want to review the architecture.",
+        "Is the tech scalable?",
+        "How much technical debt do they have?",
+        "What's the deployment process?",
+        "Let's assess the engineering team's capability."
+      ]
+    },
+    {
+      "scene": "Financial due diligence",
+      "expressions": [
+        "Let's look at the financials.",
+        "Can I see the P&L?",
+        "What's the burn rate?",
+        "I'd like to review the financial projections.",
+        "Are there any off-balance-sheet items?",
+        "Let's verify the revenue numbers.",
+        "The gross margins look solid.",
+        "We need to understand the cost structure."
+      ]
+    },
+    {
+      "scene": "Team and culture assessment",
+      "expressions": [
+        "Tell me about your team.",
+        "Who are the key hires?",
+        "How experienced is the management team?",
+        "I want to meet the engineering lead.",
+        "What's the team culture like?",
+        "Are there any gaps in the team?",
+        "How do you retain talent?",
+        "Let me interview the key executives."
+      ]
+    },
+    {
+      "scene": "Market diligence",
+      "expressions": [
+        "Let me talk to some customers.",
+        "What does the competitive landscape look like?",
+        "Can I speak to a reference customer?",
+        "How big is the addressable market?",
+        "What's the market growth rate?",
+        "Are there any substitutes?",
+        "The competitive positioning is strong.",
+        "We need to validate the market assumptions."
+      ]
+    },
+    {
+      "scene": "Legal and IP review",
+      "expressions": [
+        "Let's do the legal diligence.",
+        "I want to see the cap table.",
+        "Are there any pending lawsuits?",
+        "Let's review the IP portfolio.",
+        "Do they have patents?",
+        "Are there any IP ownership issues?",
+        "Let's look at the employment agreements.",
+        "We need a legal opinion on X."
+      ]
+    },
+    {
+      "scene": "Product diligence",
+      "expressions": [
+        "Let me use the product.",
+        "The product experience is intuitive.",
+        "There are some usability issues.",
+        "The product roadmap looks ambitious.",
+        "How's product-market fit?",
+        "What's the product development lifecycle?",
+        "Let's look at the product roadmap.",
+        "The product has strong engagement metrics."
+      ]
+    },
+    {
+      "scene": "Customer reference calls",
+      "expressions": [
+        "I spoke to a few customers.",
+        "They love the product but want X feature.",
+        "Customer satisfaction is high.",
+        "One customer is considering leaving.",
+        "The customers we spoke to are power users.",
+        "There's a pattern in the feedback.",
+        "Customers are willing to pay more.",
+        "The net promoter score is strong."
+      ]
+    },
+    {
+      "scene": "Data room review",
+      "expressions": [
+        "Let me review the data room.",
+        "I need to see the historical financials.",
+        "I'll look through the contracts.",
+        "The data room is well organized.",
+        "There are some gaps in the documentation.",
+        "Can you add these documents to the data room?",
+        "We need more detail on the cap table.",
+        "The data room has most of what we need."
+      ]
+    },
+    {
+      "scene": "Competitive diligence",
+      "expressions": [
+        "Who else is in this space?",
+        "Let's analyze the competitive landscape.",
+        "The company has a strong moat.",
+        "What's their competitive advantage?",
+        "A new competitor just entered the market.",
+        "The competitive dynamics are changing.",
+        "How do they differentiate from competitors?",
+        "Let's do a SWOT analysis."
+      ]
+    },
+    {
+      "scene": "Risk assessment and mitigation",
+      "expressions": [
+        "Let's identify the key risks.",
+        "The biggest risk is execution.",
+        "Market timing is a risk factor.",
+        "The reliance on one customer is a concern.",
+        "Let's assess the downside scenarios.",
+        "The risk-reward profile is attractive.",
+        "How do we mitigate these risks?",
+        "I'm comfortable with the risk profile."
+      ]
+    }
+  ]
+}

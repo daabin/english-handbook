@@ -1,0 +1,1096 @@
+[
+  {
+    "id": "ch07-001",
+    "chapter": "ch07",
+    "expression": "set the vision",
+    "literalTranslation": "设定愿景",
+    "naturalMeaning": "为团队或项目设定长远目标和方向，让大家知道我们要去哪里",
+    "example": "As a leader, your job is to set the vision and then get out of the way.",
+    "exampleTranslation": "作为领导，你的职责是设定愿景，然后别挡路。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-002",
+    "chapter": "ch07",
+    "expression": "get everyone on the same page",
+    "literalTranslation": "让所有人都在同一页上",
+    "naturalMeaning": "确保团队成员对目标、计划或现状有一致的理解和认知，避免误解",
+    "example": "Let's have a quick sync to get everyone on the same page before we move forward.",
+    "exampleTranslation": "我们在推进之前快速同步一下，确保大家对现状理解一致。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-003",
+    "chapter": "ch07",
+    "expression": "lay out the roadmap",
+    "literalTranslation": "铺开路线图",
+    "naturalMeaning": "清楚地向团队展示未来的计划和关键里程碑",
+    "example": "I'm gonna lay out the roadmap for Q3 so everyone knows what's coming.",
+    "exampleTranslation": "我来展示一下Q3的路线图，让大家知道接下来要做什么。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "startup"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-004",
+    "chapter": "ch07",
+    "expression": "point us in the right direction",
+    "literalTranslation": "把我们指向正确的方向",
+    "naturalMeaning": "引导团队朝正确的方向前进，给予明确的指导",
+    "example": "We're a bit lost on this one — can you point us in the right direction?",
+    "exampleTranslation": "这个我们有点迷茫，你能给我们指条明路吗？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-005",
+    "chapter": "ch07",
+    "expression": "chart the course",
+    "literalTranslation": "绘制航线",
+    "naturalMeaning": "制定行动计划或战略方向，决定怎么走",
+    "example": "We need to chart the course for the next six months and stick to it.",
+    "exampleTranslation": "我们需要制定接下来六个月的行动计划，然后坚持执行。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "formal"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-006",
+    "chapter": "ch07",
+    "expression": "paint the picture",
+    "literalTranslation": "画出画面",
+    "naturalMeaning": "用生动的语言向团队描述未来的愿景或目标状态",
+    "example": "Let me paint the picture of what success looks like six months from now.",
+    "exampleTranslation": "让我给大家描绘一下六个月后成功的样子是什么样的。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-007",
+    "chapter": "ch07",
+    "expression": "know where we're headed",
+    "literalTranslation": "知道我们要往哪去",
+    "naturalMeaning": "明确团队的前进方向，不迷茫",
+    "example": "I want everyone on the team to know where we're headed and why it matters.",
+    "exampleTranslation": "我希望团队每个人都知道我们的方向以及为什么这事很重要。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-008",
+    "chapter": "ch07",
+    "expression": "north star",
+    "literalTranslation": "北极星",
+    "naturalMeaning": "团队的核心指导原则或长期目标，用来衡量所有决策的对错",
+    "example": "User satisfaction is our north star — every decision should come back to that.",
+    "exampleTranslation": "用户满意度就是我们的北极星——每个决策都应该回归到这个原则上。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "startup",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-009",
+    "chapter": "ch07",
+    "expression": "fire someone up",
+    "literalTranslation": "把某人点燃",
+    "naturalMeaning": "激发某人的热情和动力，让他充满干劲",
+    "example": "A good leader knows how to fire the team up before a big launch.",
+    "exampleTranslation": "好的领导知道如何在重大发布前点燃团队的干劲。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-010",
+    "chapter": "ch07",
+    "expression": "get people excited",
+    "literalTranslation": "让人们兴奋起来",
+    "naturalMeaning": "让团队成员对某个项目或目标产生热情和期待",
+    "example": "You need to get people excited about where we're going, not just tell them what to do.",
+    "exampleTranslation": "你需要让大家对我们的方向感到兴奋，而不仅仅是指挥他们做事。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-011",
+    "chapter": "ch07",
+    "expression": "rally the troops",
+    "literalTranslation": "集结部队",
+    "naturalMeaning": "在关键时刻把团队凝聚起来，鼓舞士气",
+    "example": "When things get tough, that's when you really need to rally the troops.",
+    "exampleTranslation": "事情变得棘手的时候，才是真正需要你鼓舞士气的时候。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-012",
+    "chapter": "ch07",
+    "expression": "keep morale up",
+    "literalTranslation": "保持士气高昂",
+    "naturalMeaning": "维持团队的积极心态和工作热情，防止沮丧和倦怠",
+    "example": "After the reorg, it's been tough to keep morale up — people are nervous.",
+    "exampleTranslation": "重组之后，维持士气挺难的，大家都很紧张。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-013",
+    "chapter": "ch07",
+    "expression": "give a pep talk",
+    "literalTranslation": "给一个打气讲话",
+    "naturalMeaning": "在团队需要动力时发表简短有力的鼓励讲话",
+    "example": "Before the product launch, the VP came in and gave us a pep talk.",
+    "exampleTranslation": "产品发布前，副总裁进来给我们打了一针鸡血。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-014",
+    "chapter": "ch07",
+    "expression": "get buy-in",
+    "literalTranslation": "获得买入",
+    "naturalMeaning": "获得团队或利益相关者的支持和认同，让他们愿意配合",
+    "example": "Before we roll this out, I need to get buy-in from the engineering team.",
+    "exampleTranslation": "在推行之前，我需要先获得工程团队的支持。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "startup"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-015",
+    "chapter": "ch07",
+    "expression": "bring the energy",
+    "literalTranslation": "带来能量",
+    "naturalMeaning": "在团队中展现积极、充满活力的态度，带动气氛",
+    "example": "When you walk into that room, bring the energy — the team feeds off of you.",
+    "exampleTranslation": "你走进那个房间的时候要拿出状态来，团队的情绪是跟着你走的。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-016",
+    "chapter": "ch07",
+    "expression": "walk the walk",
+    "literalTranslation": "走着走",
+    "naturalMeaning": "言行一致，以身作则，不止是说得好听而是做得到位",
+    "example": "You can talk all you want, but you gotta walk the walk if you want the team to respect you.",
+    "exampleTranslation": "你说什么都行，但要想让团队尊重你，你得先做到位。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-017",
+    "chapter": "ch07",
+    "expression": "hand something off",
+    "literalTranslation": "把某物递出去",
+    "naturalMeaning": "把任务或职责交给别人负责",
+    "example": "I'm going to hand this project off to Sarah — she's got the bandwidth to run with it.",
+    "exampleTranslation": "我准备把这个项目交给Sarah负责，她有时间来推进。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-018",
+    "chapter": "ch07",
+    "expression": "pass the baton",
+    "literalTranslation": "传递接力棒",
+    "naturalMeaning": "把职责或领导权平稳地移交给下一个人",
+    "example": "I've been leading this initiative for two years — it's time to pass the baton.",
+    "exampleTranslation": "这个项目我已经带两年了，是时候把接力棒交出去了。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "formal"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ch07-019",
+    "chapter": "ch07",
+    "expression": "loosen the reins",
+    "literalTranslation": "松开缰绳",
+    "naturalMeaning": "减少对团队的控制，给予更多自主权",
+    "example": "You've been micromanaging — you need to loosen the reins and trust your team.",
+    "exampleTranslation": "你一直在微观管理，你需要松一松缰绳，相信你的团队。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-020",
+    "chapter": "ch07",
+    "expression": "let someone run with it",
+    "literalTranslation": "让某人拿着它跑",
+    "naturalMeaning": "授权给某人，让他自主推进任务而不被过多干涉",
+    "example": "I trust your judgment on this — just let me know what you need and run with it.",
+    "exampleTranslation": "这件事我相信你的判断，告诉我你需要什么，然后自己去推进吧。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-021",
+    "chapter": "ch07",
+    "expression": "empower someone to",
+    "literalTranslation": "授权某人去做",
+    "naturalMeaning": "给予某人权力和信心去做某事，让他自己拿主意",
+    "example": "I want to empower you to make these decisions without coming to me first.",
+    "exampleTranslation": "我希望授权给你直接做这些决定，不用先来找我。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "formal"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-022",
+    "chapter": "ch07",
+    "expression": "own it",
+    "literalTranslation": "拥有它",
+    "naturalMeaning": "对某件事完全负责，担当起来，不推卸责任",
+    "example": "If something goes wrong, just own it — don't make excuses.",
+    "exampleTranslation": "如果出了问题，就自己扛起来承担责任，不要找借口。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-023",
+    "chapter": "ch07",
+    "expression": "take something off my plate",
+    "literalTranslation": "从我盘子里拿走某物",
+    "naturalMeaning": "帮某人分担工作，减轻他的负担",
+    "example": "I'm swamped this week — can you take this off my plate?",
+    "exampleTranslation": "我这周忙飞了，你能帮我把这个处理了吗？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-024",
+    "chapter": "ch07",
+    "expression": "point person",
+    "literalTranslation": "指向的人",
+    "naturalMeaning": "某个项目或任务的主要负责人，大家有问题就找他",
+    "example": "Lisa will be the point person for the migration — direct all questions to her.",
+    "exampleTranslation": "Lisa将担任迁移工作的主要负责人，所有问题直接找她。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-025",
+    "chapter": "ch07",
+    "expression": "clear the air",
+    "literalTranslation": "清理空气",
+    "naturalMeaning": "说出分歧或误会，消除紧张气氛，让大家恢复正常沟通",
+    "example": "There's been some tension lately — let's sit down and clear the air.",
+    "exampleTranslation": "最近气氛有些紧张，我们坐下来把话说开吧。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "daily"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-026",
+    "chapter": "ch07",
+    "expression": "talk it out",
+    "literalTranslation": "把它说出来",
+    "naturalMeaning": "通过对话解决分歧或问题，而不是憋在心里或绕开",
+    "example": "Instead of letting this fester, let's just talk it out like adults.",
+    "exampleTranslation": "与其让这事发酵，不如我们像成年人一样把话说开。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-027",
+    "chapter": "ch07",
+    "expression": "agree to disagree",
+    "literalTranslation": "同意不同意",
+    "naturalMeaning": "双方意见不合但尊重彼此立场，不再争论下去",
+    "example": "We're not gonna see eye to eye on this, so let's just agree to disagree and move on.",
+    "exampleTranslation": "这件事我们达不成一致，那我们就各自保留意见，继续往前走。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-028",
+    "chapter": "ch07",
+    "expression": "see where someone is coming from",
+    "literalTranslation": "看到某人从哪里来",
+    "naturalMeaning": "理解别人的立场、角度或出发点，不一定同意但能理解",
+    "example": "I can see where you're coming from, but I think we need to look at the bigger picture.",
+    "exampleTranslation": "我理解你的出发点，但我认为我们还需要看更大的局面。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-029",
+    "chapter": "ch07",
+    "expression": "bridge the gap",
+    "literalTranslation": "架起桥梁填补鸿沟",
+    "naturalMeaning": "缩小分歧或差距，找到中间地带让双方达成一致",
+    "example": "We need someone who can bridge the gap between design and engineering.",
+    "exampleTranslation": "我们需要一个能在设计和工程之间搭桥的人。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "formal"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-030",
+    "chapter": "ch07",
+    "expression": "address the elephant in the room",
+    "literalTranslation": "处理房间里的那头大象",
+    "naturalMeaning": "直面那个大家都知道但没人愿意提起的敏感问题",
+    "example": "Nobody wants to talk about the layoff rumors, but let's address the elephant in the room.",
+    "exampleTranslation": "没人想谈裁员传闻，但我们还是直面这个显而易见的问题吧。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-031",
+    "chapter": "ch07",
+    "expression": "not point fingers",
+    "literalTranslation": "不要用手指指人",
+    "naturalMeaning": "不互相指责或追究责任，而是聚焦于解决问题",
+    "example": "Let's not point fingers here — what's done is done. How do we fix it?",
+    "exampleTranslation": "咱们别互相指责了，已经这样了。我们怎么解决？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-032",
+    "chapter": "ch07",
+    "expression": "find common ground",
+    "literalTranslation": "找到共同的基础",
+    "naturalMeaning": "找到双方都认可的共同点或共同利益，作为合作的基础",
+    "example": "The two teams disagree on the approach, so let's find common ground and work from there.",
+    "exampleTranslation": "两个团队在方法上有分歧，我们先找共同点，然后从那开始推进。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-033",
+    "chapter": "ch07",
+    "expression": "call the shots",
+    "literalTranslation": "叫出枪声",
+    "naturalMeaning": "做最终决定，掌握决策权，说了算",
+    "example": "On this project, who's calling the shots?",
+    "exampleTranslation": "这个项目谁说了算？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-034",
+    "chapter": "ch07",
+    "expression": "make the call",
+    "literalTranslation": "做出那个呼叫",
+    "naturalMeaning": "做出一个艰难或重要的决定",
+    "example": "Someone needs to make the call — are we delaying the release or not?",
+    "exampleTranslation": "得有人拍板了——我们到底要不要推迟发布？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-035",
+    "chapter": "ch07",
+    "expression": "go with",
+    "literalTranslation": "和...走",
+    "naturalMeaning": "在多个选项中最终选择某一个方案",
+    "example": "After looking at all the options, I think we should go with the first proposal.",
+    "exampleTranslation": "看了所有选项之后，我觉得我们应该选第一个方案。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-036",
+    "chapter": "ch07",
+    "expression": "pull the trigger",
+    "literalTranslation": "扣动扳机",
+    "naturalMeaning": "终于做出决定并开始执行某个计划或行动",
+    "example": "We've been debating this for weeks — it's time to pull the trigger.",
+    "exampleTranslation": "我们已经讨论了好几个星期了，是时候拍板执行了。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual",
+      "startup"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-037",
+    "chapter": "ch07",
+    "expression": "sleep on it",
+    "literalTranslation": "睡在它上面",
+    "naturalMeaning": "不急于做决定，先花时间慎重考虑",
+    "example": "I don't want to rush this. Let me sleep on it and get back to you tomorrow.",
+    "exampleTranslation": "我不想仓促做决定，让我回去想想，明天回复你。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-038",
+    "chapter": "ch07",
+    "expression": "put a stake in the ground",
+    "literalTranslation": "把桩子插在地上",
+    "naturalMeaning": "明确表明自己的立场或决定，确立一个不可动摇的基准点",
+    "example": "We need to put a stake in the ground on the deadline so everyone knows what to plan for.",
+    "exampleTranslation": "我们需要在截止日期上明确拍板，这样大家才好做计划。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "startup"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-039",
+    "chapter": "ch07",
+    "expression": "table something",
+    "literalTranslation": "把某物放在桌上",
+    "naturalMeaning": "暂时搁置某个议题，延后再讨论（美国用法是将议题延迟讨论）",
+    "example": "We're not making progress on this — let's table it and revisit next week.",
+    "exampleTranslation": "这个议题我们推不动，先放一放，下周再回来看。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "formal"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-040",
+    "chapter": "ch07",
+    "expression": "land the plane",
+    "literalTranslation": "让飞机着陆",
+    "naturalMeaning": "把一个讨论、项目或决策顺利完成并收尾",
+    "example": "We've been debating the design for a month — someone needs to land the plane.",
+    "exampleTranslation": "设计方案我们已经讨论一个月了，得有人把这事收尾了。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual",
+      "meetings"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-041",
+    "chapter": "ch07",
+    "expression": "keep someone in the loop",
+    "literalTranslation": "让某人在圈子里",
+    "naturalMeaning": "让某人随时了解最新进展，不把他排除在信息之外",
+    "example": "Make sure you keep the stakeholders in the loop as we roll this out.",
+    "exampleTranslation": "在推行过程中一定要让相关方随时了解进展。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-042",
+    "chapter": "ch07",
+    "expression": "lay your cards on the table",
+    "literalTranslation": "把牌摊在桌上",
+    "naturalMeaning": "坦诚公开所有信息，不隐瞒真实情况",
+    "example": "I'm gonna lay my cards on the table — we have way less runway than we thought.",
+    "exampleTranslation": "我跟大家摊牌了——我们剩下的资金比预想的少得多。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-043",
+    "chapter": "ch07",
+    "expression": "no surprises",
+    "literalTranslation": "没有惊喜",
+    "naturalMeaning": "要求或承诺提前沟通，不让任何人感到意外",
+    "example": "My management philosophy is simple — no surprises. Tell me bad news early.",
+    "exampleTranslation": "我的管理哲学很简单——不要有意外。坏消息要早点告诉我。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-044",
+    "chapter": "ch07",
+    "expression": "open-door policy",
+    "literalTranslation": "敞开的门政策",
+    "naturalMeaning": "领导随时欢迎团队成员来找自己谈话，不必预约",
+    "example": "I have an open-door policy — if something's on your mind, just come by.",
+    "exampleTranslation": "我随时欢迎大家来找我聊，心里有事就直接过来。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "formal"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-045",
+    "chapter": "ch07",
+    "expression": "pull back the curtain",
+    "literalTranslation": "拉开窗帘",
+    "naturalMeaning": "揭示幕后的情况，让团队看到平时看不到的信息",
+    "example": "In the all-hands, the CEO pulled back the curtain on how the investment decision was made.",
+    "exampleTranslation": "全员会议上，CEO揭示了投资决策背后的考量过程。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "casual"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ch07-046",
+    "chapter": "ch07",
+    "expression": "give a heads-up",
+    "literalTranslation": "给一个头部向上",
+    "naturalMeaning": "提前通知或提醒某人，让他有所准备",
+    "example": "Just wanted to give you a heads-up — the budget meeting got moved to Thursday.",
+    "exampleTranslation": "提前跟你说一声，预算会议改到周四了。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-047",
+    "chapter": "ch07",
+    "expression": "be upfront about",
+    "literalTranslation": "在前面关于",
+    "naturalMeaning": "对某事坦诚、直说，不拐弯抹角",
+    "example": "I appreciate you being upfront about the timeline — that helps us plan better.",
+    "exampleTranslation": "我很感激你坦诚地说了时间线的问题，这有助于我们更好地做计划。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-048",
+    "chapter": "ch07",
+    "expression": "break the ice",
+    "literalTranslation": "打破冰面",
+    "naturalMeaning": "在初次见面或陌生场合中通过轻松话题缓解尴尬气氛",
+    "example": "Let's do a quick icebreaker so everyone can get to know each other.",
+    "exampleTranslation": "我们快速做个破冰活动，让大家互相认识一下。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-049",
+    "chapter": "ch07",
+    "expression": "get to know each other",
+    "literalTranslation": "开始认识彼此",
+    "naturalMeaning": "花时间了解团队成员的个人背景、兴趣和性格",
+    "example": "The first week is really about getting to know each other and building trust.",
+    "exampleTranslation": "第一周其实就是互相了解、建立信任的过程。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-050",
+    "chapter": "ch07",
+    "expression": "build rapport",
+    "literalTranslation": "建立和谐关系",
+    "naturalMeaning": "通过日常互动建立信任和良好的工作关系",
+    "example": "Take time to build rapport with your new team members — it makes everything easier.",
+    "exampleTranslation": "花时间和新团队成员建立良好的关系——这样后面什么都好办。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-051",
+    "chapter": "ch07",
+    "expression": "team bonding",
+    "literalTranslation": "团队粘合",
+    "naturalMeaning": "团队通过非正式活动增进感情和凝聚力",
+    "example": "We should plan a team bonding activity this quarter — maybe a hiking trip.",
+    "exampleTranslation": "这个季度我们应该搞个团队建设活动，比如去徒步。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-052",
+    "chapter": "ch07",
+    "expression": "create a safe space",
+    "literalTranslation": "创造一个安全的空间",
+    "naturalMeaning": "营造一个让团队成员敢于表达真实想法和犯错的氛围",
+    "example": "As a manager, it's your job to create a safe space where people can speak up without fear.",
+    "exampleTranslation": "作为管理者，你的职责是创造一个安全的环境，让大家敢于发表意见而不用担心。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "formal"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-053",
+    "chapter": "ch07",
+    "expression": "check in with someone",
+    "literalTranslation": "和某人核对进来",
+    "naturalMeaning": "定期或主动找某人聊聊，看他状态如何、有没有需要帮助的地方",
+    "example": "I'll check in with you after the meeting to see how you're feeling about the changes.",
+    "exampleTranslation": "会后我找你聊聊，看看你对这些变化感觉怎么样。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-054",
+    "chapter": "ch07",
+    "expression": "watercooler talk",
+    "literalTranslation": "饮水机旁的聊天",
+    "naturalMeaning": "办公室里非正式的闲聊，通常发生在茶水间或饮水机旁",
+    "example": "Some of the best ideas come from watercooler talk, not formal meetings.",
+    "exampleTranslation": "最好的创意往往来自茶水间的闲聊，而不是正式会议。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual",
+      "daily"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-055",
+    "chapter": "ch07",
+    "expression": "touch base",
+    "literalTranslation": "触碰基地",
+    "naturalMeaning": "简短地联系或会面，同步信息或确认进展",
+    "example": "Let's touch base next week to see where things stand.",
+    "exampleTranslation": "我们下周简单碰一下，看看进展怎么样。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "meetings",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-056",
+    "chapter": "ch07",
+    "expression": "catch up",
+    "literalTranslation": "追上",
+    "naturalMeaning": "约个时间聊聊近况、同步信息或了解进展",
+    "example": "Hey, it's been a while — let's grab coffee and catch up.",
+    "exampleTranslation": "嘿，好久没聊了，我们喝杯咖啡聊聊近况吧。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-057",
+    "chapter": "ch07",
+    "expression": "how are things going",
+    "literalTranslation": "事情怎么样",
+    "naturalMeaning": "询问对方近况如何，既可以聊工作也可以聊生活",
+    "example": "How are things going with the new project? Any roadblocks I should know about?",
+    "exampleTranslation": "新项目怎么样？有什么障碍需要我知道的吗？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-058",
+    "chapter": "ch07",
+    "expression": "what's on your mind",
+    "literalTranslation": "你脑子里有什么",
+    "naturalMeaning": "询问对方在想什么、有什么担忧或想法，引导对方说出心里话",
+    "example": "You seem a bit distracted today — what's on your mind?",
+    "exampleTranslation": "你今天看起来有点心不在焉，在想什么呢？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-059",
+    "chapter": "ch07",
+    "expression": "what's on your plate",
+    "literalTranslation": "你盘子里有什么",
+    "naturalMeaning": "询问对方手头有哪些任务和工作量",
+    "example": "Before I assign this, let me ask — what's on your plate right now?",
+    "exampleTranslation": "在我分配这个任务之前，先问一下——你手头现在都有什么工作？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-060",
+    "chapter": "ch07",
+    "expression": "how can I support you",
+    "literalTranslation": "我怎么支持你",
+    "naturalMeaning": "主动询问对方需要什么帮助或资源，体现管理者的支持角色",
+    "example": "Tell me what you need from me — how can I support you in hitting this deadline?",
+    "exampleTranslation": "告诉我你需要我做什么——我要怎么支持你按时完成？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-061",
+    "chapter": "ch07",
+    "expression": "give feedback",
+    "literalTranslation": "给出反馈",
+    "naturalMeaning": "对员工的工作表现提出建设性的评价，可好可坏",
+    "example": "I want to give you some feedback on the presentation — overall great, but let's work on the pacing.",
+    "exampleTranslation": "我想对你的演示给一些反馈——整体很棒，但节奏方面可以再优化一下。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-062",
+    "chapter": "ch07",
+    "expression": "be straight with someone",
+    "literalTranslation": "对某人直着",
+    "naturalMeaning": "坦诚直接地跟某人说话，不绕弯子",
+    "example": "I'm gonna be straight with you — your performance has been slipping lately.",
+    "exampleTranslation": "我就跟你直说了——你最近的表现有所下滑。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-063",
+    "chapter": "ch07",
+    "expression": "step up",
+    "literalTranslation": "走上来",
+    "naturalMeaning": "承担更多责任或提升表现，在面对挑战时挺身而出",
+    "example": "This is a great opportunity for you to step up and take on more ownership.",
+    "exampleTranslation": "这是你挺身而出、承担更多责任的好机会。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch07-064",
+    "chapter": "ch07",
+    "expression": "level up",
+    "literalTranslation": "升级",
+    "naturalMeaning": "提升自己的技能、能力或职业水平到下一个阶段",
+    "example": "If you want to level up in your career, you need to start thinking more strategically.",
+    "exampleTranslation": "如果你想在职业生涯中更上一层楼，就需要开始更有战略性地思考。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "casual",
+      "software-engineering"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-065",
+    "chapter": "ch07",
+    "expression": "step outside your comfort zone",
+    "literalTranslation": "走出你的舒适区",
+    "naturalMeaning": "挑战自己不熟悉或不擅长的事情，以实现成长",
+    "example": "I know public speaking isn't your thing, but growth means stepping outside your comfort zone.",
+    "exampleTranslation": "我知道公开演讲不是你的强项，但成长就意味着走出舒适区。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-066",
+    "chapter": "ch07",
+    "expression": "fast track",
+    "literalTranslation": "快速轨道",
+    "naturalMeaning": "让某人通过加速路径更快地晋升或发展",
+    "example": "We put her on the fast track because she showed exceptional leadership potential.",
+    "exampleTranslation": "我们把她列入快速晋升通道，因为她展现了卓越的领导潜力。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "formal",
+      "startup"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-067",
+    "chapter": "ch07",
+    "expression": "mentor someone",
+    "literalTranslation": "指导某人",
+    "naturalMeaning": "以导师身份帮助和指导经验较少的人成长",
+    "example": "I've been mentoring a junior engineer on the team — it's been really rewarding.",
+    "exampleTranslation": "我一直在指导团队里的一位初级工程师，真的很有成就感。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-068",
+    "chapter": "ch07",
+    "expression": "stretch assignment",
+    "literalTranslation": "拉伸的任务",
+    "naturalMeaning": "分配给员工的有挑战性的任务，超出其当前能力范围以促成长",
+    "example": "I'm giving you this as a stretch assignment — it's gonna be hard, but I think you can do it.",
+    "exampleTranslation": "我给你的这个任务有一定挑战性，会很难，但我相信你能做到。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "formal"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch07-069",
+    "chapter": "ch07",
+    "expression": "growth mindset",
+    "literalTranslation": "成长心态",
+    "naturalMeaning": "相信能力可以通过努力和学习来提高的观念，而不是固定不变的",
+    "example": "We're hiring for growth mindset — we want people who are always looking to improve.",
+    "exampleTranslation": "我们招人看重成长心态——我们想要那些一直在寻求进步的人。",
+    "tags": [
+      "leadership",
+      "workplace",
+      "software-engineering",
+      "startup"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch07-070",
+    "chapter": "ch07",
+    "expression": "bring someone up to speed",
+    "literalTranslation": "把某人带到当前速度",
+    "naturalMeaning": "让新成员或需要了解情况的人快速掌握项目的最新进展",
+    "example": "We have a new developer joining next week — can you help bring them up to speed?",
+    "exampleTranslation": "下周有位新开发入职，你能帮他快速了解项目情况吗？",
+    "tags": [
+      "leadership",
+      "workplace",
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  }
+]

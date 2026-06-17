@@ -1,0 +1,4228 @@
+[
+  {
+    "id": "ch03-001",
+    "chapter": "ch03",
+    "expression": "What's up?",
+    "literalTranslation": "怎么了？",
+    "naturalMeaning": "非正式问候，问对方最近在忙什么或近况如何",
+    "example": "Hey, what's up? Long time no talk.",
+    "exampleTranslation": "嘿，最近怎么样？好久没聊了。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-002",
+    "chapter": "ch03",
+    "expression": "How's it going?",
+    "literalTranslation": "事情进展得怎么样？",
+    "naturalMeaning": "问候近况，相当于中文的'最近怎么样'",
+    "example": "How's it going? Haven't seen you in a while.",
+    "exampleTranslation": "最近怎么样？有阵子没见了。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-003",
+    "chapter": "ch03",
+    "expression": "Long time no see",
+    "literalTranslation": "好久不见",
+    "naturalMeaning": "很久没见了，用于好久没见到某人时打招呼",
+    "example": "Hey Mark, long time no see! How've you been?",
+    "exampleTranslation": "嘿Mark，好久不见！你还好吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-004",
+    "chapter": "ch03",
+    "expression": "What have you been up to?",
+    "literalTranslation": "你最近在忙什么？",
+    "naturalMeaning": "问对方最近在做什么或有什么新鲜事",
+    "example": "So what have you been up to lately?",
+    "exampleTranslation": "那你最近在忙什么呢？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-005",
+    "chapter": "ch03",
+    "expression": "Same old, same old",
+    "literalTranslation": "还是老样子，还是老样子",
+    "naturalMeaning": "生活没什么变化，一切照旧，回答'最近怎么样'时的常用回复",
+    "example": "Nothing new, same old same old.",
+    "exampleTranslation": "没什么新鲜的，还是老样子。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-006",
+    "chapter": "ch03",
+    "expression": "Just chilling",
+    "literalTranslation": "就是在放松",
+    "naturalMeaning": "没什么特别的事，在休息放松",
+    "example": "Not much, just chilling at home watching Netflix.",
+    "exampleTranslation": "没什么，就在家看Netflix放松。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-007",
+    "chapter": "ch03",
+    "expression": "Hang in there",
+    "literalTranslation": "挂在上面",
+    "naturalMeaning": "鼓励对方坚持住，挺过困难时期",
+    "example": "I know work is tough right now, just hang in there.",
+    "exampleTranslation": "我知道工作现在很难，坚持住。",
+    "tags": [
+      "daily",
+      "casual",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-008",
+    "chapter": "ch03",
+    "expression": "Catch up with you later",
+    "literalTranslation": "以后再跟上你",
+    "naturalMeaning": "回头再聊，以后再见",
+    "example": "I gotta run, catch up with you later.",
+    "exampleTranslation": "我得走了，回头跟你聊。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-009",
+    "chapter": "ch03",
+    "expression": "How's everything?",
+    "literalTranslation": "一切都好吗？",
+    "naturalMeaning": "问候对方各方面情况，比'How are you'更自然",
+    "example": "How's everything with you and the family?",
+    "exampleTranslation": "你和家人都好吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-010",
+    "chapter": "ch03",
+    "expression": "What's new?",
+    "literalTranslation": "有什么新的？",
+    "naturalMeaning": "问对方最近的新闻或变化，很常见的日常招呼",
+    "example": "Hey, what's new with you?",
+    "exampleTranslation": "嘿，你最近有什么新鲜事？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-011",
+    "chapter": "ch03",
+    "expression": "I hear you",
+    "literalTranslation": "我听到你了",
+    "naturalMeaning": "表示理解对方的观点或感受，不是真的'听到了'而是'我懂你'",
+    "example": "Yeah, I hear you, this project is frustrating.",
+    "exampleTranslation": "对，我懂你，这个项目确实让人沮丧。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-012",
+    "chapter": "ch03",
+    "expression": "No worries",
+    "literalTranslation": "别担心",
+    "naturalMeaning": "没关系，别放在心上，用于回应道歉或感谢",
+    "example": "Sorry I'm late. No worries, I just got here too.",
+    "exampleTranslation": "抱歉来晚了。没关系，我也刚到。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-013",
+    "chapter": "ch03",
+    "expression": "Take it easy",
+    "literalTranslation": "放松点",
+    "naturalMeaning": "叫对方别太紧张或别太拼命，也可以作为告别语",
+    "example": "You've been working too hard. Take it easy this weekend.",
+    "exampleTranslation": "你工作太辛苦了。这周末放松一下。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-014",
+    "chapter": "ch03",
+    "expression": "Nice to meet you",
+    "literalTranslation": "很高兴认识你",
+    "naturalMeaning": "初次见面的礼貌用语，比'How do you do'自然得多",
+    "example": "Nice to meet you, I've heard a lot about your work.",
+    "exampleTranslation": "很高兴认识你，久仰你的工作成果。",
+    "tags": [
+      "daily",
+      "formal",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-015",
+    "chapter": "ch03",
+    "expression": "Likewise",
+    "literalTranslation": "同样",
+    "naturalMeaning": "回应问候或赞美，表示我也一样，相当于'你也是'",
+    "example": "Great meeting you. Likewise, take care!",
+    "exampleTranslation": "很高兴见到你。我也是，保重！",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-016",
+    "chapter": "ch03",
+    "expression": "What's going on?",
+    "literalTranslation": "发生什么事了？",
+    "naturalMeaning": "问情况或问候，比'What's up'稍微正式一点点但仍然很随意",
+    "example": "Hey everyone, what's going on?",
+    "exampleTranslation": "嘿大伙儿，怎么了？",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-017",
+    "chapter": "ch03",
+    "expression": "See you around",
+    "literalTranslation": "回头见你",
+    "naturalMeaning": "非正式告别，暗示不是特意约好而是可能偶然见到",
+    "example": "Alright, see you around campus.",
+    "exampleTranslation": "好，校园里回头见。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-018",
+    "chapter": "ch03",
+    "expression": "Don't be a stranger",
+    "literalTranslation": "别像个陌生人",
+    "naturalMeaning": "保持联系，别太久不联系像个陌生人一样",
+    "example": "Good hanging out. Don't be a stranger!",
+    "exampleTranslation": "跟你一起玩很开心。常联系！",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-019",
+    "chapter": "ch03",
+    "expression": "How are you doing?",
+    "literalTranslation": "你做得怎么样？",
+    "naturalMeaning": "问候近况，美国人最常说的问候之一",
+    "example": "How are you doing today?",
+    "exampleTranslation": "你今天怎么样？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-020",
+    "chapter": "ch03",
+    "expression": "Pretty good",
+    "literalTranslation": "挺好的",
+    "naturalMeaning": "对'How are you'一类问候的常见回答，表示还不错",
+    "example": "How's it going? Pretty good, you?",
+    "exampleTranslation": "最近怎么样？还不错，你呢？",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-021",
+    "chapter": "ch03",
+    "expression": "Couldn't be better",
+    "literalTranslation": "不能更好了",
+    "naturalMeaning": "表示非常好，好得不能再好了",
+    "example": "How are you? Couldn't be better!",
+    "exampleTranslation": "你怎么样？好得不能再好了！",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-022",
+    "chapter": "ch03",
+    "expression": "Been a while",
+    "literalTranslation": "有段时间了",
+    "naturalMeaning": "表示很久没见或某件事很久没发生了",
+    "example": "Hey man, been a while! How are things?",
+    "exampleTranslation": "嘿兄弟，有段时间没见了！你怎么样？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-023",
+    "chapter": "ch03",
+    "expression": "I'm starving",
+    "literalTranslation": "我饿死了",
+    "naturalMeaning": "非常饿，美国人几乎每天都会说的夸张表达",
+    "example": "Let's eat, I'm starving.",
+    "exampleTranslation": "我们去吃吧，我饿死了。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-024",
+    "chapter": "ch03",
+    "expression": "What are you in the mood for?",
+    "literalTranslation": "你对什么有心情？",
+    "naturalMeaning": "问对方想吃什么或想做什么",
+    "example": "What are you in the mood for tonight?",
+    "exampleTranslation": "你今晚想吃什么？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-025",
+    "chapter": "ch03",
+    "expression": "I could go for...",
+    "literalTranslation": "我可以去...",
+    "naturalMeaning": "表达想吃某样东西或用某物，非常自然的渴求表达",
+    "example": "I could go for some pizza right now.",
+    "exampleTranslation": "我现在可以吃点披萨。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-026",
+    "chapter": "ch03",
+    "expression": "My treat",
+    "literalTranslation": "我的请客",
+    "naturalMeaning": "我来买单，我请客",
+    "example": "Don't worry about it, this is my treat.",
+    "exampleTranslation": "别担心，这顿我请。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-027",
+    "chapter": "ch03",
+    "expression": "It's on me",
+    "literalTranslation": "它在我身上",
+    "naturalMeaning": "算我的，我来付账，比'My treat'更随意",
+    "example": "Drinks are on me tonight.",
+    "exampleTranslation": "今晚的饮料我来买单。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-028",
+    "chapter": "ch03",
+    "expression": "Let's split it",
+    "literalTranslation": "我们分开它",
+    "naturalMeaning": "们AA制，各付一半或各付各的",
+    "example": "Let's just split the bill.",
+    "exampleTranslation": "我们就AA吧。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-029",
+    "chapter": "ch03",
+    "expression": "To-go",
+    "literalTranslation": "带走",
+    "naturalMeaning": "打包带走不堂食，外卖",
+    "example": "Can I get this to-go?",
+    "exampleTranslation": "这个可以打包吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-030",
+    "chapter": "ch03",
+    "expression": "For here or to-go?",
+    "literalTranslation": "在这里还是带走？",
+    "naturalMeaning": "收银员问顾客是在店里吃还是打包带走",
+    "example": "For here or to-go? To-go, please.",
+    "exampleTranslation": "在这里吃还是带走？带走。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-031",
+    "chapter": "ch03",
+    "expression": "I'll have...",
+    "literalTranslation": "我将有...",
+    "naturalMeaning": "我要...（点餐时的标准说法）",
+    "example": "I'll have the burger with fries.",
+    "exampleTranslation": "我要汉堡配薯条。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-032",
+    "chapter": "ch03",
+    "expression": "Can I get a...",
+    "literalTranslation": "我能得到一个...",
+    "naturalMeaning": "点餐或要东西的礼貌说法",
+    "example": "Can I get a coffee with cream?",
+    "exampleTranslation": "我能要杯加奶油的咖啡吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-033",
+    "chapter": "ch03",
+    "expression": "On the rocks",
+    "literalTranslation": "在岩石上",
+    "naturalMeaning": "加冰（通常是烈酒加冰块）",
+    "example": "I'll take a whiskey on the rocks.",
+    "exampleTranslation": "我要一杯威士忌加冰。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-034",
+    "chapter": "ch03",
+    "expression": "Make it a double",
+    "literalTranslation": "把它做成双份",
+    "naturalMeaning": "要双份酒量，指酒精饮料要两倍的量",
+    "example": "Make it a double, please.",
+    "exampleTranslation": "请给我双份。",
+    "tags": [
+      "casual",
+      "daily"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ch03-035",
+    "chapter": "ch03",
+    "expression": "I'm good",
+    "literalTranslation": "我挺好的",
+    "naturalMeaning": "委婉拒绝别人的提议，表示'我够了''不用了'",
+    "example": "Want another beer? I'm good, thanks.",
+    "exampleTranslation": "再来杯啤酒？不用了，谢谢。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-036",
+    "chapter": "ch03",
+    "expression": "I'm stuffed",
+    "literalTranslation": "我被塞满了",
+    "naturalMeaning": "吃撑了，非常饱",
+    "example": "That was amazing but I'm stuffed.",
+    "exampleTranslation": "太好吃了，但我吃撑了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-037",
+    "chapter": "ch03",
+    "expression": "Can't complain",
+    "literalTranslation": "不能抱怨",
+    "naturalMeaning": "表示各方面还行、过得去",
+    "example": "How was the food? Can't complain.",
+    "exampleTranslation": "食物怎么样？还不错。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-038",
+    "chapter": "ch03",
+    "expression": "Let me grab the check",
+    "literalTranslation": "让我抓一下账单",
+    "naturalMeaning": "我来买单，主动要求结账",
+    "example": "Let me grab the check this time.",
+    "exampleTranslation": "这次我来买单。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-039",
+    "chapter": "ch03",
+    "expression": "Could I get the check?",
+    "literalTranslation": "我能拿到账单吗？",
+    "naturalMeaning": "叫服务员结账的礼貌说法",
+    "example": "Could I get the check when you have a minute?",
+    "exampleTranslation": "不忙的时候能帮我买单吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-040",
+    "chapter": "ch03",
+    "expression": "This hits the spot",
+    "literalTranslation": "这击中了那个点",
+    "naturalMeaning": "食物或饮料正合口味，让人非常满足",
+    "example": "Ah, this coffee really hits the spot.",
+    "exampleTranslation": "啊，这杯咖啡太对味了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-041",
+    "chapter": "ch03",
+    "expression": "I have a sweet tooth",
+    "literalTranslation": "我有一个甜牙",
+    "naturalMeaning": "特别喜欢吃甜食，嗜甜",
+    "example": "I have a sweet tooth, so let's get dessert.",
+    "exampleTranslation": "我爱吃甜的，我们点甜点吧。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-042",
+    "chapter": "ch03",
+    "expression": "Something light",
+    "literalTranslation": "清淡一点的东西",
+    "naturalMeaning": "少量或清淡的食物，不想吃太油腻的",
+    "example": "I don't want a heavy meal, just something light.",
+    "exampleTranslation": "我不想吃太油腻的，清淡点就好。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-043",
+    "chapter": "ch03",
+    "expression": "Could you warm this up?",
+    "literalTranslation": "你能把这个加热吗？",
+    "naturalMeaning": "让服务员或同事帮忙加热食物",
+    "example": "Could you warm this up in the microwave?",
+    "exampleTranslation": "能帮我用微波炉加热一下吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-044",
+    "chapter": "ch03",
+    "expression": "I'm craving...",
+    "literalTranslation": "我在渴望...",
+    "naturalMeaning": "强烈想吃某种食物",
+    "example": "I'm craving sushi tonight.",
+    "exampleTranslation": "我今晚特别想吃寿司。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-045",
+    "chapter": "ch03",
+    "expression": "Doggy bag",
+    "literalTranslation": "狗狗袋子",
+    "naturalMeaning": "打包袋，把吃不完的饭菜打包带走的袋子",
+    "example": "Can I get a doggy bag for this?",
+    "exampleTranslation": "能给我个打包袋把这个装走吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-046",
+    "chapter": "ch03",
+    "expression": "How much is this?",
+    "literalTranslation": "这个多少钱？",
+    "naturalMeaning": "问价格的标准说法",
+    "example": "How much is this shirt?",
+    "exampleTranslation": "这件衬衫多少钱？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-047",
+    "chapter": "ch03",
+    "expression": "Is this on sale?",
+    "literalTranslation": "这个在打折吗？",
+    "naturalMeaning": "问是否有折扣或特价",
+    "example": "Is this on sale or is it full price?",
+    "exampleTranslation": "这个在打折还是原价？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-048",
+    "chapter": "ch03",
+    "expression": "That's a steal",
+    "literalTranslation": "那是一个偷窃",
+    "naturalMeaning": "太划算了，价格出奇地便宜",
+    "example": "Only twenty bucks for this jacket? That's a steal.",
+    "exampleTranslation": "这件夹克只要二十块？太划算了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-049",
+    "chapter": "ch03",
+    "expression": "That's a rip-off",
+    "literalTranslation": "那是抢劫",
+    "naturalMeaning": "太贵了不合算，被宰了",
+    "example": "A hundred dollars for this? That's a total rip-off.",
+    "exampleTranslation": "这个一百美元？太坑了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-050",
+    "chapter": "ch03",
+    "expression": "I'm just browsing",
+    "literalTranslation": "我就是在浏览",
+    "naturalMeaning": "随便看看，没有特定要买的，回应销售员的询问",
+    "example": "Can I help you? No thanks, just browsing.",
+    "exampleTranslation": "需要帮忙吗？不用，随便看看。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-051",
+    "chapter": "ch03",
+    "expression": "Do you have this in stock?",
+    "literalTranslation": "你们这个有库存吗？",
+    "naturalMeaning": "问是否有存货或现货",
+    "example": "Do you have this in stock in medium?",
+    "exampleTranslation": "这个有中号的货吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-052",
+    "chapter": "ch03",
+    "expression": "Try it on",
+    "literalTranslation": "把它穿上去试试",
+    "naturalMeaning": "试穿衣服或鞋子",
+    "example": "You should try it on before buying.",
+    "exampleTranslation": "你应该先试穿再买。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-053",
+    "chapter": "ch03",
+    "expression": "Can I try this on?",
+    "literalTranslation": "我能试穿这个吗？",
+    "naturalMeaning": "请求试穿",
+    "example": "Can I try this on? Sure, the fitting rooms are over there.",
+    "exampleTranslation": "我能试穿这个吗？当然，试衣间在那里。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-054",
+    "chapter": "ch03",
+    "expression": "It's a bit pricey",
+    "literalTranslation": "有点贵",
+    "naturalMeaning": "价格偏高，但不至于说是'rip-off'",
+    "example": "It's nice but a bit pricey for me.",
+    "exampleTranslation": "很好看但对我来说有点贵。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-055",
+    "chapter": "ch03",
+    "expression": "I'll take it",
+    "literalTranslation": "我就要它了",
+    "naturalMeaning": "决定购买某件商品",
+    "example": "This fits perfectly, I'll take it.",
+    "exampleTranslation": "这件很合身，我买了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-056",
+    "chapter": "ch03",
+    "expression": "Ring me up",
+    "literalTranslation": "按铃叫我",
+    "naturalMeaning": "帮我结账，收银台结账",
+    "example": "I'm ready to check out, can you ring me up?",
+    "exampleTranslation": "我准备付款了，能帮我结账吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-057",
+    "chapter": "ch03",
+    "expression": "Is there a return policy?",
+    "literalTranslation": "有退货政策吗？",
+    "naturalMeaning": "问退货规则和条件",
+    "example": "If it doesn't fit, what's your return policy?",
+    "exampleTranslation": "如果不合身，你们的退货政策是什么？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-058",
+    "chapter": "ch03",
+    "expression": "It's on clearance",
+    "literalTranslation": "它在清仓",
+    "naturalMeaning": "清仓甩卖，价格非常低",
+    "example": "This jacket is on clearance, 60% off.",
+    "exampleTranslation": "这件夹克在清仓，打四折。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-059",
+    "chapter": "ch03",
+    "expression": "Can you price match?",
+    "literalTranslation": "你能比价吗？",
+    "naturalMeaning": "要求商店与竞争对手的价格匹配，给同样的低价",
+    "example": "I found it cheaper at Target, can you price match?",
+    "exampleTranslation": "我在Target看到更便宜，你们能比价吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ch03-060",
+    "chapter": "ch03",
+    "expression": "I'm just looking",
+    "literalTranslation": "我就是在看",
+    "naturalMeaning": "告诉店员自己不需要帮助，只是随便看看",
+    "example": "Just looking, but I'll let you know if I need help.",
+    "exampleTranslation": "就看看，需要帮忙我会叫你。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-061",
+    "chapter": "ch03",
+    "expression": "Do you have this in a different color?",
+    "literalTranslation": "你们这个有其他颜色吗？",
+    "naturalMeaning": "问是否有其他颜色可选",
+    "example": "Do you have this in a different color? I don't like red.",
+    "exampleTranslation": "这个有其他颜色吗？我不喜欢红色。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-062",
+    "chapter": "ch03",
+    "expression": "Cash or card?",
+    "literalTranslation": "现金还是卡？",
+    "naturalMeaning": "收银员问顾客用什么方式付款",
+    "example": "Cash or card? Card, please.",
+    "exampleTranslation": "现金还是刷卡？刷卡。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-063",
+    "chapter": "ch03",
+    "expression": "Can I get a receipt?",
+    "literalTranslation": "能给我收据吗？",
+    "naturalMeaning": "要购物小票或收据",
+    "example": "Can I get a receipt with that?",
+    "exampleTranslation": "能给我一张收据吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-064",
+    "chapter": "ch03",
+    "expression": "I'd like to return this",
+    "literalTranslation": "我想退货这个",
+    "naturalMeaning": "退货时说的话",
+    "example": "I'd like to return this, it doesn't fit.",
+    "exampleTranslation": "我想退货，这个不合身。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-065",
+    "chapter": "ch03",
+    "expression": "It's final sale",
+    "literalTranslation": "这是最终销售",
+    "naturalMeaning": "一旦售出，不接受退货或退款",
+    "example": "Just so you know, this is final sale.",
+    "exampleTranslation": "提醒你一下，这个售出不退不换。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-066",
+    "chapter": "ch03",
+    "expression": "Buy one get one free",
+    "literalTranslation": "买一个送一个免费",
+    "naturalMeaning": "买一送一的促销活动",
+    "example": "They're having a buy one get one free deal on snacks.",
+    "exampleTranslation": "他们零食在搞买一送一。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-067",
+    "chapter": "ch03",
+    "expression": "No tax weekend",
+    "literalTranslation": "免税周末",
+    "naturalMeaning": "政府规定的免税购物周末，不收销售税",
+    "example": "I'm waiting for no tax weekend to buy a laptop.",
+    "exampleTranslation": "我在等免税周末再买笔记本电脑。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ch03-068",
+    "chapter": "ch03",
+    "expression": "I'm lost",
+    "literalTranslation": "我迷路了",
+    "naturalMeaning": "找不到方向或路了",
+    "example": "I think I'm lost, can you help me find this address?",
+    "exampleTranslation": "我好像迷路了，你能帮我找到这个地址吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-069",
+    "chapter": "ch03",
+    "expression": "Which way is...?",
+    "literalTranslation": "哪条路是...？",
+    "naturalMeaning": "问方向或位置",
+    "example": "Which way is the subway station?",
+    "exampleTranslation": "地铁站在哪个方向？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-070",
+    "chapter": "ch03",
+    "expression": "Go straight",
+    "literalTranslation": "直走",
+    "naturalMeaning": "直行，不要转弯",
+    "example": "Go straight for two blocks then turn left.",
+    "exampleTranslation": "直走两个街区然后左转。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-071",
+    "chapter": "ch03",
+    "expression": "Turn left / right",
+    "literalTranslation": "左转/右转",
+    "naturalMeaning": "转弯指示方向",
+    "example": "Turn right at the next traffic light.",
+    "exampleTranslation": "下一个红绿灯右转。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-072",
+    "chapter": "ch03",
+    "expression": "It's around the corner",
+    "literalTranslation": "它在拐角那边",
+    "naturalMeaning": "就在拐弯处，很近的意思",
+    "example": "The pharmacy is just around the corner.",
+    "exampleTranslation": "药店就在拐角处。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-073",
+    "chapter": "ch03",
+    "expression": "It's a couple blocks down",
+    "literalTranslation": "往下走几个街区",
+    "naturalMeaning": "往前走几个街区就到了",
+    "example": "The restaurant is a couple blocks down on the left.",
+    "exampleTranslation": "餐厅往前走几个街区，在左手边。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-074",
+    "chapter": "ch03",
+    "expression": "Can you show me on the map?",
+    "literalTranslation": "你能在地图上指给我看吗？",
+    "naturalMeaning": "请求对方在地图上指路",
+    "example": "I'm not sure where it is, can you show me on the map?",
+    "exampleTranslation": "我不确定在哪里，能在地图上指给我看吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-075",
+    "chapter": "ch03",
+    "expression": "I'm heading to...",
+    "literalTranslation": "我正在去...",
+    "naturalMeaning": "表示要去某个地方",
+    "example": "I'm heading to downtown, want a ride?",
+    "exampleTranslation": "我要去市中心，要搭车吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-076",
+    "chapter": "ch03",
+    "expression": "Is it walking distance?",
+    "literalTranslation": "它是步行距离吗？",
+    "naturalMeaning": "走路能到吗？问距离是否可以用步行的",
+    "example": "Is the museum walking distance from here?",
+    "exampleTranslation": "博物馆从这里走路能到吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-077",
+    "chapter": "ch03",
+    "expression": "I need a ride",
+    "literalTranslation": "我需要搭个车",
+    "naturalMeaning": "需要乘车或搭便车",
+    "example": "Can I get a ride to the airport?",
+    "exampleTranslation": "能搭你的车去机场吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-078",
+    "chapter": "ch03",
+    "expression": "Can you drop me off?",
+    "literalTranslation": "你能把我放下吗？",
+    "naturalMeaning": "能顺路捎我一程让我下车吗？",
+    "example": "Can you drop me off at the station?",
+    "exampleTranslation": "你能捎我到车站吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-079",
+    "chapter": "ch03",
+    "expression": "I'll pick you up",
+    "literalTranslation": "我会接你上车",
+    "naturalMeaning": "开车去接某人",
+    "example": "What time should I pick you up tomorrow?",
+    "exampleTranslation": "我明天几点来接你？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-080",
+    "chapter": "ch03",
+    "expression": "Catch a flight",
+    "literalTranslation": "抓住一个航班",
+    "naturalMeaning": "赶飞机",
+    "example": "I have to catch a flight at 6 AM.",
+    "exampleTranslation": "我得赶早上六点的飞机。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-081",
+    "chapter": "ch03",
+    "expression": "Hit the road",
+    "literalTranslation": "打路",
+    "naturalMeaning": "出发上路，开始行程",
+    "example": "We should hit the road before traffic gets bad.",
+    "exampleTranslation": "我们应该在堵车前上路。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-082",
+    "chapter": "ch03",
+    "expression": "We made it",
+    "literalTranslation": "我们做到了",
+    "naturalMeaning": "我们到了！或我们成功了",
+    "example": "We made it! That was a long drive.",
+    "exampleTranslation": "我们到了！这趟车开得真久。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-083",
+    "chapter": "ch03",
+    "expression": "Check in",
+    "literalTranslation": "签到",
+    "naturalMeaning": "酒店入住或机场办理登机手续",
+    "example": "We can check in at 3 PM.",
+    "exampleTranslation": "我们下午三点可以办理入住。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-084",
+    "chapter": "ch03",
+    "expression": "Check out",
+    "literalTranslation": "签出",
+    "naturalMeaning": "退房或办理离开手续",
+    "example": "Check out is at 11 AM.",
+    "exampleTranslation": "退房时间是上午11点。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-085",
+    "chapter": "ch03",
+    "expression": "I'm just passing through",
+    "literalTranslation": "我只是经过",
+    "naturalMeaning": "不是目的地，只是路过这里",
+    "example": "I'm just passing through on my way to Boston.",
+    "exampleTranslation": "我只是去波士顿的路上经过这里。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-086",
+    "chapter": "ch03",
+    "expression": "We're here",
+    "literalTranslation": "我们在这里",
+    "naturalMeaning": "到达目的地",
+    "example": "We're here! Let's get out.",
+    "exampleTranslation": "我们到了！下车吧。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-087",
+    "chapter": "ch03",
+    "expression": "Take me to...",
+    "literalTranslation": "带我去...",
+    "naturalMeaning": "打车或叫车时告诉司机目的地",
+    "example": "Take me to 5th Avenue, please.",
+    "exampleTranslation": "请带我去第五大道。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-088",
+    "chapter": "ch03",
+    "expression": "Keep the change",
+    "literalTranslation": "留着零钱",
+    "naturalMeaning": "不用找零了，当作小费",
+    "example": "Here's twenty, keep the change.",
+    "exampleTranslation": "这是二十块，不用找了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-089",
+    "chapter": "ch03",
+    "expression": "Is there a restroom nearby?",
+    "literalTranslation": "附近有洗手间吗？",
+    "naturalMeaning": "问附近有没有公共洗手间",
+    "example": "Is there a restroom nearby? There's one in the coffee shop.",
+    "exampleTranslation": "附近有洗手间吗？咖啡店里有一个。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-090",
+    "chapter": "ch03",
+    "expression": "What are you up to?",
+    "literalTranslation": "你在做什么上面？",
+    "naturalMeaning": "问对方在做什么或有什么安排",
+    "example": "What are you up to this weekend?",
+    "exampleTranslation": "这周末你有什么安排？",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-091",
+    "chapter": "ch03",
+    "expression": "Let's hang out",
+    "literalTranslation": "我们一起挂着",
+    "naturalMeaning": "约朋友出来一起玩、见面",
+    "example": "Let's hang out this Saturday.",
+    "exampleTranslation": "这周六我们一起聚聚吧。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-092",
+    "chapter": "ch03",
+    "expression": "I'm down",
+    "literalTranslation": "我下来",
+    "naturalMeaning": "我可以参加，我同意，表示愿意加入",
+    "example": "Anyone want to go hiking? I'm down.",
+    "exampleTranslation": "有人想去徒步吗？我去。",
+    "tags": [
+      "daily",
+      "casual",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-093",
+    "chapter": "ch03",
+    "expression": "Count me in",
+    "literalTranslation": "把我算进去",
+    "naturalMeaning": "算我一个，我要参加",
+    "example": "If you're getting dinner, count me in.",
+    "exampleTranslation": "如果你去吃晚饭，算我一个。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-094",
+    "chapter": "ch03",
+    "expression": "I'll pass",
+    "literalTranslation": "我会路过",
+    "naturalMeaning": "我就不去了，委婉拒绝邀请",
+    "example": "They're having a party tonight, but I'll pass.",
+    "exampleTranslation": "他们今晚有派对，但我不去了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-095",
+    "chapter": "ch03",
+    "expression": "Let's play it by ear",
+    "literalTranslation": "我们用耳朵来弹",
+    "naturalMeaning": "不提前计划，到时候看情况再说",
+    "example": "Should we book a table? Let's play it by ear.",
+    "exampleTranslation": "我们要订位吗？到时候再说吧。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-096",
+    "chapter": "ch03",
+    "expression": "Rain check",
+    "literalTranslation": "雨票",
+    "naturalMeaning": "改天再约，把约定推迟到以后",
+    "example": "Can't make it tonight. Rain check?",
+    "exampleTranslation": "今晚来不了了。改天吧？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-097",
+    "chapter": "ch03",
+    "expression": "Let's figure it out",
+    "literalTranslation": "我们来弄清楚它",
+    "naturalMeaning": "一起来解决或讨论一下",
+    "example": "We'll figure it out when we get there.",
+    "exampleTranslation": "我们到了再说吧。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-098",
+    "chapter": "ch03",
+    "expression": "Sounds good",
+    "literalTranslation": "听起来不错",
+    "naturalMeaning": "表示同意或赞同对方的提议",
+    "example": "How about 7 PM? Sounds good.",
+    "exampleTranslation": "晚上七点怎么样？听起来不错。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-099",
+    "chapter": "ch03",
+    "expression": "It's a plan",
+    "literalTranslation": "这是一个计划",
+    "naturalMeaning": "就这么定了，确认计划",
+    "example": "Meet at 8? It's a plan.",
+    "exampleTranslation": "八点见？就这么定了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-100",
+    "chapter": "ch03",
+    "expression": "I'll let you know",
+    "literalTranslation": "我会让你知道",
+    "naturalMeaning": "稍后告诉你，目前还不确定",
+    "example": "Not sure yet, I'll let you know.",
+    "exampleTranslation": "还不确定，我会告诉你。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-101",
+    "chapter": "ch03",
+    "expression": "I'm down for whatever",
+    "literalTranslation": "我下来无论什么",
+    "naturalMeaning": "我都可以，怎么都行，随便",
+    "example": "Where do you want to eat? I'm down for whatever.",
+    "exampleTranslation": "你想去哪里吃？我都可以。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-102",
+    "chapter": "ch03",
+    "expression": "Are you free...?",
+    "literalTranslation": "你自由吗...？",
+    "naturalMeaning": "问对方是否有空",
+    "example": "Are you free this Friday?",
+    "exampleTranslation": "你这周五有空吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-103",
+    "chapter": "ch03",
+    "expression": "Let's do something",
+    "literalTranslation": "我们做点什么",
+    "naturalMeaning": "建议一起安排一些活动",
+    "example": "Let's do something fun this weekend.",
+    "exampleTranslation": "这周末我们找点好玩的做。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-104",
+    "chapter": "ch03",
+    "expression": "Something came up",
+    "literalTranslation": "有事情出现了",
+    "naturalMeaning": "突然有事情发生，无法赴约或继续",
+    "example": "Sorry, something came up, can we reschedule?",
+    "exampleTranslation": "抱歉，突然有点事，我们能改天吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-105",
+    "chapter": "ch03",
+    "expression": "Push it back",
+    "literalTranslation": "往后推",
+    "naturalMeaning": "推迟时间或日期",
+    "example": "Can we push it back an hour?",
+    "exampleTranslation": "我们能推迟一小时吗？",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-106",
+    "chapter": "ch03",
+    "expression": "Move it up",
+    "literalTranslation": "往上移",
+    "naturalMeaning": "提前时间或日期",
+    "example": "Let's move the meeting up to 10.",
+    "exampleTranslation": "我们把会议提前到十点吧。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-107",
+    "chapter": "ch03",
+    "expression": "We'll see",
+    "literalTranslation": "我们会看",
+    "naturalMeaning": "再说吧，表示不承诺或不确定",
+    "example": "Are we going to the party? We'll see.",
+    "exampleTranslation": "我们去派对吗？再说吧。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-108",
+    "chapter": "ch03",
+    "expression": "Let's circle back",
+    "literalTranslation": "我们绕回来",
+    "naturalMeaning": "回头再讨论这个问题（职场常用）",
+    "example": "Let's circle back on this tomorrow.",
+    "exampleTranslation": "我们明天再讨论这个。",
+    "tags": [
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-109",
+    "chapter": "ch03",
+    "expression": "I'll pencil it in",
+    "literalTranslation": "我会用铅笔写上去",
+    "naturalMeaning": "先临时安排在日程上，可能还会改",
+    "example": "I'll pencil it in for Thursday.",
+    "exampleTranslation": "我先记在周四，可能会变动。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-110",
+    "chapter": "ch03",
+    "expression": "Are we still on for...?",
+    "literalTranslation": "我们还继续吗？",
+    "naturalMeaning": "确认原定计划是否不变",
+    "example": "Are we still on for lunch today?",
+    "exampleTranslation": "我们今天中午还一起吃饭吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-111",
+    "chapter": "ch03",
+    "expression": "Let's touch base",
+    "literalTranslation": "我们来碰一下基地",
+    "naturalMeaning": "碰个头，简短沟通一下情况",
+    "example": "Let's touch base later this week.",
+    "exampleTranslation": "这周晚些时候我们碰一下头。",
+    "tags": [
+      "workplace",
+      "meetings"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-112",
+    "chapter": "ch03",
+    "expression": "Give me a ring",
+    "literalTranslation": "给我一个铃声",
+    "naturalMeaning": "给我打个电话",
+    "example": "Give me a ring when you're free.",
+    "exampleTranslation": "你空的时候给我打个电话。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-113",
+    "chapter": "ch03",
+    "expression": "Shoot me a text",
+    "literalTranslation": "射我一条短信",
+    "naturalMeaning": "给我发条短信",
+    "example": "Shoot me a text when you're on your way.",
+    "exampleTranslation": "你出发的时候给我发条短信。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-114",
+    "chapter": "ch03",
+    "expression": "I'll hit you up",
+    "literalTranslation": "我会打你",
+    "naturalMeaning": "我会联系你（短信或电话）",
+    "example": "I'll hit you up later about the party.",
+    "exampleTranslation": "我晚点联系你说派对的事。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-115",
+    "chapter": "ch03",
+    "expression": "Missed call",
+    "literalTranslation": "错过的电话",
+    "naturalMeaning": "未接来电",
+    "example": "I saw you called, sorry I missed your call.",
+    "exampleTranslation": "我看到你打来了，抱歉没接到。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-116",
+    "chapter": "ch03",
+    "expression": "I'll call you right back",
+    "literalTranslation": "我马上打回给你",
+    "naturalMeaning": "稍后回电话",
+    "example": "Let me take this call, I'll call you right back.",
+    "exampleTranslation": "我先接这个电话，马上打回给你。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-117",
+    "chapter": "ch03",
+    "expression": "Can you hear me now?",
+    "literalTranslation": "你现在能听到我吗？",
+    "naturalMeaning": "信号不好时问对方是否能听清",
+    "example": "You cut out a bit. Can you hear me now?",
+    "exampleTranslation": "你声音断断续续的。现在能听到吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-118",
+    "chapter": "ch03",
+    "expression": "You're breaking up",
+    "literalTranslation": "你在碎裂",
+    "naturalMeaning": "电话信号差，对方声音断断续续",
+    "example": "Sorry, you're breaking up, let me call you back.",
+    "exampleTranslation": "不好意思，你声音断断续续的，我打给你。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-119",
+    "chapter": "ch03",
+    "expression": "Put it on speaker",
+    "literalTranslation": "把它放在喇叭上",
+    "naturalMeaning": "开免提模式",
+    "example": "I can't hear you, put it on speaker.",
+    "exampleTranslation": "我听不清，开免提吧。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-120",
+    "chapter": "ch03",
+    "expression": "I'll text you",
+    "literalTranslation": "我会发短信给你",
+    "naturalMeaning": "我发短信给你",
+    "example": "I'll text you the address.",
+    "exampleTranslation": "我把地址发短信给你。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-121",
+    "chapter": "ch03",
+    "expression": "DM me",
+    "literalTranslation": "私信我",
+    "naturalMeaning": "在社交平台上发私信给我",
+    "example": "If you have questions, DM me.",
+    "exampleTranslation": "有问题就私信我。",
+    "tags": [
+      "casual",
+      "daily"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-122",
+    "chapter": "ch03",
+    "expression": "What's your number?",
+    "literalTranslation": "你的号码是什么？",
+    "naturalMeaning": "问对方的电话号码",
+    "example": "What's your number? I'll save it.",
+    "exampleTranslation": "你的电话是多少？我存一下。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-123",
+    "chapter": "ch03",
+    "expression": "I'm calling to...",
+    "literalTranslation": "我打电话是为了...",
+    "naturalMeaning": "说明打电话的目的",
+    "example": "I'm calling to confirm my appointment.",
+    "exampleTranslation": "我打电话确认一下我的预约。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-124",
+    "chapter": "ch03",
+    "expression": "He's not available right now",
+    "literalTranslation": "他现在不可用",
+    "naturalMeaning": "他现在不方便接电话",
+    "example": "He's not available right now. Can I take a message?",
+    "exampleTranslation": "他现在不方便接电话。需要我留言吗？",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-125",
+    "chapter": "ch03",
+    "expression": "Can I take a message?",
+    "literalTranslation": "我能带个消息吗？",
+    "naturalMeaning": "需要我留言或转达吗？",
+    "example": "She's busy. Can I take a message?",
+    "exampleTranslation": "她正忙。需要我留言吗？",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-126",
+    "chapter": "ch03",
+    "expression": "Hold on a sec",
+    "literalTranslation": "等一秒",
+    "naturalMeaning": "等一下，稍等一会儿",
+    "example": "Hold on a sec, let me grab my phone.",
+    "exampleTranslation": "等一下，我拿一下手机。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-127",
+    "chapter": "ch03",
+    "expression": "I didn't catch that",
+    "literalTranslation": "我没抓住那个",
+    "naturalMeaning": "我没听清或没听懂对方说的话",
+    "example": "Sorry, I didn't catch that. Can you say it again?",
+    "exampleTranslation": "对不起，我没听清。你能再说一遍吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-128",
+    "chapter": "ch03",
+    "expression": "I'll get back to you",
+    "literalTranslation": "我会回到你身边",
+    "naturalMeaning": "我会尽快回复你，稍后再联系",
+    "example": "I need to check on that. I'll get back to you.",
+    "exampleTranslation": "我得查一下。我会回复你。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-129",
+    "chapter": "ch03",
+    "expression": "Talk to you later",
+    "literalTranslation": "晚点和你说话",
+    "naturalMeaning": "回头再聊，告别用语",
+    "example": "Alright, talk to you later!",
+    "exampleTranslation": "好，回头再聊！",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-130",
+    "chapter": "ch03",
+    "expression": "Call me when you get this",
+    "literalTranslation": "收到这个时打给我",
+    "naturalMeaning": "收到留言后给我回电话",
+    "example": "Call me when you get this, it's urgent.",
+    "exampleTranslation": "收到给我回电话，有急事。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-131",
+    "chapter": "ch03",
+    "expression": "I'm about to head out",
+    "literalTranslation": "我正要出去",
+    "naturalMeaning": "我准备出发了或正要出门",
+    "example": "I'm about to head out, call you when I get there.",
+    "exampleTranslation": "我准备出门了，到了打给你。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-132",
+    "chapter": "ch03",
+    "expression": "Text me when you get there",
+    "literalTranslation": "到了给我发短信",
+    "naturalMeaning": "对方到达目的地后发短信报平安",
+    "example": "Text me when you get there so I know you're safe.",
+    "exampleTranslation": "到了给我发短信，我好知道你安全。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-133",
+    "chapter": "ch03",
+    "expression": "I'll send you a ping",
+    "literalTranslation": "我会发一个ping给你",
+    "naturalMeaning": "我会联系你或提醒你一下",
+    "example": "I'll send you a ping when the meeting starts.",
+    "exampleTranslation": "会议开始时我会提醒你。",
+    "tags": [
+      "workplace",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-134",
+    "chapter": "ch03",
+    "expression": "No way!",
+    "literalTranslation": "没门！",
+    "naturalMeaning": "不会吧！表示惊讶或难以置信",
+    "example": "No way! You won the lottery?",
+    "exampleTranslation": "不会吧！你中彩票了？",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-135",
+    "chapter": "ch03",
+    "expression": "You're kidding me",
+    "literalTranslation": "你在跟我开玩笑",
+    "naturalMeaning": "表示震惊或不敢相信对方说的话",
+    "example": "You're kidding me! They're getting married?",
+    "exampleTranslation": "你在开玩笑吧！他们要结婚了？",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-136",
+    "chapter": "ch03",
+    "expression": "That's awesome",
+    "literalTranslation": "那太棒了",
+    "naturalMeaning": "表示非常赞赏或激动",
+    "example": "You got the job? That's awesome!",
+    "exampleTranslation": "你得到那份工作了？太棒了！",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-137",
+    "chapter": "ch03",
+    "expression": "That sucks",
+    "literalTranslation": "那个吸",
+    "naturalMeaning": "真糟糕，太差劲了，表示同情或失望",
+    "example": "Your car broke down? That sucks.",
+    "exampleTranslation": "你的车坏了？真糟糕。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-138",
+    "chapter": "ch03",
+    "expression": "I can't even",
+    "literalTranslation": "我甚至不能",
+    "naturalMeaning": "我简直无语了，情绪过于强烈无法用语言表达",
+    "example": "The traffic is so bad. I can't even.",
+    "exampleTranslation": "堵车太严重了。我简直无语了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-139",
+    "chapter": "ch03",
+    "expression": "Tell me about it",
+    "literalTranslation": "跟我说说它",
+    "naturalMeaning": "可不是嘛！表示强烈认同对方的抱怨（不是真的让对方解释）",
+    "example": "This weather is awful. Tell me about it.",
+    "exampleTranslation": "这天气真糟糕。可不是嘛。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-140",
+    "chapter": "ch03",
+    "expression": "I feel you",
+    "literalTranslation": "我感觉你",
+    "naturalMeaning": "我理解你，表达同情和支持",
+    "example": "I feel you, that deadline was brutal.",
+    "exampleTranslation": "我理解你，那个截止日期太凶残了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-141",
+    "chapter": "ch03",
+    "expression": "I'm over it",
+    "literalTranslation": "我在它之上",
+    "naturalMeaning": "我已经不在乎了，不再被某事困扰",
+    "example": "I'm so over this drama.",
+    "exampleTranslation": "我完全受够了这些狗血事。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-142",
+    "chapter": "ch03",
+    "expression": "Chill out",
+    "literalTranslation": "冷却",
+    "naturalMeaning": "冷静点，别激动",
+    "example": "Chill out, it's not a big deal.",
+    "exampleTranslation": "冷静点，没什么大不了的。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-143",
+    "chapter": "ch03",
+    "expression": "Freak out",
+    "literalTranslation": "吓疯了",
+    "naturalMeaning": "吓呆了、慌了、过度反应",
+    "example": "Don't freak out, but I broke your mug.",
+    "exampleTranslation": "别吓到，但我打碎了你的杯子。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-144",
+    "chapter": "ch03",
+    "expression": "Calm down",
+    "literalTranslation": "冷静下来",
+    "naturalMeaning": "让人镇定，别着急",
+    "example": "Calm down, everything is going to be okay.",
+    "exampleTranslation": "冷静下来，一切都会好的。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-145",
+    "chapter": "ch03",
+    "expression": "I'm pumped",
+    "literalTranslation": "我被抽气了",
+    "naturalMeaning": "我超级兴奋，非常期待",
+    "example": "I'm so pumped for the concert tonight.",
+    "exampleTranslation": "今晚的演唱会我超级兴奋。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-146",
+    "chapter": "ch03",
+    "expression": "I'm so done with...",
+    "literalTranslation": "我如此做完...",
+    "naturalMeaning": "我受够了，对某事忍无可忍",
+    "example": "I'm so done with this job.",
+    "exampleTranslation": "我受够了这份工作。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-147",
+    "chapter": "ch03",
+    "expression": "It is what it is",
+    "literalTranslation": "它是什么它就是什么",
+    "naturalMeaning": "事情就是这样，接受无法改变的事实",
+    "example": "We lost the deal. It is what it is.",
+    "exampleTranslation": "我们丢了这笔生意。事情就是这样。",
+    "tags": [
+      "daily",
+      "casual",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-148",
+    "chapter": "ch03",
+    "expression": "Go figure",
+    "literalTranslation": "去搞清楚",
+    "naturalMeaning": "果不其然，意料之中但又无奈的感叹",
+    "example": "I waited all day and he never showed. Go figure.",
+    "exampleTranslation": "我等了一整天他都没来。果不其然。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-149",
+    "chapter": "ch03",
+    "expression": "What the heck",
+    "literalTranslation": "什么鬼",
+    "naturalMeaning": "搞什么鬼，表示惊讶、疑惑或轻微不满",
+    "example": "What the heck happened here?",
+    "exampleTranslation": "这里搞什么鬼了？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-150",
+    "chapter": "ch03",
+    "expression": "For real?",
+    "literalTranslation": "为了真的？",
+    "naturalMeaning": "真的假的？确认对方是不是认真的",
+    "example": "For real? You're moving to New York?",
+    "exampleTranslation": "真的假的？你要搬到纽约？",
+    "tags": [
+      "daily",
+      "casual",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-151",
+    "chapter": "ch03",
+    "expression": "No big deal",
+    "literalTranslation": "没什么大不了的",
+    "naturalMeaning": "不重要或不需要担心",
+    "example": "It's no big deal, don't worry about it.",
+    "exampleTranslation": "没什么大不了的，别担心。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-152",
+    "chapter": "ch03",
+    "expression": "That's messed up",
+    "literalTranslation": "那被搞乱了",
+    "naturalMeaning": "这也太离谱了，认为某件事很不正常或很不公平",
+    "example": "They fired him for no reason. That's messed up.",
+    "exampleTranslation": "他们没理由就开除了他。这太离谱了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-153",
+    "chapter": "ch03",
+    "expression": "I don't buy it",
+    "literalTranslation": "我不买它",
+    "naturalMeaning": "我不信那一套，不接受某个说法或解释",
+    "example": "He says he's late because of traffic, but I don't buy it.",
+    "exampleTranslation": "他说他迟到是因为堵车，但我不信。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-154",
+    "chapter": "ch03",
+    "expression": "Are you serious?",
+    "literalTranslation": "你是认真的吗？",
+    "naturalMeaning": "真的假的？表示惊讶或质疑",
+    "example": "Are you serious? They're charging us for that?",
+    "exampleTranslation": "你认真的吗？那个他们也要收费？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-155",
+    "chapter": "ch03",
+    "expression": "I'm good, thanks",
+    "literalTranslation": "我挺好，谢谢",
+    "naturalMeaning": "委婉拒绝，表示不需要帮助或不需要更多",
+    "example": "You want another slice? I'm good, thanks.",
+    "exampleTranslation": "再来一块？不用了，谢谢。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-156",
+    "chapter": "ch03",
+    "expression": "I'm feeling under the weather",
+    "literalTranslation": "我在天气下面",
+    "naturalMeaning": "我觉得不太舒服，有点生病的感觉",
+    "example": "I'm feeling a bit under the weather today.",
+    "exampleTranslation": "我今天有点不太舒服。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-157",
+    "chapter": "ch03",
+    "expression": "I caught a cold",
+    "literalTranslation": "我抓到了一个感冒",
+    "naturalMeaning": "我感冒了",
+    "example": "I caught a cold from my coworker.",
+    "exampleTranslation": "我被同事传染感冒了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-158",
+    "chapter": "ch03",
+    "expression": "I'm coming down with something",
+    "literalTranslation": "我正在被某样东西放倒",
+    "naturalMeaning": "我好像要生病了，感觉不太对",
+    "example": "I think I'm coming down with a flu.",
+    "exampleTranslation": "我好像要得流感了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-159",
+    "chapter": "ch03",
+    "expression": "Get some rest",
+    "literalTranslation": "得到一些休息",
+    "naturalMeaning": "好好休息一下",
+    "example": "You look tired, get some rest.",
+    "exampleTranslation": "你看起来很累，多休息。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-160",
+    "chapter": "ch03",
+    "expression": "I pulled a muscle",
+    "literalTranslation": "我拉了一块肌肉",
+    "naturalMeaning": "肌肉拉伤",
+    "example": "I pulled a muscle in my back lifting boxes.",
+    "exampleTranslation": "我搬箱子的时候拉伤了背部肌肉。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-161",
+    "chapter": "ch03",
+    "expression": "Doctor's appointment",
+    "literalTranslation": "医生的约会",
+    "naturalMeaning": "看医生预约",
+    "example": "I have a doctor's appointment at 2.",
+    "exampleTranslation": "我下午两点有个医生预约。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-162",
+    "chapter": "ch03",
+    "expression": "Fill a prescription",
+    "literalTranslation": "填满一个处方",
+    "naturalMeaning": "去药房取配好的处方药",
+    "example": "I need to fill a prescription at the pharmacy.",
+    "exampleTranslation": "我得去药房取药。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-163",
+    "chapter": "ch03",
+    "expression": "I'm sore",
+    "literalTranslation": "我酸痛",
+    "naturalMeaning": "肌肉酸痛，通常是因为运动或劳累",
+    "example": "I'm so sore from yesterday's workout.",
+    "exampleTranslation": "昨天锻炼后我全身酸痛。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-164",
+    "chapter": "ch03",
+    "expression": "Work it off",
+    "literalTranslation": "工作掉它",
+    "naturalMeaning": "通过运动消耗热量或缓解不适",
+    "example": "I ate too much. I need to work it off.",
+    "exampleTranslation": "我吃太多了。得运动消耗掉。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-165",
+    "chapter": "ch03",
+    "expression": "Stay in shape",
+    "literalTranslation": "保持在形状里",
+    "naturalMeaning": "保持身材或身体健康",
+    "example": "I try to work out to stay in shape.",
+    "exampleTranslation": "我努力锻炼来保持身材。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-166",
+    "chapter": "ch03",
+    "expression": "Feel better",
+    "literalTranslation": "感觉更好",
+    "naturalMeaning": "祝早日康复（常对生病的人说）",
+    "example": "Hope you feel better soon!",
+    "exampleTranslation": "希望你早日康复！",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-167",
+    "chapter": "ch03",
+    "expression": "I'm allergic to...",
+    "literalTranslation": "我对...过敏",
+    "naturalMeaning": "对某事物有过敏反应",
+    "example": "I'm allergic to peanuts, so I have to be careful.",
+    "exampleTranslation": "我对花生过敏，所以得小心。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-168",
+    "chapter": "ch03",
+    "expression": "I threw up",
+    "literalTranslation": "我扔上来了",
+    "naturalMeaning": "我吐了，呕吐",
+    "example": "I ate something bad and threw up all night.",
+    "exampleTranslation": "我吃了不干净的东西，吐了一整晚。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-169",
+    "chapter": "ch03",
+    "expression": "I'm getting over a cold",
+    "literalTranslation": "我正在度过一个感冒",
+    "naturalMeaning": "感冒快好了，正在恢复中",
+    "example": "I'm getting over a cold, almost better now.",
+    "exampleTranslation": "我感冒快好了，差不多痊愈了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-170",
+    "chapter": "ch03",
+    "expression": "I need a break",
+    "literalTranslation": "我需要一个休息",
+    "naturalMeaning": "需要休息或暂停一下",
+    "example": "I've been working all day, I need a break.",
+    "exampleTranslation": "我工作了一整天，需要休息一下。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-171",
+    "chapter": "ch03",
+    "expression": "I burned myself",
+    "literalTranslation": "我烫到了自己",
+    "naturalMeaning": "被烫伤了",
+    "example": "I burned myself on the stove.",
+    "exampleTranslation": "我在炉子上烫到了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-172",
+    "chapter": "ch03",
+    "expression": "Get it checked out",
+    "literalTranslation": "去把它检查出来",
+    "naturalMeaning": "建议去检查或看医生",
+    "example": "If it still hurts, you should get it checked out.",
+    "exampleTranslation": "如果还在疼，你应该去检查一下。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-173",
+    "chapter": "ch03",
+    "expression": "I'm out of shape",
+    "literalTranslation": "我出形状了",
+    "naturalMeaning": "身体状态不好，缺乏锻炼",
+    "example": "I'm so out of shape, I got winded just walking up stairs.",
+    "exampleTranslation": "我身体太差了，走个楼梯就喘不上气。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-174",
+    "chapter": "ch03",
+    "expression": "Working out",
+    "literalTranslation": "锻炼出来",
+    "naturalMeaning": "健身、锻炼身体",
+    "example": "I've been working out every morning.",
+    "exampleTranslation": "我每天早上都在锻炼。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-175",
+    "chapter": "ch03",
+    "expression": "Sleep it off",
+    "literalTranslation": "睡掉它",
+    "naturalMeaning": "通过睡觉来恢复状态",
+    "example": "If you feel tired, just sleep it off.",
+    "exampleTranslation": "如果你累了，睡一觉就好了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-176",
+    "chapter": "ch03",
+    "expression": "I'm all better now",
+    "literalTranslation": "我现在全好了",
+    "naturalMeaning": "完全康复了，没事了",
+    "example": "Don't worry, I'm all better now.",
+    "exampleTranslation": "别担心，我现在完全好了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-177",
+    "chapter": "ch03",
+    "expression": "Take your medicine",
+    "literalTranslation": "吃你的药",
+    "naturalMeaning": "吃药（提醒或嘱咐）",
+    "example": "Don't forget to take your medicine before bed.",
+    "exampleTranslation": "睡前别忘了吃药。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-178",
+    "chapter": "ch03",
+    "expression": "It's freezing",
+    "literalTranslation": "它在结冰",
+    "naturalMeaning": "天气非常冷",
+    "example": "It's freezing outside, wear a jacket.",
+    "exampleTranslation": "外面冷死了，穿件夹克。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-179",
+    "chapter": "ch03",
+    "expression": "It's boiling hot",
+    "literalTranslation": "它在煮得滚烫",
+    "naturalMeaning": "非常炎热",
+    "example": "It's boiling hot, let's stay inside.",
+    "exampleTranslation": "热死了，我们待在屋里吧。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-180",
+    "chapter": "ch03",
+    "expression": "It's pouring",
+    "literalTranslation": "它在倒",
+    "naturalMeaning": "下着倾盆大雨",
+    "example": "It's pouring outside, take an umbrella.",
+    "exampleTranslation": "外面下着倾盆大雨，带把伞。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-181",
+    "chapter": "ch03",
+    "expression": "It's drizzling",
+    "literalTranslation": "在下毛毛雨",
+    "naturalMeaning": "下着毛毛细雨",
+    "example": "It's just drizzling, we can still go for a walk.",
+    "exampleTranslation": "只是下毛毛雨，我们还是可以出去走走。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-182",
+    "chapter": "ch03",
+    "expression": "It's clear",
+    "literalTranslation": "天空晴朗",
+    "naturalMeaning": "天气晴朗无云",
+    "example": "The sky is clear, no clouds in sight.",
+    "exampleTranslation": "天空很晴朗，一朵云都看不到。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-183",
+    "chapter": "ch03",
+    "expression": "It's humid out",
+    "literalTranslation": "外面很潮湿",
+    "naturalMeaning": "湿度大，很潮",
+    "example": "I hate summer, it's so humid out.",
+    "exampleTranslation": "我讨厌夏天，外面太潮湿了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-184",
+    "chapter": "ch03",
+    "expression": "Bundle up",
+    "literalTranslation": "捆起来",
+    "naturalMeaning": "穿暖和点，多穿几件",
+    "example": "It's cold out there, bundle up.",
+    "exampleTranslation": "外面冷，多穿点。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-185",
+    "chapter": "ch03",
+    "expression": "It's nice out",
+    "literalTranslation": "外面很好",
+    "naturalMeaning": "外面天气不错",
+    "example": "It's nice out, let's go for a walk.",
+    "exampleTranslation": "外面天气不错，我们去散步吧。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-186",
+    "chapter": "ch03",
+    "expression": "The weather is crappy",
+    "literalTranslation": "天气很糟糕",
+    "naturalMeaning": "天气很差，令人不爽",
+    "example": "The weather is crappy today, I'm staying in.",
+    "exampleTranslation": "今天天气糟透了，我待在家里。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-187",
+    "chapter": "ch03",
+    "expression": "It's muggy",
+    "literalTranslation": "又闷又潮",
+    "naturalMeaning": "天气湿热难受，闷热",
+    "example": "It's so muggy, I can't breathe.",
+    "exampleTranslation": "又闷又潮，我喘不过气来。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-188",
+    "chapter": "ch03",
+    "expression": "It's windy",
+    "literalTranslation": "刮风了",
+    "naturalMeaning": "风很大",
+    "example": "It's so windy, my umbrella flipped inside out.",
+    "exampleTranslation": "风太大了，我的伞被吹翻了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-189",
+    "chapter": "ch03",
+    "expression": "It's clearing up",
+    "literalTranslation": "它在变清晰",
+    "naturalMeaning": "天气正在转晴，云在散开",
+    "example": "The rain is stopping, it's clearing up.",
+    "exampleTranslation": "雨停了，天在放晴。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-190",
+    "chapter": "ch03",
+    "expression": "It's chilly",
+    "literalTranslation": "有点凉",
+    "naturalMeaning": "微凉，凉爽，需要加件外套",
+    "example": "Bring a jacket, it's chilly outside.",
+    "exampleTranslation": "带件外套，外面有点凉。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-191",
+    "chapter": "ch03",
+    "expression": "The heat is brutal",
+    "literalTranslation": "这热太残酷了",
+    "naturalMeaning": "酷热难耐，热得让人受不了",
+    "example": "The heat is brutal today, I'm sweating just standing here.",
+    "exampleTranslation": "今天热得太厉害了，我站在这儿都出汗。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-192",
+    "chapter": "ch03",
+    "expression": "I got caught in the rain",
+    "literalTranslation": "我被抓在雨里",
+    "naturalMeaning": "淋雨了，没带伞被雨淋",
+    "example": "I left my umbrella at home and got caught in the rain.",
+    "exampleTranslation": "我把伞忘在家里淋雨了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-193",
+    "chapter": "ch03",
+    "expression": "It's supposed to...",
+    "literalTranslation": "它应该会...",
+    "naturalMeaning": "天气预报说...（用于谈论预期天气）",
+    "example": "It's supposed to rain all weekend.",
+    "exampleTranslation": "天气预报说整个周末都要下雨。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-194",
+    "chapter": "ch03",
+    "expression": "How's the weather out there?",
+    "literalTranslation": "外面天气怎么样？",
+    "naturalMeaning": "问室外的天气情况（说话人在室内）",
+    "example": "You just came in, how's the weather out there?",
+    "exampleTranslation": "你刚进来，外面天气怎么样？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-195",
+    "chapter": "ch03",
+    "expression": "It's a sauna out there",
+    "literalTranslation": "外面是个桑拿房",
+    "naturalMeaning": "外面又热又潮，像桑拿房一样",
+    "example": "Open the door, it's a sauna out there.",
+    "exampleTranslation": "打开门，外面像个桑拿房。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-196",
+    "chapter": "ch03",
+    "expression": "It's gorgeous today",
+    "literalTranslation": "今天太美了",
+    "naturalMeaning": "天气非常好，特别宜人",
+    "example": "It's gorgeous today, perfect beach weather.",
+    "exampleTranslation": "今天天气太好了，完美的沙滩天气。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-197",
+    "chapter": "ch03",
+    "expression": "Stay cool",
+    "literalTranslation": "保持凉快",
+    "naturalMeaning": "注意防暑（天热时的告别语）",
+    "example": "Gotta go. Stay cool out there.",
+    "exampleTranslation": "我得走了。注意防暑。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-198",
+    "chapter": "ch03",
+    "expression": "My phone died",
+    "literalTranslation": "我的手机死了",
+    "naturalMeaning": "手机没电了",
+    "example": "My phone died, can I use your charger?",
+    "exampleTranslation": "我手机没电了，能用你的充电器吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-199",
+    "chapter": "ch03",
+    "expression": "Charge it up",
+    "literalTranslation": "给它充电",
+    "naturalMeaning": "把电充上",
+    "example": "Make sure to charge it up before we leave.",
+    "exampleTranslation": "出发前记得充好电。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-200",
+    "chapter": "ch03",
+    "expression": "Back it up",
+    "literalTranslation": "把它备份",
+    "naturalMeaning": "备份数据或文件",
+    "example": "Make sure to back up your files regularly.",
+    "exampleTranslation": "记得定期备份你的文件。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-201",
+    "chapter": "ch03",
+    "expression": "It's glitchy",
+    "literalTranslation": "它有故障",
+    "naturalMeaning": "设备或软件不稳定，有小毛病",
+    "example": "The app is glitchy, it keeps crashing.",
+    "exampleTranslation": "这个应用不稳定，老崩。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-202",
+    "chapter": "ch03",
+    "expression": "It crashed",
+    "literalTranslation": "它崩溃了",
+    "naturalMeaning": "电脑或软件死机、崩溃了",
+    "example": "My computer crashed in the middle of my work.",
+    "exampleTranslation": "我的电脑在工作到一半时死机了。",
+    "tags": [
+      "daily",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-203",
+    "chapter": "ch03",
+    "expression": "Restart it",
+    "literalTranslation": "重新启动它",
+    "naturalMeaning": "重启设备或软件",
+    "example": "If it's not working, try restarting it.",
+    "exampleTranslation": "如果不行，试试重启。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-204",
+    "chapter": "ch03",
+    "expression": "Plug it in",
+    "literalTranslation": "插进去",
+    "naturalMeaning": "插上电源或接口",
+    "example": "The battery's low, plug it in.",
+    "exampleTranslation": "电量低了，插上电源。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-205",
+    "chapter": "ch03",
+    "expression": "Log in / Log out",
+    "literalTranslation": "登录/退出",
+    "naturalMeaning": "登录或退出系统或账户",
+    "example": "Log in with your username and password.",
+    "exampleTranslation": "用你的用户名和密码登录。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-206",
+    "chapter": "ch03",
+    "expression": "It's frozen",
+    "literalTranslation": "它冻住了",
+    "naturalMeaning": "屏幕或程序卡住了，无响应",
+    "example": "The screen is frozen, I can't click anything.",
+    "exampleTranslation": "屏幕卡住了，我什么都点不了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-207",
+    "chapter": "ch03",
+    "expression": "Can you screenshot that?",
+    "literalTranslation": "你能截屏那个吗？",
+    "naturalMeaning": "让对方截个图",
+    "example": "Can you screenshot that and send it to me?",
+    "exampleTranslation": "你能截个图发给我吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-208",
+    "chapter": "ch03",
+    "expression": "Scroll down",
+    "literalTranslation": "向下滚动",
+    "naturalMeaning": "往下翻页或滚动屏幕",
+    "example": "Scroll down to see the comments.",
+    "exampleTranslation": "往下翻看评论。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-209",
+    "chapter": "ch03",
+    "expression": "Go to settings",
+    "literalTranslation": "去设置",
+    "naturalMeaning": "进入设置菜单",
+    "example": "Go to settings and turn off notifications.",
+    "exampleTranslation": "去设置里关掉通知。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-210",
+    "chapter": "ch03",
+    "expression": "WiFi is down",
+    "literalTranslation": "WiFi断了",
+    "naturalMeaning": "无线网络连不上或出故障了",
+    "example": "The WiFi is down again. I can't work.",
+    "exampleTranslation": "WiFi又断了。我无法工作。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-211",
+    "chapter": "ch03",
+    "expression": "I need a charger",
+    "literalTranslation": "我需要一个充电器",
+    "naturalMeaning": "需要充电线或充电器",
+    "example": "Does anyone have a charger I can borrow?",
+    "exampleTranslation": "有人有充电器能借我用吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-212",
+    "chapter": "ch03",
+    "expression": "Can you send me the link?",
+    "literalTranslation": "你能把链接发给我吗？",
+    "naturalMeaning": "让对方分享链接",
+    "example": "That looks interesting, can you send me the link?",
+    "exampleTranslation": "看起来很有趣，你能把链接发给我吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-213",
+    "chapter": "ch03",
+    "expression": "Update is available",
+    "literalTranslation": "有可用更新",
+    "naturalMeaning": "系统或软件有新的更新版本",
+    "example": "There's a new update available for your phone.",
+    "exampleTranslation": "你的手机有一个新更新。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-214",
+    "chapter": "ch03",
+    "expression": "Turn it off and on again",
+    "literalTranslation": "关掉再打开",
+    "naturalMeaning": "重启，经典的IT解决方式",
+    "example": "Classic IT advice: turn it off and on again.",
+    "exampleTranslation": "经典IT建议：关机重启。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-215",
+    "chapter": "ch03",
+    "expression": "I'm on it",
+    "literalTranslation": "我在它上面",
+    "naturalMeaning": "我来处理，我正在处理中",
+    "example": "Can you fix this bug? I'm on it.",
+    "exampleTranslation": "你能修这个bug吗？我正在处理。",
+    "tags": [
+      "daily",
+      "workplace",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-216",
+    "chapter": "ch03",
+    "expression": "It won't turn on",
+    "literalTranslation": "它打不开",
+    "naturalMeaning": "设备无法启动或开机",
+    "example": "My laptop won't turn on, I think the battery is dead.",
+    "exampleTranslation": "我的笔记本电脑开不了机，我觉得电池没电了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-217",
+    "chapter": "ch03",
+    "expression": "Did you restart it?",
+    "literalTranslation": "你重启了吗？",
+    "naturalMeaning": "问对方是否已经重启过设备（解决技术问题的第一问）",
+    "example": "My internet is down. Did you restart the router?",
+    "exampleTranslation": "我上不了网了。你重启路由器了吗？",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-218",
+    "chapter": "ch03",
+    "expression": "Make yourself at home",
+    "literalTranslation": "把你自己弄得像在家一样",
+    "naturalMeaning": "别客气，像在自己家一样",
+    "example": "Come in, make yourself at home.",
+    "exampleTranslation": "进来，别客气像在自己家一样。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-219",
+    "chapter": "ch03",
+    "expression": "I'm beat",
+    "literalTranslation": "我被打了",
+    "naturalMeaning": "我累瘫了，非常疲惫",
+    "example": "I'm beat, going to bed early tonight.",
+    "exampleTranslation": "我累瘫了，今晚早点睡。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-220",
+    "chapter": "ch03",
+    "expression": "Hit the sack",
+    "literalTranslation": "打麻袋",
+    "naturalMeaning": "去睡觉了",
+    "example": "I'm gonna hit the sack, good night.",
+    "exampleTranslation": "我要睡觉去了，晚安。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-221",
+    "chapter": "ch03",
+    "expression": "Kick back",
+    "literalTranslation": "踢回来",
+    "naturalMeaning": "放松休息，什么都不做",
+    "example": "I'm just kicking back watching TV.",
+    "exampleTranslation": "我就躺着看电视放松。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-222",
+    "chapter": "ch03",
+    "expression": "Clean up after yourself",
+    "literalTranslation": "在自己后面清理",
+    "naturalMeaning": "自己收拾自己的东西",
+    "example": "Clean up after yourself when you're done.",
+    "exampleTranslation": "用完自己收拾干净。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-223",
+    "chapter": "ch03",
+    "expression": "Make yourself comfortable",
+    "literalTranslation": "把你自己弄得舒服",
+    "naturalMeaning": "随便坐，别拘束",
+    "example": "Make yourself comfortable, I'll be right back.",
+    "exampleTranslation": "你随便坐，我马上回来。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-224",
+    "chapter": "ch03",
+    "expression": "I'm heading out",
+    "literalTranslation": "我正在出去",
+    "naturalMeaning": "我要出门了，正要离开家",
+    "example": "I'm heading out, see you later.",
+    "exampleTranslation": "我要出门了，回头见。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-225",
+    "chapter": "ch03",
+    "expression": "Lock the door behind you",
+    "literalTranslation": "在你身后锁门",
+    "naturalMeaning": "出门时记得锁门",
+    "example": "Lock the door behind you when you leave.",
+    "exampleTranslation": "走的时候记得锁门。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-226",
+    "chapter": "ch03",
+    "expression": "What's for dinner?",
+    "literalTranslation": "晚餐是什么？",
+    "naturalMeaning": "晚上吃什么？最常说的家里的一句话",
+    "example": "What's for dinner? I'm starving.",
+    "exampleTranslation": "晚上吃什么？我饿死了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-227",
+    "chapter": "ch03",
+    "expression": "I'll do the dishes",
+    "literalTranslation": "我来做盘子",
+    "naturalMeaning": "我来洗碗",
+    "example": "You cooked, so I'll do the dishes.",
+    "exampleTranslation": "你做饭，我来洗碗。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-228",
+    "chapter": "ch03",
+    "expression": "I'm home",
+    "literalTranslation": "我在家",
+    "naturalMeaning": "我回来了（到家时喊一声）",
+    "example": "I'm home! Anybody here?",
+    "exampleTranslation": "我回来了！有人在家吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-229",
+    "chapter": "ch03",
+    "expression": "Take out the trash",
+    "literalTranslation": "把垃圾拿出去",
+    "naturalMeaning": "扔垃圾",
+    "example": "Can you take out the trash? It's full.",
+    "exampleTranslation": "你能把垃圾扔了吗？满了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-230",
+    "chapter": "ch03",
+    "expression": "The laundry needs to be done",
+    "literalTranslation": "洗衣服需要做了",
+    "naturalMeaning": "该洗衣服了",
+    "example": "The laundry needs to be done, I'm out of clean shirts.",
+    "exampleTranslation": "该洗衣服了，我没有干净衬衫了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-231",
+    "chapter": "ch03",
+    "expression": "Sort it out",
+    "literalTranslation": "把它分类出来",
+    "naturalMeaning": "把东西整理好或解决问题",
+    "example": "You need to sort out your closet this weekend.",
+    "exampleTranslation": "你这周末得把衣柜整理好。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-232",
+    "chapter": "ch03",
+    "expression": "I'm crashing at...",
+    "literalTranslation": "我在...那里坠毁",
+    "naturalMeaning": "在某人那里借宿过夜",
+    "example": "I'm crashing at my friend's place tonight.",
+    "exampleTranslation": "我今晚在朋友家借住。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-233",
+    "chapter": "ch03",
+    "expression": "Hunker down",
+    "literalTranslation": "蹲下来",
+    "naturalMeaning": "躲在家里不出门（恶劣天气或不想动时）",
+    "example": "It's storming outside, let's just hunker down.",
+    "exampleTranslation": "外面暴风雨，我们就待在家里吧。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-234",
+    "chapter": "ch03",
+    "expression": "Straighten up",
+    "literalTranslation": "弄直",
+    "naturalMeaning": "收拾整理房间或物品",
+    "example": "Straighten up your room before guests come.",
+    "exampleTranslation": "客人来之前把你房间收拾好。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-235",
+    "chapter": "ch03",
+    "expression": "I'm crashing",
+    "literalTranslation": "我要坠毁了",
+    "naturalMeaning": "我要睡觉了（极度疲惫想睡）",
+    "example": "I'm so tired, I'm crashing now.",
+    "exampleTranslation": "我太累了，现在就要睡。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-236",
+    "chapter": "ch03",
+    "expression": "We're out of...",
+    "literalTranslation": "我们用完了...",
+    "naturalMeaning": "某样东西用完了没有了",
+    "example": "We're out of milk, can you pick some up?",
+    "exampleTranslation": "我们牛奶喝完了，你能买一些吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-237",
+    "chapter": "ch03",
+    "expression": "Turn off the lights",
+    "literalTranslation": "关灯",
+    "naturalMeaning": "把灯关掉",
+    "example": "Turn off the lights when you leave the room.",
+    "exampleTranslation": "离开房间时把灯关掉。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-238",
+    "chapter": "ch03",
+    "expression": "I'm broke",
+    "literalTranslation": "我破产了",
+    "naturalMeaning": "我没钱了，手头紧",
+    "example": "I can't go out tonight, I'm broke.",
+    "exampleTranslation": "我今晚不能出去，我没钱了。",
+    "tags": [
+      "daily",
+      "high-frequency",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-239",
+    "chapter": "ch03",
+    "expression": "Pinch pennies",
+    "literalTranslation": "捏便士",
+    "naturalMeaning": "省吃俭用，非常节俭地生活",
+    "example": "I've been pinching pennies since I lost my job.",
+    "exampleTranslation": "自从失业以来我一直省吃俭用。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-240",
+    "chapter": "ch03",
+    "expression": "Live paycheck to paycheck",
+    "literalTranslation": "从发工资到发工资地活着",
+    "naturalMeaning": "月光族，每个月的工资刚好花完",
+    "example": "A lot of people are living paycheck to paycheck.",
+    "exampleTranslation": "很多人都是月光族。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-241",
+    "chapter": "ch03",
+    "expression": "Blow money on...",
+    "literalTranslation": "把钱吹在...上",
+    "naturalMeaning": "大手大脚花钱在某事上",
+    "example": "I blew my whole paycheck on the weekend trip.",
+    "exampleTranslation": "我把整张工资都花在周末旅行上了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-242",
+    "chapter": "ch03",
+    "expression": "Save up for...",
+    "literalTranslation": "为...存钱",
+    "naturalMeaning": "攒钱买某样东西",
+    "example": "I'm saving up for a new laptop.",
+    "exampleTranslation": "我在攒钱买新笔记本电脑。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-243",
+    "chapter": "ch03",
+    "expression": "It costs an arm and a leg",
+    "literalTranslation": "它花了一条胳膊和一条腿",
+    "naturalMeaning": "贵得离谱，非常昂贵",
+    "example": "The rent in this area costs an arm and a leg.",
+    "exampleTranslation": "这个区域的房租贵得离谱。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-244",
+    "chapter": "ch03",
+    "expression": "That's a good deal",
+    "literalTranslation": "那是个好交易",
+    "naturalMeaning": "很划算，价格合理",
+    "example": "Fifty bucks for all this? That's a good deal.",
+    "exampleTranslation": "这一共五十块？很划算。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-245",
+    "chapter": "ch03",
+    "expression": "We're on a budget",
+    "literalTranslation": "我们在一个预算上",
+    "naturalMeaning": "我们在控制预算，手头不宽裕",
+    "example": "We're on a budget this month, so no eating out.",
+    "exampleTranslation": "这个月我们在控制预算，所以不在外面吃饭。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-246",
+    "chapter": "ch03",
+    "expression": "Make ends meet",
+    "literalTranslation": "让两端接上",
+    "naturalMeaning": "勉强维持生计，收支刚好平衡",
+    "example": "I'm struggling to make ends meet with this salary.",
+    "exampleTranslation": "这点工资我很难维持生活。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-247",
+    "chapter": "ch03",
+    "expression": "Dip into savings",
+    "literalTranslation": "伸进存款里",
+    "naturalMeaning": "动用了储蓄金",
+    "example": "I had to dip into my savings for the car repair.",
+    "exampleTranslation": "我不得不动用存款来修车。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-248",
+    "chapter": "ch03",
+    "expression": "Pay off",
+    "literalTranslation": "付清",
+    "naturalMeaning": "还清债务或贷款",
+    "example": "I finally paid off my credit card debt.",
+    "exampleTranslation": "我终于还清了信用卡债务。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-249",
+    "chapter": "ch03",
+    "expression": "Living expenses",
+    "literalTranslation": "生活花费",
+    "naturalMeaning": "生活开销，日常花费",
+    "example": "The living expenses in the city are getting higher.",
+    "exampleTranslation": "这座城市的生活开销越来越高了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-250",
+    "chapter": "ch03",
+    "expression": "It's not worth it",
+    "literalTranslation": "它不值",
+    "naturalMeaning": "不值得，不划算",
+    "example": "A hundred bucks for a t-shirt? It's not worth it.",
+    "exampleTranslation": "一件T恤一百美元？不值。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-251",
+    "chapter": "ch03",
+    "expression": "I'm strapped",
+    "literalTranslation": "我被绑住了",
+    "naturalMeaning": "我手头紧，缺钱",
+    "example": "Can't go on vacation this year, I'm a little strapped.",
+    "exampleTranslation": "今年不能去度假了，手头有点紧。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-252",
+    "chapter": "ch03",
+    "expression": "How much does it run?",
+    "literalTranslation": "它跑多少钱？",
+    "naturalMeaning": "这个大概多少钱？（非正式问价）",
+    "example": "A used car like this, how much does it run?",
+    "exampleTranslation": "像这样的二手车，要多少钱？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-253",
+    "chapter": "ch03",
+    "expression": "Put it on my tab",
+    "literalTranslation": "把它放在我的账单上",
+    "naturalMeaning": "先记在我的账上，以后一起付",
+    "example": "Just put it on my tab, I'll settle up later.",
+    "exampleTranslation": "先记在我的账上，我以后一起结。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-254",
+    "chapter": "ch03",
+    "expression": "It's on the house",
+    "literalTranslation": "它在房子上",
+    "naturalMeaning": "店家免费赠送，不收钱",
+    "example": "Here's a free dessert, it's on the house.",
+    "exampleTranslation": "这个甜点免费赠送，店家请你的。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-255",
+    "chapter": "ch03",
+    "expression": "Splurge on...",
+    "literalTranslation": "挥霍在...上",
+    "naturalMeaning": "舍得花钱，奢侈一把",
+    "example": "I decided to splurge on a nice dinner for my birthday.",
+    "exampleTranslation": "我决定生日那天奢侈地吃顿好的。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-256",
+    "chapter": "ch03",
+    "expression": "It's a bargain",
+    "literalTranslation": "这是个便宜货",
+    "naturalMeaning": "太便宜了，捡到便宜了",
+    "example": "I got this jacket for ten bucks. It's a bargain.",
+    "exampleTranslation": "这件夹克我十块钱买的。太便宜了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-257",
+    "chapter": "ch03",
+    "expression": "Settle up",
+    "literalTranslation": "结清",
+    "naturalMeaning": "结账或把账算清",
+    "example": "Let's settle up before we leave.",
+    "exampleTranslation": "我们走之前把账结了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-258",
+    "chapter": "ch03",
+    "expression": "In a bit",
+    "literalTranslation": "一会儿之内",
+    "naturalMeaning": "过一会儿，不久之后",
+    "example": "I'll be there in a bit.",
+    "exampleTranslation": "我一会儿就到。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-259",
+    "chapter": "ch03",
+    "expression": "In no time",
+    "literalTranslation": "在没有时间里",
+    "naturalMeaning": "马上，很快，没多久",
+    "example": "I'll be done in no time.",
+    "exampleTranslation": "我马上就好。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-260",
+    "chapter": "ch03",
+    "expression": "What time works for you?",
+    "literalTranslation": "什么时间对你来说有用？",
+    "naturalMeaning": "你什么时间方便？",
+    "example": "We need to meet. What time works for you?",
+    "exampleTranslation": "我们需要见个面。你什么时间方便？",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-261",
+    "chapter": "ch03",
+    "expression": "Let's nail down a time",
+    "literalTranslation": "我们来钉住一个时间",
+    "naturalMeaning": "我们来敲定一个具体时间",
+    "example": "Let's nail down a time for the meeting.",
+    "exampleTranslation": "我们来敲定会议时间。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-262",
+    "chapter": "ch03",
+    "expression": "I'm running late",
+    "literalTranslation": "我在跑晚",
+    "naturalMeaning": "我要迟到了",
+    "example": "Sorry, I'm running late, traffic is terrible.",
+    "exampleTranslation": "抱歉我要迟到了，路上堵车严重。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-263",
+    "chapter": "ch03",
+    "expression": "I'm on my way",
+    "literalTranslation": "我在我的路上",
+    "naturalMeaning": "我在路上了，正在过去",
+    "example": "Don't start without me, I'm on my way.",
+    "exampleTranslation": "别先开始，我路上了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-264",
+    "chapter": "ch03",
+    "expression": "It's about time",
+    "literalTranslation": "这是关于时间",
+    "naturalMeaning": "差不多了，是时候了（通常带点不耐烦）",
+    "example": "You finally got here? It's about time!",
+    "exampleTranslation": "你总算来了？是时候了！",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-265",
+    "chapter": "ch03",
+    "expression": "Time flies",
+    "literalTranslation": "时间飞",
+    "naturalMeaning": "时间过得真快",
+    "example": "Time flies when you're having fun.",
+    "exampleTranslation": "开心的时候时间过得真快。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-266",
+    "chapter": "ch03",
+    "expression": "Kill time",
+    "literalTranslation": "杀时间",
+    "naturalMeaning": "打发时间，消磨时间",
+    "example": "We have an hour to kill before the movie.",
+    "exampleTranslation": "电影开始前我们有一小时要打发。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-267",
+    "chapter": "ch03",
+    "expression": "In the nick of time",
+    "literalTranslation": "在时间刻痕里",
+    "naturalMeaning": "在最后一刻，刚刚好赶上",
+    "example": "We got there in the nick of time.",
+    "exampleTranslation": "我们在最后一刻赶到了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-268",
+    "chapter": "ch03",
+    "expression": "Day in, day out",
+    "literalTranslation": "一天进，一天出",
+    "naturalMeaning": "日复一日，每天都在重复同样的事",
+    "example": "I do the same thing day in, day out.",
+    "exampleTranslation": "我日复一日做着同样的事。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-269",
+    "chapter": "ch03",
+    "expression": "Every once in a while",
+    "literalTranslation": "每隔一阵子",
+    "naturalMeaning": "偶尔，偶尔有时候",
+    "example": "I go to the movies every once in a while.",
+    "exampleTranslation": "我偶尔去看电影。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-270",
+    "chapter": "ch03",
+    "expression": "On the dot",
+    "literalTranslation": "在点上",
+    "naturalMeaning": "准时，整点，分秒不差",
+    "example": "The meeting starts at 9 AM on the dot.",
+    "exampleTranslation": "会议上午九点整开始。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-271",
+    "chapter": "ch03",
+    "expression": "Ahead of schedule",
+    "literalTranslation": "在日程前面",
+    "naturalMeaning": "比计划提前",
+    "example": "We finished the project ahead of schedule.",
+    "exampleTranslation": "我们提前完成了项目。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-272",
+    "chapter": "ch03",
+    "expression": "Behind schedule",
+    "literalTranslation": "在日程后面",
+    "naturalMeaning": "比计划晚，延误了",
+    "example": "We're behind schedule on this project.",
+    "exampleTranslation": "我们这个项目落后于计划了。",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-273",
+    "chapter": "ch03",
+    "expression": "It's been ages",
+    "literalTranslation": "已经很多年了",
+    "naturalMeaning": "很久了，很长时间没做或没见了",
+    "example": "It's been ages since I've seen you.",
+    "exampleTranslation": "我好久没见到你了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-274",
+    "chapter": "ch03",
+    "expression": "Better late than never",
+    "literalTranslation": "迟到总比不到好",
+    "naturalMeaning": "迟做总比不做好",
+    "example": "You finally returned my book. Better late than never.",
+    "exampleTranslation": "你终于还我书了。迟做总比不做好。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-275",
+    "chapter": "ch03",
+    "expression": "All day",
+    "literalTranslation": "一整天",
+    "naturalMeaning": "全天，一整天的时间",
+    "example": "I've been at work all day.",
+    "exampleTranslation": "我工作了一整天。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-276",
+    "chapter": "ch03",
+    "expression": "All the time",
+    "literalTranslation": "所有时间",
+    "naturalMeaning": "总是，一直，经常",
+    "example": "I listen to music all the time.",
+    "exampleTranslation": "我总在听音乐。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-277",
+    "chapter": "ch03",
+    "expression": "Down to the wire",
+    "literalTranslation": "到钢丝上",
+    "naturalMeaning": "到了最后一刻，在截止日期前最后时刻完成",
+    "example": "We took it down to the wire but submitted on time.",
+    "exampleTranslation": "我们赶到了最后一刻但按时提交了。",
+    "tags": [
+      "workplace",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-278",
+    "chapter": "ch03",
+    "expression": "Call 911",
+    "literalTranslation": "打911",
+    "naturalMeaning": "拨打紧急电话",
+    "example": "Someone's hurt! Call 911!",
+    "exampleTranslation": "有人受伤了！打911！",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-279",
+    "chapter": "ch03",
+    "expression": "Are you okay?",
+    "literalTranslation": "你还好吗？",
+    "naturalMeaning": "问是否受伤或安全",
+    "example": "Are you okay? I heard a loud noise.",
+    "exampleTranslation": "你没事吧？我听到了巨响。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-280",
+    "chapter": "ch03",
+    "expression": "I need help",
+    "literalTranslation": "我需要帮助",
+    "naturalMeaning": "求救，需要帮助",
+    "example": "I need help, can someone call an ambulance?",
+    "exampleTranslation": "我需要帮助，谁能叫一辆救护车？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-281",
+    "chapter": "ch03",
+    "expression": "There's an emergency",
+    "literalTranslation": "有个紧急情况",
+    "naturalMeaning": "有紧急事情发生",
+    "example": "There's an emergency, we need to evacuate.",
+    "exampleTranslation": "有紧急情况，我们需要疏散。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-282",
+    "chapter": "ch03",
+    "expression": "Watch out",
+    "literalTranslation": "往外看",
+    "naturalMeaning": "小心！注意危险！",
+    "example": "Watch out! There's a car coming.",
+    "exampleTranslation": "小心！有辆车过来了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-283",
+    "chapter": "ch03",
+    "expression": "Stay back",
+    "literalTranslation": "往后退",
+    "naturalMeaning": "保持安全距离，后退",
+    "example": "Stay back from the fire.",
+    "exampleTranslation": "远离火源。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-284",
+    "chapter": "ch03",
+    "expression": "Get down",
+    "literalTranslation": "下来",
+    "naturalMeaning": "蹲下或卧倒躲避危险",
+    "example": "Get down! There's shooting.",
+    "exampleTranslation": "蹲下！有枪击。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-285",
+    "chapter": "ch03",
+    "expression": "I got hurt",
+    "literalTranslation": "我受伤了",
+    "naturalMeaning": "我受伤了",
+    "example": "I got hurt playing basketball.",
+    "exampleTranslation": "我打篮球时受伤了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-286",
+    "chapter": "ch03",
+    "expression": "Call an ambulance",
+    "literalTranslation": "叫救护车",
+    "naturalMeaning": "叫救护车来",
+    "example": "Someone call an ambulance, she's not breathing.",
+    "exampleTranslation": "谁叫一下救护车，她不能呼吸了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-287",
+    "chapter": "ch03",
+    "expression": "It's an emergency",
+    "literalTranslation": "这是紧急情况",
+    "naturalMeaning": "声明事情紧急",
+    "example": "It's an emergency, I need to talk to you.",
+    "exampleTranslation": "这是紧急情况，我得跟你谈谈。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-288",
+    "chapter": "ch03",
+    "expression": "What happened?",
+    "literalTranslation": "发生了什么？",
+    "naturalMeaning": "发生了什么事？问状况",
+    "example": "What happened? Are you okay?",
+    "exampleTranslation": "发生什么事了？你没事吧？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-289",
+    "chapter": "ch03",
+    "expression": "I can't find my...",
+    "literalTranslation": "我找不到我的...",
+    "naturalMeaning": "我的...不见了，找不到了",
+    "example": "I can't find my wallet, I think it was stolen.",
+    "exampleTranslation": "我找不到我的钱包了，可能被偷了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-290",
+    "chapter": "ch03",
+    "expression": "I lost my phone",
+    "literalTranslation": "我丢了手机",
+    "naturalMeaning": "手机丢失了",
+    "example": "I lost my phone, can I use yours to call it?",
+    "exampleTranslation": "我手机丢了，能用你的打一下吗？",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-291",
+    "chapter": "ch03",
+    "expression": "There's a fire",
+    "literalTranslation": "有一个火",
+    "naturalMeaning": "着火了",
+    "example": "There's a fire in the kitchen, call 911!",
+    "exampleTranslation": "厨房着火了，快打911！",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-292",
+    "chapter": "ch03",
+    "expression": "Is anyone hurt?",
+    "literalTranslation": "有人受伤吗？",
+    "naturalMeaning": "确认是否有人员伤亡",
+    "example": "Is anyone hurt? Does anyone need medical attention?",
+    "exampleTranslation": "有人受伤吗？有人需要医疗救助吗？",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-293",
+    "chapter": "ch03",
+    "expression": "I can't breathe",
+    "literalTranslation": "我不能呼吸",
+    "naturalMeaning": "我喘不上气，呼吸困难",
+    "example": "I can't breathe, call a doctor.",
+    "exampleTranslation": "我喘不上气，叫医生。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-294",
+    "chapter": "ch03",
+    "expression": "Take cover",
+    "literalTranslation": "找掩护",
+    "naturalMeaning": "躲避危险（如龙卷风、枪击等）",
+    "example": "Take cover! There's a tornado coming.",
+    "exampleTranslation": "找掩护！龙卷风来了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ch03-295",
+    "chapter": "ch03",
+    "expression": "It could be worse",
+    "literalTranslation": "它可能更糟",
+    "naturalMeaning": "还算好的，本可能更糟糕",
+    "example": "We only lost power, it could be worse.",
+    "exampleTranslation": "只是停电了，还算好的。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-296",
+    "chapter": "ch03",
+    "expression": "Everything's under control",
+    "literalTranslation": "一切都在控制之下",
+    "naturalMeaning": "一切都在掌控中，情况稳定",
+    "example": "Don't worry, everything's under control now.",
+    "exampleTranslation": "别担心，现在一切都稳定了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-297",
+    "chapter": "ch03",
+    "expression": "I need a doctor",
+    "literalTranslation": "我需要一个医生",
+    "naturalMeaning": "需要医疗救助",
+    "example": "I need a doctor, I think I broke my arm.",
+    "exampleTranslation": "我需要看医生，我好像胳膊骨折了。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ch03-298",
+    "chapter": "ch03",
+    "expression": "We're safe",
+    "literalTranslation": "我们安全了",
+    "naturalMeaning": "宣告已经安全",
+    "example": "We're safe now, the police are here.",
+    "exampleTranslation": "我们现在安全了，警察来了。",
+    "tags": [
+      "daily",
+      "casual"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ch03-299",
+    "chapter": "ch03",
+    "expression": "Is everyone accounted for?",
+    "literalTranslation": "每个人都对上了吗？",
+    "naturalMeaning": "所有人都到了吗？确认没人失踪",
+    "example": "Is everyone accounted for after the evacuation?",
+    "exampleTranslation": "疏散后所有人都到齐了吗？",
+    "tags": [
+      "daily",
+      "workplace"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ch03-300",
+    "chapter": "ch03",
+    "expression": "Stay calm",
+    "literalTranslation": "保持冷静",
+    "naturalMeaning": "保持镇定，别慌",
+    "example": "Stay calm, help is on the way.",
+    "exampleTranslation": "保持冷静，救援马上就到。",
+    "tags": [
+      "daily",
+      "high-frequency"
+    ],
+    "frequency": 4
+  }
+]
